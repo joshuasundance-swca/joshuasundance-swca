@@ -1,6 +1,6 @@
 # Joshua Sundance Bailey
 
-**Senior Data Scientist** [@swca](https://github.com/swca)
+**Senior Data Scientist** at SWCA Environmental Consultants [(@swca)](https://github.com/swca)
 
 [![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue)](https://swca.com/)
 
