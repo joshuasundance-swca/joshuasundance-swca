@@ -19,8 +19,6 @@
 
 ![Too Many badges](/too-many-badges.svg)
 
-**Senior Data Scientist** at SWCA Environmental Consultants
-
 ![Metrics](/github-metrics.svg)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuasundance-swca" alt="joshuasundance-swca" /></a>
