@@ -3,6 +3,8 @@
 [![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue)](https://swca.com/)
 [![UCF](https://img.shields.io/badge/UCF-Knight-gold)](https://www.ucf.edu/)
 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsundance)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/210890420387840003)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@sundance)
 
