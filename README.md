@@ -20,10 +20,21 @@
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 
+[![ai-changelog on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fai-changelog%2Fjson&query=%24.info.version&label=ai-changelog&logo=PyPI)](https://pypi.org/project/ai-changelog/)
+[![restgdf on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Frestgdf%2Fjson&query=%24.info.version&label=restgdf&logo=PyPI)](https://pypi.org/project/restgdf/)
+[![dataframe-handlers on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fdataframe-handlers%2Fjson&query=%24.info.version&label=dataframe-handlers&logo=PyPI)](https://pypi.org/project/dataframe-handlers/)
+
+[![ai_changelog on Docker Hub](https://img.shields.io/docker/v/joshuasundance/ai_changelog?label=ai_changelog&logo=docker)](https://hub.docker.com/r/joshuasundance/ai_changelog)
+[![langchain-streamlit-demo on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-streamlit-demo?label=langchain-streamlit-demo&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-streamlit-demo)
+[![geospatial-data-converter on Docker Hub](https://img.shields.io/docker/v/joshuasundance/geospatial-data-converter?label=geospatial-data-converter&logo=docker)](https://hub.docker.com/r/joshuasundance/geospatial-data-converter)
+[![arcgis-api-python-notebook on Docker Hub](https://img.shields.io/docker/v/joshuasundance/arcgis-api-python-notebook?label=arcgis-api-python-notebook&logo=docker)](https://hub.docker.com/r/joshuasundance/arcgis-api-python-notebook)
+
 
 [![HuggingFace](https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg)](https://huggingface.co/joshuasundance)
 
-![Too Many Badges](https://img.shields.io/badge/Badges-Too_Many-red?style=for-the-badge)
+![Tests Passing](https://img.shields.io/badge/Tests-Passing-green?style=for-the-badge)
+![Mood Good](https://img.shields.io/badge/Mood-Good-green?style=for-the-badge)
+![Badges Too Many](https://img.shields.io/badge/Badges-Too_Many-red?style=for-the-badge)
 
 ![Metrics](/github-metrics.svg)
 
