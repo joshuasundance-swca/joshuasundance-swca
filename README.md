@@ -1,4 +1,4 @@
-# Joshua Sundance Baile
+# Joshua Sundance Bailey
 
 <a rel="me" href="https://fosstodon.org/@sundance"></a>
 
