@@ -27,7 +27,7 @@ jobs:
 
           # Options
           user: joshuasundance-swca
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           plugin_achievements: yes
