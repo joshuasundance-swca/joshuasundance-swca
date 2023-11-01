@@ -47,9 +47,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/run-llama/chat-llamaindex/pull/13) in [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
-2. 🎉 Merged PR [#17](https://github.com/joshuasundance-swca/repo-template-testing/pull/17) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-3. 🎉 Merged PR [#18](https://github.com/joshuasundance-swca/repo-template-testing/pull/18) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-4. 🎉 Merged PR [#66](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/66) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-5. 💪 Opened PR [#66](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/66) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+1. 💪 Opened PR [#68](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/68) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. 🎉 Merged PR [#67](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/67) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+3. 💪 Opened PR [#67](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/67) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+4. 💪 Opened PR [#13](https://github.com/run-llama/chat-llamaindex/pull/13) in [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
+5. 🎉 Merged PR [#17](https://github.com/joshuasundance-swca/repo-template-testing/pull/17) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
 <!--END_SECTION:activity-->
