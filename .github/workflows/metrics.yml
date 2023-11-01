@@ -31,6 +31,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           config_order: code, base.header, base.activity+community, base.repositories, notable, stargazers, people, habits, activity, followup, languages, isocalendar, achievements
+          users_ignored: github-actions[bot]
+          repositories_skipped: joshuasundance-swca
+          commits_authoring: joshuasundance, joshuasundance-swca
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
