@@ -20,6 +20,9 @@
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 
+
+[![HuggingFace](https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg)](https://huggingface.co/joshuasundance)
+
 ![Too Many Badges](https://img.shields.io/badge/Badges-Too_Many-red?style=for-the-badge)
 
 ![Metrics](/github-metrics.svg)
