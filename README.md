@@ -3,6 +3,9 @@
 [![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue)](https://swca.com/)
 [![UCF](https://img.shields.io/badge/UCF-Knight-gold)](https://www.ucf.edu/)
 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@sundance)
+
+
 [![Powered by Energy Drinks](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
