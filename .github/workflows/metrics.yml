@@ -1,11 +1,8 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # push: {branches: ["main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,18 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.WORKFLOW_GIT_ACCESS_TOKEN }}
-
-          # Options
           user: joshuasundance-swca
           template: classic
           base: header, activity, community, repositories, metadata
@@ -51,7 +37,7 @@ jobs:
           plugin_code_visibility: public
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: repositories, user
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -75,7 +61,8 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          plugin_lines_sections: base, repositories, history
+          plugin_lines_delay: 30
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
@@ -83,9 +70,9 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          # plugin_repositories: no
-          # plugin_repositories_pinned: no
-          # plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories: no
+          plugin_repositories_pinned: 4
+          plugin_repositories_order: featured, pinned, starred, random
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
