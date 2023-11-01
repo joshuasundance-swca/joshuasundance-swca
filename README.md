@@ -8,6 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/210890420387840003)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@sundance)
 
+<a rel="me" href="https://fosstodon.org/@sundance"></a>
+
 [![Powered by Energy Drinks](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
