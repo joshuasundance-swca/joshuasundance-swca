@@ -79,7 +79,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-          plugin_notable_repositories: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
