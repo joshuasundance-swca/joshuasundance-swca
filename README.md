@@ -1,7 +1,5 @@
 # Joshua Sundance Bailey
 
-<a rel="me" href="https://fosstodon.org/@sundance"></a>
-
 [![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue?style=for-the-badge)](https://swca.com/)
 [![UCF](https://img.shields.io/badge/UCF-Knight-gold?style=for-the-badge)](https://www.ucf.edu/)
 
