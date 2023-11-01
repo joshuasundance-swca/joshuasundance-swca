@@ -1,12 +1,18 @@
 # Joshua Sundance Bailey
 
-**Senior Data Scientist**<br>SWCA Environmental Consultants [(@swca)](https://github.com/swca)
+[![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue)](https://swca.com/)
+[![UCF](https://img.shields.io/badge/UCF-Knight-yellow)](https://www.ucf.edu/)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v1.json)](https://github.com/charliermarsh/ruff)
+[![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
-[![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue?style=for-the-badge)](https://swca.com/)
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuasundance-swca" alt="joshuasundance-swca" /></a>
+**Senior Data Scientist** at SWCA Environmental Consultants
 
 ![Metrics](/github-metrics.svg)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuasundance-swca" alt="joshuasundance-swca" /></a>
 
 ## Repo Contributions
 
