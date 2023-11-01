@@ -1,7 +1,7 @@
 # Joshua Sundance Bailey
 
 [![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue)](https://swca.com/)
-[![UCF](https://img.shields.io/badge/UCF-Knight-yellow)](https://www.ucf.edu/)
+[![UCF](https://img.shields.io/badge/UCF-Knight-gold)](https://www.ucf.edu/)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v1.json)](https://github.com/charliermarsh/ruff)
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
