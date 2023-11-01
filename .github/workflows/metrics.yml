@@ -30,7 +30,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          config_order: base.header, base.activity+community, base.repositories, code,  stargazers, people,habits, notable, activity, followup, languages, achievements, isocalendar
+          config_order: code, base.header, base.activity+community, base.repositories, notable, stargazers, people, habits, activity, followup, languages, isocalendar, achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
