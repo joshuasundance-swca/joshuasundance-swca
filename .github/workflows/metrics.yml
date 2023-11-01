@@ -27,7 +27,7 @@ jobs:
 
           # Options
           user: joshuasundance-swca
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           plugin_achievements: yes
@@ -80,6 +80,7 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_repositories: yes
+          plugin_repositories_pinned: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
