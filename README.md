@@ -1,7 +1,7 @@
 # Joshua Sundance Bailey
 
-[![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue)](https://swca.com/)
-[![UCF](https://img.shields.io/badge/UCF-Knight-gold)](https://www.ucf.edu/)
+[![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue?style=for-the-badge)](https://swca.com/)
+[![UCF](https://img.shields.io/badge/UCF-Knight-gold?style=for-the-badge)](https://www.ucf.edu/)
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsundance)
