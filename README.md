@@ -4,9 +4,13 @@
 
 [![SWCA Environmental Consultants: Sound Science, Creative Solutions](https://img.shields.io/badge/Sound_Science-Creative_Solutions-blue?style=for-the-badge)](https://swca.com/)
 
-## Trophies
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuasundance-swca" alt="joshuasundance-swca" /></a>
+
+![Metrics](/github-metrics.svg)
+
+## Repo Contributions
+
+![joshuasundance-swca's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=joshuasundance-swca&combine_all_yearly_contributions=true&hide_title=true)
 
 ## Recent Activity
 
@@ -17,11 +21,3 @@
 4. 🎉 Merged PR [#66](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/66) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
 5. 💪 Opened PR [#66](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/66) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
 <!--END_SECTION:activity-->
-
-## Repo Contributions
-
-![joshuasundance-swca's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=joshuasundance-swca&combine_all_yearly_contributions=true&hide_title=true)
-
-## Metrics
-
-![Metrics](/github-metrics.svg)
