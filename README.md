@@ -47,9 +47,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/joshuasundance-swca/restgdf/pull/22) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-2. 💪 Opened PR [#22](https://github.com/joshuasundance-swca/restgdf/pull/22) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-3. 💪 Opened PR [#74](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/74) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-4. 💪 Opened PR [#70](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/70) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-5. ❌ Closed PR [#68](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/68) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+1. ❌ Closed PR [#74](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/74) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. ❌ Closed PR [#70](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/70) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+3. 🎉 Merged PR [#78](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/78) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+4. 🎉 Merged PR [#25](https://github.com/joshuasundance-swca/restgdf/pull/25) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+5. 💪 Opened PR [#78](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/78) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
 <!--END_SECTION:activity-->
