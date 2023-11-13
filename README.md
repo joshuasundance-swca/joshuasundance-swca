@@ -25,6 +25,7 @@
 [![dataframe-handlers on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fdataframe-handlers%2Fjson&query=%24.info.version&label=dataframe-handlers&logo=PyPI)](https://pypi.org/project/dataframe-handlers/)
 
 [![ai_changelog on Docker Hub](https://img.shields.io/docker/v/joshuasundance/ai_changelog?label=ai_changelog&logo=docker)](https://hub.docker.com/r/joshuasundance/ai_changelog)
+[![restgdf_api on Docker Hub](https://img.shields.io/docker/v/joshuasundance/restgdf_api?label=restgdf_api&logo=docker)](https://hub.docker.com/r/joshuasundance/restgdf_api)
 [![langchain-streamlit-demo on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-streamlit-demo?label=langchain-streamlit-demo&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-streamlit-demo)
 [![geospatial-data-converter on Docker Hub](https://img.shields.io/docker/v/joshuasundance/geospatial-data-converter?label=geospatial-data-converter&logo=docker)](https://hub.docker.com/r/joshuasundance/geospatial-data-converter)
 [![arcgis-api-python-notebook on Docker Hub](https://img.shields.io/docker/v/joshuasundance/arcgis-api-python-notebook?label=arcgis-api-python-notebook&logo=docker)](https://hub.docker.com/r/joshuasundance/arcgis-api-python-notebook)
