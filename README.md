@@ -48,9 +48,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/joshuasundance-swca/restgdf/pull/34) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-2. ❗ Opened issue [#7841](https://github.com/aio-libs/aiohttp/issues/7841) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-3. 💪 Opened PR [#34](https://github.com/joshuasundance-swca/restgdf/pull/34) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-4. 🎉 Merged PR [#23](https://github.com/joshuasundance-swca/repo-template-testing/pull/23) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-5. 💪 Opened PR [#23](https://github.com/joshuasundance-swca/repo-template-testing/pull/23) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+1. 🎉 Merged PR [#36](https://github.com/joshuasundance-swca/restgdf/pull/36) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+2. 💪 Opened PR [#36](https://github.com/joshuasundance-swca/restgdf/pull/36) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+3. 🗣 Commented on [#7841](https://github.com/aio-libs/aiohttp/issues/7841#issuecomment-1811090272) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+4. 🎉 Merged PR [#35](https://github.com/joshuasundance-swca/restgdf/pull/35) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+5. 💪 Opened PR [#35](https://github.com/joshuasundance-swca/restgdf/pull/35) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
 <!--END_SECTION:activity-->
