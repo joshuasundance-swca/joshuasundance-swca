@@ -29,6 +29,7 @@
 [![langchain-streamlit-demo on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-streamlit-demo?label=langchain-streamlit-demo&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-streamlit-demo)
 [![geospatial-data-converter on Docker Hub](https://img.shields.io/docker/v/joshuasundance/geospatial-data-converter?label=geospatial-data-converter&logo=docker)](https://hub.docker.com/r/joshuasundance/geospatial-data-converter)
 [![arcgis-api-python-notebook on Docker Hub](https://img.shields.io/docker/v/joshuasundance/arcgis-api-python-notebook?label=arcgis-api-python-notebook&logo=docker)](https://hub.docker.com/r/joshuasundance/arcgis-api-python-notebook)
+[![postgis_pgvector on Docker Hub](https://img.shields.io/docker/v/joshuasundance/postgis_pgvector?label=postgis_pgvector&logo=docker)](https://hub.docker.com/r/joshuasundance/postgis_pgvector)
 
 
 [![HuggingFace](https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg)](https://huggingface.co/joshuasundance)
