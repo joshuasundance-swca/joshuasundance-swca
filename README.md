@@ -50,9 +50,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/run-llama/chat-llamaindex/pull/13#issuecomment-1828770481) in [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
-2. 🗣 Commented on [#1](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/1#issuecomment-1828767836) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
-3. ❌ Closed PR [#1](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/1) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
-4. 🎉 Merged PR [#18](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/18) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-5. 🎉 Merged PR [#19](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/19) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+1. 🎉 Merged PR [#1](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/1) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+2. 💪 Opened PR [#1](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/1) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+3. 🗣 Commented on [#13](https://github.com/run-llama/chat-llamaindex/pull/13#issuecomment-1828770481) in [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
+4. 🗣 Commented on [#1](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/1#issuecomment-1828767836) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+5. ❌ Closed PR [#1](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/1) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
 <!--END_SECTION:activity-->
