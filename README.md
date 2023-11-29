@@ -50,9 +50,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/joshuasundance-swca/nonprofit-grader/pull/2) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-2. 🎉 Merged PR [#1](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/1) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
-3. 💪 Opened PR [#1](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/1) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
-4. 🗣 Commented on [#13](https://github.com/run-llama/chat-llamaindex/pull/13#issuecomment-1828770481) in [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
-5. 🗣 Commented on [#1](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/1#issuecomment-1828767836) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+1. 🗣 Commented on [#87](https://github.com/langchain-ai/opengpts/pull/87#issuecomment-1832195640) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+2. ❌ Closed PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+3. 💪 Opened PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+4. 💪 Opened PR [#2](https://github.com/joshuasundance-swca/nonprofit-grader/pull/2) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+5. 🎉 Merged PR [#1](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/1) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
 <!--END_SECTION:activity-->
