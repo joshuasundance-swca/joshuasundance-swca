@@ -50,9 +50,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/langchain-ai/opengpts/pull/87#issuecomment-1832195640) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
-2. ❌ Closed PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
-3. 💪 Opened PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
-4. 💪 Opened PR [#2](https://github.com/joshuasundance-swca/nonprofit-grader/pull/2) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. 🎉 Merged PR [#1](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/1) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+1. 🎉 Merged PR [#92](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/92) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. 💪 Opened PR [#92](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/92) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+3. 🗣 Commented on [#87](https://github.com/langchain-ai/opengpts/pull/87#issuecomment-1832195640) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+4. ❌ Closed PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+5. 💪 Opened PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
 <!--END_SECTION:activity-->
