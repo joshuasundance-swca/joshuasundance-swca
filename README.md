@@ -50,9 +50,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/92) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-2. 💪 Opened PR [#92](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/92) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-3. 🗣 Commented on [#87](https://github.com/langchain-ai/opengpts/pull/87#issuecomment-1832195640) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
-4. ❌ Closed PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
-5. 💪 Opened PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+1. ❌ Closed PR [#3](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/3) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+2. 🎉 Merged PR [#92](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/92) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+3. 💪 Opened PR [#92](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/92) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+4. 🗣 Commented on [#87](https://github.com/langchain-ai/opengpts/pull/87#issuecomment-1832195640) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+5. ❌ Closed PR [#87](https://github.com/langchain-ai/opengpts/pull/87) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
 <!--END_SECTION:activity-->
