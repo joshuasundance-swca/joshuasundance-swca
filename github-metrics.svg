@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4259" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3416" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audit.text{min-width:42px}.audit svg{margin:0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats{margin-left:4px;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.sponsors{white-space:normal;margin:0 13px 2px}.sponsors .avatar{margin:2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}.markdown blockquote{border-left:4px solid #7777771f;color:#777;margin:0;padding-left:16px}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.namespace{color:#b44418}.token.regex,.token.string{color:#2777aa}.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats{margin-left:4px;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">joshuasundance-swca/ai_changelog</span>
+                            <span class="blue space">joshuasundance-swca/geospatial-data-converter</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 5 Dec 2023, 10:06:49
+                            On 5 Dec 2023, 16:12:25
                         </div>
                     </section>
                 </div>
@@ -38,16 +38,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update AI Changelog
+                            numpy &amp; docker startup
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">9a528c20</span>
-                            <span class="code">AI_CHANGELOG-claude-2.md</span>
+                            <span class="code">6f8b9778</span>
+                            <span class="code">requirements.txt</span>
                             <span class="code">
-                                <span class="snippet additions">++5</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,4 +1,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># AI CHANGELOG<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">## [Upgrade dependencies](https://github.com/joshuasundance-swca/ai_changelog/commit/fa3079be09dacbcee4b445855f7d6900a37dbd59)<br /></span><span class="token prefix inserted">+</span><span class="token line">Tue Dec 5 10:05:39 2023 -0500<br /></span><span class="token prefix inserted">+</span><span class="token line">- Upgrade Anthropic to 0.7.7<br /></span><span class="token prefix inserted">+</span><span class="token line">- Upgrade LangChain to 0.0.345<br /></span><span class="token prefix inserted">+</span><span class="token line">- Upgrade OpenAI to 1.3.7<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">## [Upgrade LangChain dependency](https://github.com/joshuasundance-swca/ai_changelog/commit/359441267c33f8e3d7d69be9273c2e5b9c79ca4a)<br /></span><span class="token prefix unchanged">·</span><span class="token line">Mon Nov 27 17:36:31 2023 -0500<br /></span><span class="token prefix unchanged">·</span><span class="token line">- Bump LangChain version from 0.0.340 to 0.0.341</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2,6 +2,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">beautifulsoup4==4.12.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">geopandas==0.14.1<br /></span><span class="token prefix unchanged">·</span><span class="token line">lxml==4.9.3<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">numpy==1.26.2  # pinned for snyk<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">pyogrio==0.7.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">restgdf==0.9.7<br /></span><span class="token prefix unchanged">·</span><span class="token line">streamlit==1.29.0</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -98,7 +98,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -124,7 +124,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3424 Commits
+                            3433 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -136,7 +136,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            172 Pull requests opened
+                            174 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -149,7 +149,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            40 issue comments
+                            41 issue comments
                         </div>
                     </section>
                     <section>
@@ -226,13 +226,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    107 MB used
+                                    108 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    73.2k added, 37.6k removed
+                                    39.7k added, 7.22k removed
                                 </div>
                             </section>
                             <section>
@@ -264,7 +264,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.62k views in last two weeks
+                                    1.66k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -526,12 +526,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 99 commits)</small>
+                    <small class="h-details">(computed from last 93 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 75.7 characters per line of code written</li>
+                        <li>Has approximately 64.3 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -550,37 +550,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">swca/BERTopic</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d07e1e</div>
-                                        <div class="message">Update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d267c0e</div>
-                                        <div class="message">Update docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61a2cd2</div>
-                                        <div class="message">v0.16 (#1572)
-
-* Zeroshot Topic Modeling
-* Seed (domain-specific) words
-* More LLM documentation, including Zephyr example
-* Add support for Cohere's Embed v3
-* Added llama.cpp
-* Added HUGE changelog and up version for upcoming release</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcb3ca2</div>
-                                        <div class="message">Correct TopicMapper doc example (#1637)</div>
+                                        Created new
+                      tag
+                                        <span class="code">1.0.0</span>
+                                        in
+                                        <span class="repo">joshuasundance-swca/geospatial-data-converter</span>
                                     </div>
                                 </div>
                             </section>
@@ -592,986 +569,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 69 commits in
-                                        <span class="repo">swca/langsmith-sdk</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">joshuasundance-swca/geospatial-data-converter</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#97f835f</div>
-                                        <div class="message">Add eager flag; bump (#264)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e88476</div>
-                                        <div class="message">Wfh/update js license (#260)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ac0e62</div>
-                                        <div class="message">Wfh/share dataset (#261)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81100a2</div>
-                                        <div class="message">Bump dev dep (#259)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2572ebd</div>
-                                        <div class="message">Bump urllib3 from 2.0.2 to 2.0.7 in /python (#258)
-
-Bumps [urllib3](https://github.com/urllib3/urllib3) from 2.0.2 to 2.0.7.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/urllib3/urllib3/releases"&gt;urllib3's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;2.0.7&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Made body stripped from HTTP requests changing the request method to
-GET after HTTP 303 &amp;quot;See Other&amp;quot; redirect responses.
-(GHSA-g4mx-q9vg-27p4)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;2.0.6&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the &lt;code&gt;Cookie&lt;/code&gt; header to the list of headers to strip
-from requests when redirecting to a different host. As before, different
-headers can be set via &lt;code&gt;Retry.remove_headers_on_redirect&lt;/code&gt;.
-(GHSA-v845-jxx5-vc9f)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;2.0.5&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Allowed pyOpenSSL third-party module without any deprecation
-warning. &lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3126"&gt;#3126&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fixed default &lt;code&gt;blocksize&lt;/code&gt; of &lt;code&gt;HTTPConnection&lt;/code&gt;
-classes to match high-level classes. Previously was 8KiB, now 16KiB. &lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3066%3E"&gt;#3066&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;2.0.4&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added support for union operators to &lt;code&gt;HTTPHeaderDict&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/2254"&gt;#2254&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;BaseHTTPResponse&lt;/code&gt; to &lt;code&gt;urllib3.__all__&lt;/code&gt;
-(&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3078"&gt;#3078&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;urllib3.connection.HTTPConnection&lt;/code&gt; to raise the
-&lt;code&gt;http.client.connect&lt;/code&gt; audit event to have the same behavior
-as the standard library HTTP client (&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/2757"&gt;#2757&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Relied on the standard library for checking hostnames in supported
-PyPy releases (&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3087"&gt;#3087&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;2.0.3&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Allowed alternative SSL libraries such as LibreSSL, while still
-issuing a warning as we cannot help users facing issues with
-implementations other than OpenSSL. &lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3020"&gt;#3020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Deprecated URLs which don't have an explicit scheme &lt;a
-href="https://redirect.github.com/urllib3/urllib3/pull/2950"&gt;#2950&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fixed response decoding with Zstandard when compressed data is made
-of several frames. &lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3008"&gt;#3008&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;assert_hostname=False&lt;/code&gt; to correctly skip hostname
-check. &lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3051"&gt;#3051&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/urllib3/urllib3/blob/main/CHANGES.rst"&gt;urllib3's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;2.0.7 (2023-10-17)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Made body stripped from HTTP requests changing the request method to
-GET after HTTP 303 &amp;quot;See Other&amp;quot; redirect responses.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;2.0.6 (2023-10-02)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the &lt;code&gt;Cookie&lt;/code&gt; header to the list of headers to strip
-from requests when redirecting to a different host. As before, different
-headers can be set via
-&lt;code&gt;Retry.remove_headers_on_redirect&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;2.0.5 (2023-09-20)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Allowed pyOpenSSL third-party module without any deprecation
-warning. (&lt;code&gt;[#3126](https://github.com/urllib3/urllib3/issues/3126)
-&amp;lt;https://github.com/urllib3/urllib3/issues/3126&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;li&gt;Fixed default &lt;code&gt;blocksize&lt;/code&gt; of &lt;code&gt;HTTPConnection&lt;/code&gt;
-classes to match high-level classes. Previously was 8KiB, now 16KiB.
-(&lt;code&gt;[#3066](https://github.com/urllib3/urllib3/issues/3066)
-&amp;lt;https://github.com/urllib3/urllib3/issues/3066&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;2.0.4 (2023-07-19)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Added support for union operators to &lt;code&gt;HTTPHeaderDict&lt;/code&gt;
-(&lt;code&gt;[#2254](https://github.com/urllib3/urllib3/issues/2254)
-&amp;lt;https://github.com/urllib3/urllib3/issues/2254&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;BaseHTTPResponse&lt;/code&gt; to &lt;code&gt;urllib3.__all__&lt;/code&gt;
-(&lt;code&gt;[#3078](https://github.com/urllib3/urllib3/issues/3078)
-&amp;lt;https://github.com/urllib3/urllib3/issues/3078&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;urllib3.connection.HTTPConnection&lt;/code&gt; to raise the
-&lt;code&gt;http.client.connect&lt;/code&gt; audit event to have the same behavior
-as the standard library HTTP client
-(&lt;code&gt;[#2757](https://github.com/urllib3/urllib3/issues/2757)
-&amp;lt;https://github.com/urllib3/urllib3/issues/2757&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;li&gt;Relied on the standard library for checking hostnames in supported
-PyPy releases
-(&lt;code&gt;[#3087](https://github.com/urllib3/urllib3/issues/3087)
-&amp;lt;https://github.com/urllib3/urllib3/issues/3087&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;2.0.3 (2023-06-07)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Allowed alternative SSL libraries such as LibreSSL, while still
-issuing a warning as we cannot help users facing issues with
-implementations other than OpenSSL.
-(&lt;code&gt;[#3020](https://github.com/urllib3/urllib3/issues/3020)
-&amp;lt;https://github.com/urllib3/urllib3/issues/3020&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;li&gt;Deprecated URLs which don't have an explicit scheme
-(&lt;code&gt;[#2950](https://github.com/urllib3/urllib3/issues/2950)
-&amp;lt;https://github.com/urllib3/urllib3/pull/2950&amp;gt;&lt;/code&gt;_)&lt;/li&gt;
-&lt;li&gt;Fixed response decoding with Zstandard when compressed data is made
-of several frames.
-(&lt;code&gt;[#3008](https://github.com/urllib3/urllib3/issues/3008)
-&amp;lt;https://github.com/urllib3/urllib3/issues/3008&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;assert_hostname=False&lt;/code&gt; to correctly skip hostname
-check. (&lt;code&gt;[#3051](https://github.com/urllib3/urllib3/issues/3051)
-&amp;lt;https://github.com/urllib3/urllib3/issues/3051&amp;gt;&lt;/code&gt;__)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/56f01e088dc006c03d4ee6ea9da4ab810f1ed700"&gt;&lt;code&gt;56f01e0&lt;/code&gt;&lt;/a&gt;
-Release 2.0.7&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/4e50fbc5db74e32cabd5ccc1ab81fc103adfe0b3"&gt;&lt;code&gt;4e50fbc&lt;/code&gt;&lt;/a&gt;
-Merge pull request from GHSA-g4mx-q9vg-27p4&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/80808b04bfa68fbd099828848c96ee25df185f1d"&gt;&lt;code&gt;80808b0&lt;/code&gt;&lt;/a&gt;
-Fix docs build on Python 3.12 (&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3144"&gt;#3144&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/f28deff1cf162c673b50d88d3552e91bda6d68a8"&gt;&lt;code&gt;f28deff&lt;/code&gt;&lt;/a&gt;
-Add 1.26.17 to the current changelog&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/262e3e332209ee93ff70e2b13502c8f20c105ac8"&gt;&lt;code&gt;262e3e3&lt;/code&gt;&lt;/a&gt;
-Release 2.0.6&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/644124ecd0b6e417c527191f866daa05a5a2056d"&gt;&lt;code&gt;644124e&lt;/code&gt;&lt;/a&gt;
-Merge pull request from GHSA-v845-jxx5-vc9f&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/740380c59ca2a7c2dceca19e5dba99f6b7060e62"&gt;&lt;code&gt;740380c&lt;/code&gt;&lt;/a&gt;
-Bump cryptography from 41.0.3 to 41.0.4 (&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3131"&gt;#3131&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/d9f85a749488188c286cd50606d159874db94d5f"&gt;&lt;code&gt;d9f85a7&lt;/code&gt;&lt;/a&gt;
-Release 2.0.5&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/d41f4122966f7f4f5f92001ad518e5d9dafcc886"&gt;&lt;code&gt;d41f412&lt;/code&gt;&lt;/a&gt;
-Undeprecate pyOpenSSL module (&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3127"&gt;#3127&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/urllib3/urllib3/commit/b6c04cb3e62ef5a0e4947d037c12fb3ca79e024a"&gt;&lt;code&gt;b6c04cb&lt;/code&gt;&lt;/a&gt;
-Fix a link to &amp;quot;absolute URI&amp;quot; definition (&lt;a
-href="https://redirect.github.com/urllib3/urllib3/issues/3128"&gt;#3128&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/urllib3/urllib3/compare/2.0.2...2.0.7"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=urllib3&amp;package-manager=pip&amp;previous-version=2.0.2&amp;new-version=2.0.7)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-You can disable automated security fix PRs for this repo from the
-[Security Alerts
-page](https://github.com/langchain-ai/langsmith-sdk/network/alerts).
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: William FH &lt;13333726+hinthornw@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#142120a</div>
-                                        <div class="message">Bump zod from 3.22.2 to 3.22.4 in /js (#257)
-
-Bumps [zod](https://github.com/colinhacks/zod) from 3.22.2 to 3.22.4.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/colinhacks/zod/releases"&gt;zod's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v3.22.4&lt;/h2&gt;
-&lt;h2&gt;Commits:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;d931ea3f0f15a6ae64f5f68e3c03912dffb2269d Lint&lt;/li&gt;
-&lt;li&gt;8e634bd600093b7161487bed705279c892395118 Fix prettier&lt;/li&gt;
-&lt;li&gt;4018d88f0e94992b2987428c4fda387b99ae2a53 docs: add
-&lt;code&gt;@​sanity-typed/zod&lt;/code&gt; to ecosystem (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2731"&gt;#2731&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;15ba5a4d4cb5be5af23771de0ba1346b4ba20a0e docs: add
-&lt;code&gt;zod-sandbox&lt;/code&gt; to README ecosystem links (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2707"&gt;#2707&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;699ccae13b875d4fcadac268fd789c93b6ce8aef Export jsdoc with
-&lt;code&gt;@deprecated&lt;/code&gt; when building (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2717"&gt;#2717&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;dfe3719eae250ab3eca2d276da6c292867899cc6 Fix sanity-typed links (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2840"&gt;#2840&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;cd7991e04a550868bfcb5b5d46e5eb5bc7edf5f3 fix ulid regex (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2225"&gt;#2225&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;7cb4ba2f85dd6b28290dda5de80ed54dfd2a793c Remove stalebot&lt;/li&gt;
-&lt;li&gt;9340fd51e48576a75adc919bff65dbc4a5d4c99b Lazy emojiRegex&lt;/li&gt;
-&lt;li&gt;e7a9b9b3033991be6b4225f1be21da39c250bbb0 3.22.4&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v3.22.3&lt;/h2&gt;
-&lt;h2&gt;Commits:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;1e23990bcdd33d1e81b31e40e77a031fcfd87ce1 Commit&lt;/li&gt;
-&lt;li&gt;9bd3879b482f139fd03d5025813ee66a04195cdd docs: remove obsolete text
-about readonly types (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2676"&gt;#2676&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;f59be093ec21430d9f32bbcb628d7e39116adf34 clarify datetime ISO 8601
-(&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2673"&gt;#2673&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;64dcc8e2b16febe48fa8e3c82c47c92643e6c9e3 Update sponsors&lt;/li&gt;
-&lt;li&gt;18115a8f128680b4526df58ce96deab7dce93b93 Formatting&lt;/li&gt;
-&lt;li&gt;28c19273658b164c53c149785fa7a8187c428ad4 Update sponsors&lt;/li&gt;
-&lt;li&gt;ad2ee9ccf723c4388158ff6b8669c2a6cdc85643 2718 Updated Custom Schemas
-documentation example to use type narrowing (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2778"&gt;#2778&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;ae0f7a2c15e7741ee1b23c03a3bfb9acebd86551 docs: update ref to
-discriminated-unions docs (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2485"&gt;#2485&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;2ba00fe2377f4d53947a84b8cdb314a63bbd6dd4 [2609] fix ReDoS
-vulnerability in email regex (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2824"&gt;#2824&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;1e61d76cdec05de9271fc0df58798ddf9ce94923 3.22.3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/e7a9b9b3033991be6b4225f1be21da39c250bbb0"&gt;&lt;code&gt;e7a9b9b&lt;/code&gt;&lt;/a&gt;
-3.22.4&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/9340fd51e48576a75adc919bff65dbc4a5d4c99b"&gt;&lt;code&gt;9340fd5&lt;/code&gt;&lt;/a&gt;
-Lazy emojiRegex&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/7cb4ba2f85dd6b28290dda5de80ed54dfd2a793c"&gt;&lt;code&gt;7cb4ba2&lt;/code&gt;&lt;/a&gt;
-Remove stalebot&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/cd7991e04a550868bfcb5b5d46e5eb5bc7edf5f3"&gt;&lt;code&gt;cd7991e&lt;/code&gt;&lt;/a&gt;
-fix ulid regex (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2225"&gt;#2225&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/dfe3719eae250ab3eca2d276da6c292867899cc6"&gt;&lt;code&gt;dfe3719&lt;/code&gt;&lt;/a&gt;
-Fix sanity-typed links (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2840"&gt;#2840&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/699ccae13b875d4fcadac268fd789c93b6ce8aef"&gt;&lt;code&gt;699ccae&lt;/code&gt;&lt;/a&gt;
-Export jsdoc with &lt;code&gt;@deprecated&lt;/code&gt; when building (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2717"&gt;#2717&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/15ba5a4d4cb5be5af23771de0ba1346b4ba20a0e"&gt;&lt;code&gt;15ba5a4&lt;/code&gt;&lt;/a&gt;
-docs: add &lt;code&gt;zod-sandbox&lt;/code&gt; to README ecosystem links (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2707"&gt;#2707&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/4018d88f0e94992b2987428c4fda387b99ae2a53"&gt;&lt;code&gt;4018d88&lt;/code&gt;&lt;/a&gt;
-docs: add &lt;code&gt;@​sanity-typed/zod&lt;/code&gt; to ecosystem (&lt;a
-href="https://redirect.github.com/colinhacks/zod/issues/2731"&gt;#2731&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/8e634bd600093b7161487bed705279c892395118"&gt;&lt;code&gt;8e634bd&lt;/code&gt;&lt;/a&gt;
-Fix prettier&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/colinhacks/zod/commit/d931ea3f0f15a6ae64f5f68e3c03912dffb2269d"&gt;&lt;code&gt;d931ea3&lt;/code&gt;&lt;/a&gt;
-Lint&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/colinhacks/zod/compare/v3.22.2...v3.22.4"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=zod&amp;package-manager=npm_and_yarn&amp;previous-version=3.22.2&amp;new-version=3.22.4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-You can disable automated security fix PRs for this repo from the
-[Security Alerts
-page](https://github.com/langchain-ai/langsmith-sdk/network/alerts).
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d717180</div>
-                                        <div class="message">
-                                            Bump @babel/traverse from 7.22.4 to 7.23.2 in /js (#256)
-
-Bumps
-[@babel/traverse](https://github.com/babel/babel/tree/HEAD/packages/babel-traverse)
-from 7.22.4 to 7.23.2.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/babel/babel/releases"&gt;&lt;code&gt;@​babel/traverse&lt;/code&gt;'s
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v7.23.2 (2023-10-11)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: This release also re-publishes
-&lt;code&gt;@babel/core&lt;/code&gt;, even if it does not appear in the linked
-release commit.&lt;/p&gt;
-&lt;p&gt;Thanks &lt;a
-href="https://github.com/jimmydief"&gt;&lt;code&gt;@​jimmydief&lt;/code&gt;&lt;/a&gt; for
-your first PR!&lt;/p&gt;
-&lt;h4&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Bug Fix&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;babel-traverse&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16033"&gt;#16033&lt;/a&gt;
-Only evaluate own String/Number/Math methods (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-preset-typescript&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16022"&gt;#16022&lt;/a&gt;
-Rewrite &lt;code&gt;.tsx&lt;/code&gt; extension when using
-&lt;code&gt;rewriteImportExtensions&lt;/code&gt; (&lt;a
-href="https://github.com/jimmydief"&gt;&lt;code&gt;@​jimmydief&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helpers&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16017"&gt;#16017&lt;/a&gt;
-Fix: fallback to typeof when toString is applied to incompatible object
-(&lt;a href="https://github.com/JLHwung"&gt;&lt;code&gt;@​JLHwung&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helpers&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-commonjs&lt;/code&gt;,
-&lt;code&gt;babel-runtime-corejs2&lt;/code&gt;, &lt;code&gt;babel-runtime-corejs3&lt;/code&gt;,
-&lt;code&gt;babel-runtime&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16025"&gt;#16025&lt;/a&gt;
-Avoid override mistake in namespace imports (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Committers: 5&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Babel Bot (&lt;a
-href="https://github.com/babel-bot"&gt;&lt;code&gt;@​babel-bot&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Huáng Jùnliàng (&lt;a
-href="https://github.com/JLHwung"&gt;&lt;code&gt;@​JLHwung&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;James Diefenderfer (&lt;a
-href="https://github.com/jimmydief"&gt;&lt;code&gt;@​jimmydief&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Nicolò Ribaudo (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/liuxingbaoyu"&gt;&lt;code&gt;@​liuxingbaoyu&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v7.23.1 (2023-09-25)&lt;/h2&gt;
-&lt;p&gt;Re-publishing &lt;code&gt;@babel/helpers&lt;/code&gt; due to a publishing error
-in 7.23.0.&lt;/p&gt;
-&lt;h2&gt;v7.23.0 (2023-09-25)&lt;/h2&gt;
-&lt;p&gt;Thanks &lt;a
-href="https://github.com/lorenzoferre"&gt;&lt;code&gt;@​lorenzoferre&lt;/code&gt;&lt;/a&gt;
-and &lt;a
-href="https://github.com/RajShukla1"&gt;&lt;code&gt;@​RajShukla1&lt;/code&gt;&lt;/a&gt; for
-your first PRs!&lt;/p&gt;
-&lt;h4&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            New Feature&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;babel-plugin-proposal-import-wasm-source&lt;/code&gt;,
-&lt;code&gt;babel-plugin-syntax-import-source&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-dynamic-import&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15870"&gt;#15870&lt;/a&gt;
-Support transforming &lt;code&gt;import source&lt;/code&gt; for wasm (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helper-module-transforms&lt;/code&gt;,
-&lt;code&gt;babel-helpers&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-import-defer&lt;/code&gt;,
-&lt;code&gt;babel-plugin-syntax-import-defer&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-commonjs&lt;/code&gt;,
-&lt;code&gt;babel-runtime-corejs2&lt;/code&gt;, &lt;code&gt;babel-runtime-corejs3&lt;/code&gt;,
-&lt;code&gt;babel-runtime&lt;/code&gt;, &lt;code&gt;babel-standalone&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15878"&gt;#15878&lt;/a&gt;
-Implement &lt;code&gt;import defer&lt;/code&gt; proposal transform support (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-generator&lt;/code&gt;, &lt;code&gt;babel-parser&lt;/code&gt;,
-&lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15845"&gt;#15845&lt;/a&gt;
-Implement &lt;code&gt;import defer&lt;/code&gt; parsing support (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15829"&gt;#15829&lt;/a&gt; Add
-parsing support for the &amp;quot;source phase imports&amp;quot; proposal (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-generator&lt;/code&gt;,
-&lt;code&gt;babel-helper-module-transforms&lt;/code&gt;, &lt;code&gt;babel-parser&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-dynamic-import&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-amd&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-commonjs&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-systemjs&lt;/code&gt;,
-&lt;code&gt;babel-traverse&lt;/code&gt;, &lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15682"&gt;#15682&lt;/a&gt; Add
-&lt;code&gt;createImportExpressions&lt;/code&gt; parser option (&lt;a
-href="https://github.com/JLHwung"&gt;&lt;code&gt;@​JLHwung&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-standalone&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15671"&gt;#15671&lt;/a&gt;
-Pass through nonce to the transformed script element (&lt;a
-href="https://github.com/JLHwung"&gt;&lt;code&gt;@​JLHwung&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helper-function-name&lt;/code&gt;,
-&lt;code&gt;babel-helper-member-expression-to-functions&lt;/code&gt;,
-&lt;code&gt;babel-helpers&lt;/code&gt;, &lt;code&gt;babel-parser&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-destructuring-private&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-optional-chaining-assign&lt;/code&gt;,
-&lt;code&gt;babel-plugin-syntax-optional-chaining-assign&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-destructuring&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-optional-chaining&lt;/code&gt;,
-&lt;code&gt;babel-runtime-corejs2&lt;/code&gt;, &lt;code&gt;babel-runtime-corejs3&lt;/code&gt;,
-&lt;code&gt;babel-runtime&lt;/code&gt;, &lt;code&gt;babel-standalone&lt;/code&gt;,
-&lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15751"&gt;#15751&lt;/a&gt; Add
-support for optional chain in assignments (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helpers&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-decorators&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15895"&gt;#15895&lt;/a&gt;
-Implement the &amp;quot;decorator metadata&amp;quot; proposal (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-traverse&lt;/code&gt;, &lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15893"&gt;#15893&lt;/a&gt; Add
-&lt;code&gt;t.buildUndefinedNode&lt;/code&gt; (&lt;a
-href="https://github.com/liuxingbaoyu"&gt;&lt;code&gt;@​liuxingbaoyu&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-preset-typescript&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/babel/babel/blob/main/CHANGELOG.md"&gt;&lt;code&gt;@​babel/traverse&lt;/code&gt;'s
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v7.23.2 (2023-10-11)&lt;/h2&gt;
-&lt;h4&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Bug Fix&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;babel-traverse&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16033"&gt;#16033&lt;/a&gt;
-Only evaluate own String/Number/Math methods (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-preset-typescript&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16022"&gt;#16022&lt;/a&gt;
-Rewrite &lt;code&gt;.tsx&lt;/code&gt; extension when using
-&lt;code&gt;rewriteImportExtensions&lt;/code&gt; (&lt;a
-href="https://github.com/jimmydief"&gt;&lt;code&gt;@​jimmydief&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helpers&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16017"&gt;#16017&lt;/a&gt;
-Fix: fallback to typeof when toString is applied to incompatible object
-(&lt;a href="https://github.com/JLHwung"&gt;&lt;code&gt;@​JLHwung&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helpers&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-commonjs&lt;/code&gt;,
-&lt;code&gt;babel-runtime-corejs2&lt;/code&gt;, &lt;code&gt;babel-runtime-corejs3&lt;/code&gt;,
-&lt;code&gt;babel-runtime&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/16025"&gt;#16025&lt;/a&gt;
-Avoid override mistake in namespace imports (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v7.23.0 (2023-09-25)&lt;/h2&gt;
-&lt;h4&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            New Feature&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;babel-plugin-proposal-import-wasm-source&lt;/code&gt;,
-&lt;code&gt;babel-plugin-syntax-import-source&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-dynamic-import&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15870"&gt;#15870&lt;/a&gt;
-Support transforming &lt;code&gt;import source&lt;/code&gt; for wasm (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helper-module-transforms&lt;/code&gt;,
-&lt;code&gt;babel-helpers&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-import-defer&lt;/code&gt;,
-&lt;code&gt;babel-plugin-syntax-import-defer&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-commonjs&lt;/code&gt;,
-&lt;code&gt;babel-runtime-corejs2&lt;/code&gt;, &lt;code&gt;babel-runtime-corejs3&lt;/code&gt;,
-&lt;code&gt;babel-runtime&lt;/code&gt;, &lt;code&gt;babel-standalone&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15878"&gt;#15878&lt;/a&gt;
-Implement &lt;code&gt;import defer&lt;/code&gt; proposal transform support (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-generator&lt;/code&gt;, &lt;code&gt;babel-parser&lt;/code&gt;,
-&lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15845"&gt;#15845&lt;/a&gt;
-Implement &lt;code&gt;import defer&lt;/code&gt; parsing support (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15829"&gt;#15829&lt;/a&gt; Add
-parsing support for the &amp;quot;source phase imports&amp;quot; proposal (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-generator&lt;/code&gt;,
-&lt;code&gt;babel-helper-module-transforms&lt;/code&gt;, &lt;code&gt;babel-parser&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-dynamic-import&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-amd&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-commonjs&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-systemjs&lt;/code&gt;,
-&lt;code&gt;babel-traverse&lt;/code&gt;, &lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15682"&gt;#15682&lt;/a&gt; Add
-&lt;code&gt;createImportExpressions&lt;/code&gt; parser option (&lt;a
-href="https://github.com/JLHwung"&gt;&lt;code&gt;@​JLHwung&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-standalone&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15671"&gt;#15671&lt;/a&gt;
-Pass through nonce to the transformed script element (&lt;a
-href="https://github.com/JLHwung"&gt;&lt;code&gt;@​JLHwung&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helper-function-name&lt;/code&gt;,
-&lt;code&gt;babel-helper-member-expression-to-functions&lt;/code&gt;,
-&lt;code&gt;babel-helpers&lt;/code&gt;, &lt;code&gt;babel-parser&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-destructuring-private&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-optional-chaining-assign&lt;/code&gt;,
-&lt;code&gt;babel-plugin-syntax-optional-chaining-assign&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-destructuring&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-optional-chaining&lt;/code&gt;,
-&lt;code&gt;babel-runtime-corejs2&lt;/code&gt;, &lt;code&gt;babel-runtime-corejs3&lt;/code&gt;,
-&lt;code&gt;babel-runtime&lt;/code&gt;, &lt;code&gt;babel-standalone&lt;/code&gt;,
-&lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15751"&gt;#15751&lt;/a&gt; Add
-support for optional chain in assignments (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-helpers&lt;/code&gt;,
-&lt;code&gt;babel-plugin-proposal-decorators&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15895"&gt;#15895&lt;/a&gt;
-Implement the &amp;quot;decorator metadata&amp;quot; proposal (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-traverse&lt;/code&gt;, &lt;code&gt;babel-types&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15893"&gt;#15893&lt;/a&gt; Add
-&lt;code&gt;t.buildUndefinedNode&lt;/code&gt; (&lt;a
-href="https://github.com/liuxingbaoyu"&gt;&lt;code&gt;@​liuxingbaoyu&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-preset-typescript&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15913"&gt;#15913&lt;/a&gt; Add
-&lt;code&gt;rewriteImportExtensions&lt;/code&gt; option to TS preset (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-parser&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15896"&gt;#15896&lt;/a&gt;
-Allow TS tuples to have both labeled and unlabeled elements (&lt;a
-href="https://github.com/yukukotani"&gt;&lt;code&gt;@​yukukotani&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Bug Fix&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;babel-plugin-transform-block-scoping&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15962"&gt;#15962&lt;/a&gt;
-fix: &lt;code&gt;transform-block-scoping&lt;/code&gt; captures the variables of the
-method in the loop (&lt;a
-href="https://github.com/liuxingbaoyu"&gt;&lt;code&gt;@​liuxingbaoyu&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Polish&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;babel-traverse&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15797"&gt;#15797&lt;/a&gt;
-Expand evaluation of global built-ins in &lt;code&gt;@babel/traverse&lt;/code&gt;
-(&lt;a
-href="https://github.com/lorenzoferre"&gt;&lt;code&gt;@​lorenzoferre&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;babel-plugin-proposal-explicit-resource-management&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15985"&gt;#15985&lt;/a&gt;
-Improve source maps for blocks with &lt;code&gt;using&lt;/code&gt; declarations (&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Output optimization&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;babel-core&lt;/code&gt;,
-&lt;code&gt;babel-helper-module-transforms&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-async-to-generator&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-classes&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-dynamic-import&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-function-name&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-amd&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-commonjs&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-modules-umd&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-parameters&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-react-constant-elements&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-react-inline-elements&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-runtime&lt;/code&gt;,
-&lt;code&gt;babel-plugin-transform-typescript&lt;/code&gt;,
-&lt;code&gt;babel-preset-env&lt;/code&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://redirect.github.com/babel/babel/pull/15984"&gt;#15984&lt;/a&gt;
-Inline &lt;code&gt;exports.XXX =&lt;/code&gt; update in simple variable declarations
-(&lt;a
-href="https://github.com/nicolo-ribaudo"&gt;&lt;code&gt;@​nicolo-ribaudo&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v7.22.20 (2023-09-16)&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/b4b9942a6cde0685c222eb3412347880aae40ad5"&gt;&lt;code&gt;b4b9942&lt;/code&gt;&lt;/a&gt;
-v7.23.2&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/b13376b346946e3f62fc0848c1d2a23223314c82"&gt;&lt;code&gt;b13376b&lt;/code&gt;&lt;/a&gt;
-Only evaluate own String/Number/Math methods (&lt;a
-href="https://github.com/babel/babel/tree/HEAD/packages/babel-traverse/issues/16033"&gt;#16033&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/ca58ec15cb6dde6812c36997477e44880bec0bba"&gt;&lt;code&gt;ca58ec1&lt;/code&gt;&lt;/a&gt;
-v7.23.0&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/0f333dafcf470f1970083e4e695ced6aec8bead0"&gt;&lt;code&gt;0f333da&lt;/code&gt;&lt;/a&gt;
-Add &lt;code&gt;createImportExpressions&lt;/code&gt; parser option (&lt;a
-href="https://github.com/babel/babel/tree/HEAD/packages/babel-traverse/issues/15682"&gt;#15682&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/3744545649fdc21688a2f3c97e1e39dbebff0d21"&gt;&lt;code&gt;3744545&lt;/code&gt;&lt;/a&gt;
-Fix linting&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/c7e6806e2194deb36c330f543409c792592b22d4"&gt;&lt;code&gt;c7e6806&lt;/code&gt;&lt;/a&gt;
-Add &lt;code&gt;t.buildUndefinedNode&lt;/code&gt; (&lt;a
-href="https://github.com/babel/babel/tree/HEAD/packages/babel-traverse/issues/15893"&gt;#15893&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/38ee8b4dd693f1e2bd00107bbc1167ce84736ea0"&gt;&lt;code&gt;38ee8b4&lt;/code&gt;&lt;/a&gt;
-Expand evaluation of global built-ins in &lt;code&gt;@babel/traverse&lt;/code&gt;
-(&lt;a
-href="https://github.com/babel/babel/tree/HEAD/packages/babel-traverse/issues/15797"&gt;#15797&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/9f3dfd90211472cf0083a3234dd1a1b857ce3624"&gt;&lt;code&gt;9f3dfd9&lt;/code&gt;&lt;/a&gt;
-v7.22.20&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/3ed28b29c1fb15588369bdd55187b69f1248e87d"&gt;&lt;code&gt;3ed28b2&lt;/code&gt;&lt;/a&gt;
-Fully support &lt;code&gt;||&lt;/code&gt; and &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; in
-&lt;code&gt;pluginToggleBooleanFlag&lt;/code&gt; (&lt;a
-href="https://github.com/babel/babel/tree/HEAD/packages/babel-traverse/issues/15961"&gt;#15961&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/babel/babel/commit/77b0d7359909c94f3797c24006f244847fbc8d6d"&gt;&lt;code&gt;77b0d73&lt;/code&gt;&lt;/a&gt;
-v7.22.19&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/babel/babel/commits/v7.23.2/packages/babel-traverse"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&amp;package-manager=npm_and_yarn&amp;previous-version=7.22.4&amp;new-version=7.23.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-You can disable automated security fix PRs for this repo from the
-[Security Alerts
-page](https://github.com/langchain-ai/langsmith-sdk/network/alerts).
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42da6ea</div>
-                                        <div class="message">Infra/add license cli (#254)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#672720f</div>
-                                        <div class="message">Fix generator nesting (#253)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a93297</div>
-                                        <div class="message">0.0.45 (#252)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c9d695</div>
-                                        <div class="message">Support Generators for traceable (#250)
-
-For generator functions, log a list of outputs by default. Let user
-define a reduce_fn within the decorated function to support custom
-behavior (e.g., if you wanted to reduce OAI dictionaries and only log
-the resulting string.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e50f98e</div>
-                                        <div class="message">Content type for dataset upload (#251)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#380e135</div>
-                                        <div class="message">Add Content-Type (#249)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77081a8</div>
-                                        <div class="message">Read OAI Ft Dataset Method (#245)
-
-Useful for a chat loader</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ade270</div>
-                                        <div class="message">Add langsmith rate limit error types (#242)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3093b87</div>
-                                        <div class="message">bump version (#244)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f6be6f</div>
-                                        <div class="message">bump version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa43f2f</div>
-                                        <div class="message">Add session param to SDK client. (#243)
-
-Some people want to override our request session. We should enable them
-to do this when creating their client by creating their own session and
-passing it in. TODO to port to javascript.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7f0ff9</div>
-                                        <div class="message">Add list_shared_runs (#241)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3c9238</div>
-                                        <div class="message">Wfh/upate feedback async (#240)</div>
+                                        <div class="sha">#0a5ba84</div>
+                                        <div class="message">bump version 0.2.1 -&gt; 1.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -1583,241 +589,15 @@ passing it in. TODO to port to javascript.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 611 commits in
-                                        <span class="repo">swca/langchain</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">joshuasundance-swca/geospatial-data-converter</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f7e811</div>
-                                        <div class="message">Fixed broken link in Quickstart page (#12516)
-
-- **Description:** 
-Corrected a specific link within the documentation.
-  
-  - **Issue:**
-  #12490 
-
-  - **Dependencies:**
-  - **Tag maintainer:**
-  - **Twitter handle:**
-
----------
-
-Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b02f7d</div>
-                                        <div class="message">Update llamacpp.ipynb (#12791)
-
-HuggingFace -&gt; Hugging Face</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a9f40e</div>
-                                        <div class="message">Add input types to cypher templates (#12800)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4fdf78</div>
-                                        <div class="message">Fix AddableDict raising exception when used with non-addable values (#12785)
-
-&lt;!-- Thank you for contributing to LangChain!
-
-Replace this entire comment with:
-  - **Description:** a description of the change, 
-  - **Issue:** the issue # it fixes (if applicable),
-  - **Dependencies:** any dependencies required for this change,
-- **Tag maintainer:** for a quicker response, tag the relevant
-maintainer (see below),
-- **Twitter handle:** we announce bigger features on Twitter. If your PR
-gets announced, and you'd like a mention, we'll gladly shout you out!
-
-Please make sure your PR is passing linting and testing before
-submitting. Run `make format`, `make lint` and `make test` to check this
-locally.
-
-See contribution guidelines for more information on how to write/run
-tests, lint, etc:
-
-https://github.com/langchain-ai/langchain/blob/master/.github/CONTRIBUTING.md
-
-If you're adding a new integration, please include:
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in `docs/extras`
-directory.
-
-If no one reviews your PR within a few days, please @-mention one of
-@baskaryan, @eyurtsev, @hwchase17.
- --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49e283a</div>
-                                        <div class="message">CLI 0.0.13, Configurable Template Demo (#12796)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c6ad7</div>
-                                        <div class="message">Fix on_llm_new_token(chunk=) for some chat models (#12784)
-
-It was passing in message instead of generation
-
-&lt;!-- Thank you for contributing to LangChain!
-
-Replace this entire comment with:
-  - **Description:** a description of the change, 
-  - **Issue:** the issue # it fixes (if applicable),
-  - **Dependencies:** any dependencies required for this change,
-- **Tag maintainer:** for a quicker response, tag the relevant
-maintainer (see below),
-- **Twitter handle:** we announce bigger features on Twitter. If your PR
-gets announced, and you'd like a mention, we'll gladly shout you out!
-
-Please make sure your PR is passing linting and testing before
-submitting. Run `make format`, `make lint` and `make test` to check this
-locally.
-
-See contribution guidelines for more information on how to write/run
-tests, lint, etc:
-
-https://github.com/langchain-ai/langchain/blob/master/.github/CONTRIBUTING.md
-
-If you're adding a new integration, please include:
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in `docs/extras`
-directory.
-
-If no one reviews your PR within a few days, please @-mention one of
-@baskaryan, @eyurtsev, @hwchase17.
- --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#070823f</div>
-                                        <div class="message">CLI 0.0.12 (#12787)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#979501c</div>
-                                        <div class="message">bump 329 (#12778)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9369d6a</div>
-                                        <div class="message">Fixes to the docs for timescale vector template (#12756)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3381012</div>
-                                        <div class="message">Update chat prompt structure in LLaMA SQL cookbook (#12364)
-
-Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58b90f3</div>
-                                        <div class="message">Update llama.cpp integration (#11864)
-
-&lt;!-- 
-- **Description:** removed redondant link, replaced it with Meta's LLaMA
-repo, add resources for models' hardware requirements,
-  - **Issue:** None,
-  - **Dependencies:** None,
-  - **Tag maintainer:** None,
-  - **Twitter handle:** @ElliotAlladaye
- --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a228f34</div>
-                                        <div class="message">Semantic search within postgreSQL using pgvector (#12365)
-
-Cookbook showing how to incoporate RAG search within a postgreSQL
-database using pgvector.
-
----------
-
-Co-authored-by: Lance Martin &lt;lance@langchain.dev&gt;
-Co-authored-by: Bagatur &lt;baskaryan@gmail.com&gt;
-Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da82132</div>
-                                        <div class="message">Fixes 'Nonetype' not iterable for ObsidianLoader (#12751)
-
-Implements #12726 from @Di3mex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67b6f4d</div>
-                                        <div class="message">Update google_vertex_ai_palm.ipynb (#12715)
-
-Fixed a typo
-
-&lt;!-- Thank you for contributing to LangChain!
-
-Replace this entire comment with:
-  - **Description:** Fixed a typo on the code
-  - **Issue:** the issue # it fixes (if applicable),
-
-
-Please make sure your PR is passing linting and testing before
-submitting. Run `make format`, `make lint` and `make test` to check this
-locally.
-
-See contribution guidelines for more information on how to write/run
-tests, lint, etc:
-
-https://github.com/langchain-ai/langchain/blob/master/.github/CONTRIBUTING.md
-
-If you're adding a new integration, please include:
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in `docs/extras`
-directory.
-
-If no one reviews your PR within a few days, please @-mention one of
-@baskaryan, @eyurtsev, @hwchase17.
- --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1caae6</div>
-                                        <div class="message">APIChain add restrictions to domains (CVE-2023-32786) (#12747)
-
-* Restrict the chain to specific domains by default
-* This is a breaking change, but it will fail loudly upon object
-instantiation -- so there should be no silent errors for users
-* Resolves CVE-2023-32786</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4421ba4</div>
-                                        <div class="message">Demo Server, Fix Timescale (#12746)
-
-- improve demo server
-- missing deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e1aedb</div>
-                                        <div class="message">Use jinja2 sandboxing by default (#12733)
-
-* This is an opt-in feature, so users should be aware of risks if using
-jinja2.
-* Regardless we'll add sandboxing by default to jinja2 templates -- this
-  sandboxing is a best effort basis.
-* Best strategy is still to make sure that jinja2 templates are only
-loaded from trusted sources.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab5309f</div>
-                                        <div class="message">template updates (#12736)
-
-- langchain license
-- add timescale vector dep to that template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6406c53</div>
-                                        <div class="message">Update template index w/ Timescale (#12729)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14340ee</div>
-                                        <div class="message">use http.client instead of urllib3 (#12660)
-
-dep problems with requests
-
-cloudflare debugging not worth it with urllib</div>
+                                        <div class="sha">#b4d3d9a</div>
+                                        <div class="message">bumpver.toml -&gt; pyproject.toml</div>
                                     </div>
                                 </div>
                             </section>
@@ -1826,16 +606,15 @@ cloudflare debugging not worth it with urllib</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#21 Tests!</span>
+                                        Deleted
+                      branch
+                                        <span class="code">connor</span>
+                                        in
+                                        <span class="repo">joshuasundance-swca/geospatial-data-converter</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by connorsutton in <span class="repo">joshuasundance-swca/geospatial-data-converter</span></div>
-                                    <div class="comment">https://github.com/connorsutton/geospatial-data-converter/pull/2</div>
                                 </div>
                             </section>
                         </div>
@@ -1843,16 +622,15 @@ cloudflare debugging not worth it with urllib</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#2 lil fixes</span>
+                                        Deleted
+                      branch
+                                        <span class="code">snyk-fix-f728104f66833ac61e4a460913366830</span>
+                                        in
+                                        <span class="repo">joshuasundance-swca/geospatial-data-converter</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">connorsutton/geospatial-data-converter</span></div>
-                                    <div>4 files changed <span class="code">++8 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1922,13 +700,13 @@ cloudflare debugging not worth it with urllib</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="4" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="4" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="4" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="4" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="4" y="0" width="89.33333333333333" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="93.33333333333333" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="93.33333333333333" y="0" width="126.66666666666667" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="3.3232628398791544" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="3.3232628398791544" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="3.3232628398791544" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="3.3232628398791544" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="3.3232628398791544" y="0" width="89.72809667673715" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="93.0513595166163" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="93.0513595166163" y="0" width="126.94864048338368" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -1936,13 +714,13 @@ cloudflare debugging not worth it with urllib</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">6 <small>open</small></span>
+                                <span class="no-wrap">5 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">190 <small>merged</small></span>
+                                <span class="no-wrap">191 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1955,7 +733,7 @@ cloudflare debugging not worth it with urllib</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">134 <small>closed</small></span>
+                                <span class="no-wrap">135 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -2016,13 +794,13 @@ cloudflare debugging not worth it with urllib</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="4.230769230769231" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="4.230769230769231" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="4.230769230769231" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="4.230769230769231" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="4.230769230769231" y="0" width="20.30769230769231" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="24.53846153846154" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="24.53846153846154" y="0" width="195.46153846153845" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="4.198473282442748" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="4.198473282442748" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="4.198473282442748" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="4.198473282442748" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="4.198473282442748" y="0" width="20.99236641221374" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="25.19083969465649" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="25.19083969465649" y="0" width="194.8091603053435" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -2036,7 +814,7 @@ cloudflare debugging not worth it with urllib</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">231 <small>merged</small></span>
+                                <span class="no-wrap">232 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2049,7 +827,7 @@ cloudflare debugging not worth it with urllib</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">24 <small>closed</small></span>
+                                <span class="no-wrap">25 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -2070,11 +848,11 @@ cloudflare debugging not worth it with urllib</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.29382207265223" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="405.29382207265223" y="0" width="52.376139544899864" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.6699616175521" y="0" width="1.8417325727218603" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.51169419027394" y="0" width="0.27678431935547887" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7884785096294" y="0" width="0.21152149037060808" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.1627750696908" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="405.1627750696908" y="0" width="52.47318318505924" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.63595825475" y="0" width="1.8758938234792548" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.5118520782293" y="0" width="0.27669482439270654" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.788546902622" y="0" width="0.21145309737800524" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -4203,7 +2981,7 @@ cloudflare debugging not worth it with urllib</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.03333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4231,7 +3009,7 @@ cloudflare debugging not worth it with urllib</div>
                                     <span class="prefix">Great</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 260 pull requests</div>
+                                <div class="text">Opened 262 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4484,7 +3262,7 @@ cloudflare debugging not worth it with urllib</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.38m out of 51.5m repositories</span>
+                                    <span class="gh">ranked 1.41m out of 53.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 7 times</div>
                             </div>
@@ -4574,7 +3352,7 @@ cloudflare debugging not worth it with urllib</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 795k out of 51.5m repositories</span>
+                                    <span class="gh">ranked 795k out of 53.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 32 stars</div>
                             </div>
@@ -4747,12 +3525,6 @@ cloudflare debugging not worth it with urllib</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/ai_changelog</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">joshuasundance-swca/mslearn-mlops</span>
                         </div>
                         <div class="field">
@@ -4767,20 +3539,14 @@ cloudflare debugging not worth it with urllib</div>
                             </svg>
                             <span class="diff-handle">joshuasundance-swca/restgdf_api</span>
                         </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">joshuasundance-swca/dataframe_handlers</span>
+                        </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +31.3k</span>
-                                <span class="deleted"> -29.7k</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -4814,6 +3580,18 @@ cloudflare debugging not worth it with urllib</div>
                             <div class="diff-stats">
                                 <span class="added"> +3.02k</span>
                                 <span class="deleted"> -1.86k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +3.27k</span>
+                                <span class="deleted"> -1.12k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -4855,43 +3633,43 @@ cloudflare debugging not worth it with urllib</div>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,7.721311475409838)">
+                            <g class="tick" opacity="1" transform="translate(0,29.67283781563236)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">30k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">15k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,52.14754098360655)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,96.57377049180329)">
+                            <g class="tick" opacity="1" transform="translate(0,66.78189187708826)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,103.89094593854412)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">5.0k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,185.4262295081967)">
+                            <g class="tick" opacity="1" transform="translate(0,178.10905406145585)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−5.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,215.21810812291173)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,229.85245901639345)">
+                            <g class="tick" opacity="1" transform="translate(0,252.32716218436767)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,274.27868852459017)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−15k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L338.267,140.5L351.667,140.5L391.867,140.5L396.333,140.5L400.8,140.5L405.267,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.176L436.533,130.997L432.067,133.827L427.6,136.551L423.133,117.687L418.667,134.845L414.2,135.231L409.733,137.528L405.267,134.676L400.8,136.542L396.333,122.108L391.867,5.284L351.667,59.391L338.267,125.973L39,138.576Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L338.267,140.5L351.667,140.5L391.867,140.5L396.333,140.5L400.8,140.5L405.267,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.744L436.533,141.286L432.067,141.202L427.6,143.947L423.133,146.044L418.667,142.584L414.2,140.838L409.733,142.037L405.267,142.855L400.8,142.513L396.333,145.547L391.867,276L351.667,142.966L338.267,145.48L39,140.504Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L338.267,140.5L351.667,140.5L391.867,140.5L396.333,140.5L400.8,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.173L436.533,130.072L432.067,129.523L427.6,133.917L423.133,102.493L418.667,131.149L414.2,131.809L409.733,136.745L400.8,134.37L396.333,134.191L391.867,121.159L351.667,5L338.267,116.231L39,137.286Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L338.267,140.5L351.667,140.5L391.867,140.5L396.333,140.5L400.8,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.752L436.533,141.546L432.067,141.546L427.6,146.244L423.133,149.71L418.667,143.936L414.2,141.005L409.733,142.89L400.8,143.714L396.333,143.855L391.867,151.38L351.667,144.619L338.267,148.82L39,140.507Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2023, 16:05:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2023, 17:04:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
