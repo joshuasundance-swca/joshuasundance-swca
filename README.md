@@ -50,9 +50,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/106) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-2. 🎉 Merged PR [#105](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/105) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-3. 💪 Opened PR [#105](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/105) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-4. 🎉 Merged PR [#104](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/104) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-5. 💪 Opened PR [#104](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/104) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+1. ❌ Closed PR [#106](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/106) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. 💪 Opened PR [#106](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/106) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+3. 🎉 Merged PR [#105](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/105) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+4. 💪 Opened PR [#105](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/105) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+5. 🎉 Merged PR [#104](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/104) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
 <!--END_SECTION:activity-->
