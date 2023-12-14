@@ -20,28 +20,34 @@
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 
-[![ai-changelog on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fai-changelog%2Fjson&query=%24.info.version&label=ai-changelog&logo=PyPI)](https://pypi.org/project/ai-changelog/)
-[![restgdf on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Frestgdf%2Fjson&query=%24.info.version&label=restgdf&logo=PyPI)](https://pypi.org/project/restgdf/)
-[![dataframe-handlers on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fdataframe-handlers%2Fjson&query=%24.info.version&label=dataframe-handlers&logo=PyPI)](https://pypi.org/project/dataframe-handlers/)
-
-[![ai_changelog on Docker Hub](https://img.shields.io/docker/v/joshuasundance/ai_changelog?label=ai_changelog&logo=docker)](https://hub.docker.com/r/joshuasundance/ai_changelog)
-[![restgdf_api on Docker Hub](https://img.shields.io/docker/v/joshuasundance/restgdf_api?label=restgdf_api&logo=docker)](https://hub.docker.com/r/joshuasundance/restgdf_api)
-[![langchain-streamlit-demo on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-streamlit-demo?label=langchain-streamlit-demo&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-streamlit-demo)
-[![langchain-research-assistant-docker on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-research-assistant-docker?label=langchain-research-assistant-docker&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-research-assistant-docker)
-[![geospatial-data-converter on Docker Hub](https://img.shields.io/docker/v/joshuasundance/geospatial-data-converter?label=geospatial-data-converter&logo=docker)](https://hub.docker.com/r/joshuasundance/geospatial-data-converter)
-[![arcgis-api-python-notebook on Docker Hub](https://img.shields.io/docker/v/joshuasundance/arcgis-api-python-notebook?label=arcgis-api-python-notebook&logo=docker)](https://hub.docker.com/r/joshuasundance/arcgis-api-python-notebook)
-[![postgis_pgvector on Docker Hub](https://img.shields.io/docker/v/joshuasundance/postgis_pgvector?label=postgis_pgvector&logo=docker)](https://hub.docker.com/r/joshuasundance/postgis_pgvector)
-
-
 [![HuggingFace](https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg)](https://huggingface.co/joshuasundance)
 
 ![Tests Passing](https://img.shields.io/badge/Tests-Passing-green?style=for-the-badge)
 ![Mood Good](https://img.shields.io/badge/Mood-Good-green?style=for-the-badge)
 ![Badges Too Many](https://img.shields.io/badge/Badges-Too_Many-red?style=for-the-badge)
 
-![Metrics](/github-metrics.svg)
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuasundance-swca" alt="joshuasundance-swca" /></a>
+
+# PyPI
+
+[![ai-changelog on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fai-changelog%2Fjson&query=%24.info.version&label=ai-changelog&logo=PyPI)](https://pypi.org/project/ai-changelog/)
+[![detect-llm-api-keys on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fdetect-llm-api-keys%2Fjson&query=%24.info.version&label=detect-llm-api-keys&logo=PyPI)](https://pypi.org/project/detect-llm-api-keys/)
+[![restgdf on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Frestgdf%2Fjson&query=%24.info.version&label=restgdf&logo=PyPI)](https://pypi.org/project/restgdf/)
+[![dataframe-handlers on PyPI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpypi.org%2Fpypi%2Fdataframe-handlers%2Fjson&query=%24.info.version&label=dataframe-handlers&logo=PyPI)](https://pypi.org/project/dataframe-handlers/)
+
+# DockerHub
+
+[![ai_changelog on Docker Hub](https://img.shields.io/docker/v/joshuasundance/ai_changelog?label=ai_changelog&logo=docker)](https://hub.docker.com/r/joshuasundance/ai_changelog)
+[![restgdf_api on Docker Hub](https://img.shields.io/docker/v/joshuasundance/restgdf_api?label=restgdf_api&logo=docker)](https://hub.docker.com/r/joshuasundance/restgdf_api)
+[![langchain-streamlit-demo on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-streamlit-demo?label=langchain-streamlit-demo&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-streamlit-demo)
+[![langchain-research-assistant-docker on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-research-assistant-docker?label=langchain-research-assistant-docker&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-research-assistant-docker)
+[![langchain-neo4j-advanced-rag-docker on Docker Hub](https://img.shields.io/docker/v/joshuasundance/langchain-neo4j-advanced-rag-docker?label=langchain-neo4j-advanced-rag-docker&logo=docker)](https://hub.docker.com/r/joshuasundance/langchain-neo4j-advanced-rag-docker)
+[![geospatial-data-converter on Docker Hub](https://img.shields.io/docker/v/joshuasundance/geospatial-data-converter?label=geospatial-data-converter&logo=docker)](https://hub.docker.com/r/joshuasundance/geospatial-data-converter)
+[![arcgis-api-python-notebook on Docker Hub](https://img.shields.io/docker/v/joshuasundance/arcgis-api-python-notebook?label=arcgis-api-python-notebook&logo=docker)](https://hub.docker.com/r/joshuasundance/arcgis-api-python-notebook)
+[![arcgis-api-python-docker on Docker Hub](https://img.shields.io/docker/v/joshuasundance/arcgis-api-python-docker?label=arcgis-api-python-docker&logo=docker)](https://hub.docker.com/r/joshuasundance/arcgis-api-python-docker)
+[![postgis_pgvector on Docker Hub](https://img.shields.io/docker/v/joshuasundance/postgis_pgvector?label=postgis_pgvector&logo=docker)](https://hub.docker.com/r/joshuasundance/postgis_pgvector)
+
+![Metrics](/github-metrics.svg)
 
 ## Repo Contributions
 
