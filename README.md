@@ -50,9 +50,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14689](https://github.com/langchain-ai/langchain/pull/14689) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. ❌ Closed PR [#106](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/106) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-3. 💪 Opened PR [#106](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/106) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-4. 🎉 Merged PR [#105](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/105) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-5. 💪 Opened PR [#105](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/105) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+1. 🎉 Merged PR [#1](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/1) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+2. 💪 Opened PR [#1](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/1) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+3. 💪 Opened PR [#14689](https://github.com/langchain-ai/langchain/pull/14689) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. ❌ Closed PR [#106](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/106) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+5. 💪 Opened PR [#106](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/106) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
 <!--END_SECTION:activity-->
