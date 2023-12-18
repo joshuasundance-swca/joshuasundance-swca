@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/9) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
-2. 🎉 Merged PR [#12](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/12) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
-3. 🎉 Merged PR [#11](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/11) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
-4. 🎉 Merged PR [#13](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/13) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
-5. 🎉 Merged PR [#10](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/10) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+1. 🎉 Merged PR [#10](https://github.com/joshuasundance-swca/restgdf_api/pull/10) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+2. 🎉 Merged PR [#9](https://github.com/joshuasundance-swca/restgdf_api/pull/9) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+3. 🎉 Merged PR [#31](https://github.com/joshuasundance-swca/repo-template-testing/pull/31) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+4. 🎉 Merged PR [#30](https://github.com/joshuasundance-swca/repo-template-testing/pull/30) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+5. 🎉 Merged PR [#29](https://github.com/joshuasundance-swca/repo-template-testing/pull/29) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
 <!--END_SECTION:activity-->
