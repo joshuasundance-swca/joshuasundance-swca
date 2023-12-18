@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/joshuasundance-swca/restgdf/pull/58) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-2. 🎉 Merged PR [#56](https://github.com/joshuasundance-swca/restgdf/pull/56) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-3. 🎉 Merged PR [#59](https://github.com/joshuasundance-swca/restgdf/pull/59) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-4. 🎉 Merged PR [#57](https://github.com/joshuasundance-swca/restgdf/pull/57) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-5. 🎉 Merged PR [#14](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/14) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+1. 🎉 Merged PR [#9](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/9) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+2. 🎉 Merged PR [#12](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/12) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+3. 🎉 Merged PR [#11](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/11) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+4. 🎉 Merged PR [#13](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/13) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+5. 🎉 Merged PR [#10](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/10) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
 <!--END_SECTION:activity-->
