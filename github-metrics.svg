@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3609" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3556" class="">
     <defs>
         <style/>
     </defs>
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 19 Dec 2023, 16:11:07
+                            On 19 Dec 2023, 13:57:58
                         </div>
                     </section>
                 </div>
@@ -44,10 +44,10 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">b271993c</span>
+                            <span class="code">c7f2fc69</span>
                             <span class="code">AI_CHANGELOG.md</span>
                             <span class="code">
-                                <span class="snippet additions">++4</span>
+                                <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,4 +1,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># AI CHANGELOG<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">## [Removed vcs.xml and updated default agent type in llm_resources.py](https://github.com/joshuasundance-swca/langchain-streamlit-demo/commit/71e9279d36d4c78c6b18956c598445f6caf2ced6)<br /></span><span class="token prefix inserted">+</span><span class="token line">Tue Dec 19 16:10:18 2023 -0500<br /></span><span class="token prefix inserted">+</span><span class="token line">- The vcs.xml file, which was used for version control settings in the IDE, has been deleted. This indicates a change in the version control system or its configuration.<br /></span><span class="token prefix inserted">+</span><span class="token line">- In the llm_resources.py file, the default agent type for the get_doc_agent function has been changed from STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION to CHAT_ZERO_SHOT_REACT_DESCRIPTION. This suggests a change in how the agent responds in chat scenarios.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">## [Updated several package versions in requirements.txt](https://github.com/joshuasundance-swca/langchain-streamlit-demo/commit/1cf958abefb5cd3408fac7c64d96ecf6f3d62a28)<br /></span><span class="token prefix unchanged">·</span><span class="token line">Tue Dec 19 18:26:07 2023 +0000<br /></span><span class="token prefix unchanged">·</span><span class="token line">- The versions of the following packages were updated: anthropic (from 0.7.8 to 0.8.0), duckduckgo-search (from 4.0.0 to 4.1.0), langchain (from 0.0.350 to 0.0.351), and langsmith (from 0.0.71 to 0.0.72).</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,4 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># AI CHANGELOG<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">## [Updated Dependabot configuration](https://github.com/joshuasundance-swca/langchain-streamlit-demo/commit/4e2d2fd2be93bc022093064214e372833debd235)<br /></span><span class="token prefix inserted">+</span><span class="token line">Tue Dec 19 13:24:43 2023 -0500<br /></span><span class="token prefix inserted">+</span><span class="token line">- Added a new group 'app' in the Dependabot configuration file to include all dependencies ('*'). This will group updates for all dependencies together.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">## [Refactor Memory Management and Remove Intermediate Steps](https://github.com/joshuasundance-swca/langchain-streamlit-demo/commit/3a2b820bcfb7ef8dc4157626de454be9267e1e91)<br /></span><span class="token prefix unchanged">·</span><span class="token line">Tue Dec 19 09:35:23 2023 -0500<br /></span><span class="token prefix unchanged">·</span><span class="token line">- This commit refactors the memory management in the Streamlit app and other resources. It replaces the 'AgentTokenBufferMemory' with 'ConversationBufferMemory' for a more efficient memory usage. The 'return_messages' flag is set to 'True' in the new memory management system.</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -232,7 +232,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    82.4k added, 41.5k removed
+                                    79k added, 40k removed
                                 </div>
                             </section>
                             <section>
@@ -264,7 +264,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.25k views in last two weeks
+                                    1.26k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -3259,7 +3259,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.28m out of 44.6m repositories</span>
+                                    <span class="gh">ranked 1.28m out of 56.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 8 times</div>
                             </div>
@@ -3349,7 +3349,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 801k out of 44.6m repositories</span>
+                                    <span class="gh">ranked 801k out of 56.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 32 stars</div>
                             </div>
@@ -3540,7 +3540,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/dataripper</span>
+                            <span class="diff-handle">joshuasundance-swca/restgdf_api</span>
                         </div>
                     </section>
                     <section>
@@ -3587,8 +3587,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +3.42k</span>
-                                <span class="deleted"> -1.54k</span>
+                                <span class="added"> +3.04k</span>
+                                <span class="deleted"> -1.88k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3666,7 +3666,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2023, 05:05:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2023, 06:04:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
