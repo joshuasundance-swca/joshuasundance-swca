@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/joshuasundance-swca/ai_changelog/pull/92) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
-2. 💪 Opened PR [#92](https://github.com/joshuasundance-swca/ai_changelog/pull/92) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
-3. 🎉 Merged PR [#116](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/116) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-4. 🎉 Merged PR [#115](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/115) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-5. 🎉 Merged PR [#113](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/113) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+1. 🎉 Merged PR [#3](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/3) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+2. 🎉 Merged PR [#25](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/25) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+3. 🗣 Commented on [#19](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/19#issuecomment-1869921493) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+4. 🗣 Commented on [#20](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/20#issuecomment-1869921466) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+5. 🗣 Commented on [#21](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/21#issuecomment-1869921442) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
 <!--END_SECTION:activity-->
