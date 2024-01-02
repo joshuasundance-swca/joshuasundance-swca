@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/4) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-2. 🎉 Merged PR [#94](https://github.com/joshuasundance-swca/ai_changelog/pull/94) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
-3. 🎉 Merged PR [#4](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/4) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
-4. 🎉 Merged PR [#26](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/26) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-5. 🎉 Merged PR [#3](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/3) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+1. 🎉 Merged PR [#119](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/119) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. 🎉 Merged PR [#20](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/20) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+3. 🎉 Merged PR [#37](https://github.com/joshuasundance-swca/repo-template-testing/pull/37) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+4. 🎉 Merged PR [#4](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/4) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+5. 🎉 Merged PR [#94](https://github.com/joshuasundance-swca/ai_changelog/pull/94) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
 <!--END_SECTION:activity-->
