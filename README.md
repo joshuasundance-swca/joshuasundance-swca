@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/28) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-2. 🎉 Merged PR [#25](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/25) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-3. 🎉 Merged PR [#27](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/27) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-4. 🎉 Merged PR [#26](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/26) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-5. 🎉 Merged PR [#23](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/23) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+1. 🎉 Merged PR [#29](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/29) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+2. 🎉 Merged PR [#24](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/24) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+3. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/28) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+4. 🎉 Merged PR [#25](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/25) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+5. 🎉 Merged PR [#27](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/27) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
 <!--END_SECTION:activity-->
