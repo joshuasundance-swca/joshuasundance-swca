@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/29) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-2. 🎉 Merged PR [#24](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/24) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
-3. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/28) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-4. 🎉 Merged PR [#25](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/25) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-5. 🎉 Merged PR [#27](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/27) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+1. 🎉 Merged PR [#15](https://github.com/joshuasundance-swca/restgdf_api/pull/15) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+2. 🎉 Merged PR [#38](https://github.com/joshuasundance-swca/repo-template-testing/pull/38) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+3. 🎉 Merged PR [#5](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/5) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+4. 🎉 Merged PR [#21](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/21) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+5. 🎉 Merged PR [#95](https://github.com/joshuasundance-swca/ai_changelog/pull/95) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
 <!--END_SECTION:activity-->
