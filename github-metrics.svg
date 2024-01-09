@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4225" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3649" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">joshuasundance-swca/repo-template-testing</span>
+                            <span class="blue space">joshuasundance-swca/ai_changelog</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 6 Jan 2024, 19:25:38
+                            On 9 Jan 2024, 02:50:11
                         </div>
                     </section>
                 </div>
@@ -38,17 +38,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update pre-commit
+                            Update AI Changelog
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">393a869f</span>
-                            <span class="code">.pre-commit-config.yaml</span>
+                            <span class="code">edbb73d9</span>
+                            <span class="code">AI_CHANGELOG-claude-2.md</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++4</span>
+                                <span class="snippet deletions">--0</span>
                             </span>
                         </div>
                     </section>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -10,7 +10,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">exclude: "(.idea)|(docs)|(.*.md)"<br /></span><span class="token prefix unchanged">·</span><span class="token line">repos:<br /></span><span class="token prefix unchanged">·</span><span class="token line">-   repo: https://github.com/charliermarsh/ruff-pre-commit<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">rev: "v0.1.9"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">rev: "v0.1.11"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">hooks:<br /></span><span class="token prefix unchanged">·</span><span class="token line">-   id: ruff<br /></span><span class="token prefix unchanged">·</span><span class="token line">    args: [--fix, --exit-non-zero-on-fix, --ignore, E501]</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,4 +1,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># AI CHANGELOG<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">## [Upgrade LangChain dependency](https://github.com/joshuasundance-swca/ai_changelog/commit/4184161f33540854af7d30e0cc98fa0846efa2ac)<br /></span><span class="token prefix inserted">+</span><span class="token line">Mon Jan 8 09:02:52 2024 +0000<br /></span><span class="token prefix inserted">+</span><span class="token line">- Upgrade LangChain from 0.0.353 to 0.1.0<br /></span><span class="token prefix inserted">+</span><span class="token line">- This includes various bug fixes and improvements<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">## [Upgrade LangChain dependency](https://github.com/joshuasundance-swca/ai_changelog/commit/eb3c770e02bdc08ff8b00de9af105b54890d96c7)<br /></span><span class="token prefix unchanged">·</span><span class="token line">Mon Jan 1 08:23:24 2024 +0000<br /></span><span class="token prefix unchanged">·</span><span class="token line">- Bump LangChain version from 0.0.352 to 0.0.353 in requirements.txt</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -98,7 +98,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -124,7 +124,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5000 Commits
+                            5010 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,7 +232,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    88.6k added, 48.8k removed
+                                    85.3k added, 48.3k removed
                                 </div>
                             </section>
                             <section>
@@ -533,12 +533,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 123 commits)</small>
+                    <small class="h-details">(computed from last 119 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 34.1 characters per line of code written</li>
+                        <li>Has approximately 34.3 characters per line of code written</li>
                         <li>Mostly pushes code around 11:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -557,12 +557,60 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">langchain-ai/langgraph</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">joshuasundance-swca/restgdf_api</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6f4c3ae</div>
+                                        <div class="message">Merge pull request #15 from joshuasundance-swca/dependabot/pip/app-1ae25fa723
+
+Bump the app group with 1 update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#199288a</div>
+                                        <div class="message">Bump the app group with 1 update
+
+Bumps the app group with 1 update: [numpy](https://github.com/numpy/numpy).
+
+
+Updates `numpy` from 1.26.2 to 1.26.3
+- [Release notes](https://github.com/numpy/numpy/releases)
+- [Changelog](https://github.com/numpy/numpy/blob/main/doc/RELEASE_WALKTHROUGH.rst)
+- [Commits](https://github.com/numpy/numpy/compare/v1.26.2...v1.26.3)
+
+---
+updated-dependencies:
+- dependency-name: numpy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: app
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#15 Bump the app group with 1 update</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by dependabot[bot] in <span class="repo">joshuasundance-swca/restgdf_api</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -573,15 +621,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">joshuasundance-swca/repo-template-testing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#393a869</div>
-                                        <div class="message">Update pre-commit</div>
+                                        <div class="sha">#161f7fd</div>
+                                        <div class="message">Merge pull request #38 from joshuasundance-swca/dependabot/pip/dot-github/workflows/requirements/app-c84c9aa589
+
+Bump the app group in /.github/workflows/requirements with 1 update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fe48ac</div>
+                                        <div class="message">Bump the app group in /.github/workflows/requirements with 1 update
+
+Bumps the app group in /.github/workflows/requirements with 1 update: [ruff](https://github.com/astral-sh/ruff).
+
+
+Updates `ruff` from 0.1.9 to 0.1.11
+- [Release notes](https://github.com/astral-sh/ruff/releases)
+- [Changelog](https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/astral-sh/ruff/compare/v0.1.9...v0.1.11)
+
+---
+updated-dependencies:
+- dependency-name: ruff
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: app
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -590,373 +662,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 472 commits in
-                                        <span class="repo">swca/langchain</span>
+                                        Merged
+                                        <span class="issue">#38 Bump the app group in /.github/workflows/requirements with 1 update</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64d5108</div>
-                                        <div class="message">Feature: GitLab url from ENV (#14221)
-
-&lt;!-- Thank you for contributing to LangChain!
-
-Replace this entire comment with:
-  - **Description:** add gitlab url from env, 
-  - **Issue:** no issue,
-  - **Dependencies:** no,
-- **Tag maintainer:** for a quicker response, tag the relevant
-maintainer (see below),
-- **Twitter handle:** we announce bigger features on Twitter. If your PR
-gets announced, and you'd like a mention, we'll gladly shout you out!
-
-Please make sure your PR is passing linting and testing before
-submitting. Run `make format`, `make lint` and `make test` to check this
-locally.
-
-See contribution guidelines for more information on how to write/run
-tests, lint, etc:
-
-https://github.com/langchain-ai/langchain/blob/master/.github/CONTRIBUTING.md
-
-If you're adding a new integration, please include:
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in `docs/extras`
-directory.
-
-If no one reviews your PR within a few days, please @-mention one of
-@baskaryan, @eyurtsev, @hwchase17.
- --&gt;
-
----------
-
-Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab6b419</div>
-                                        <div class="message">Fixed a typo in smart_llm prompt (#13052)
-
-&lt;!-- Thank you for contributing to LangChain!
-
-Replace this entire comment with:
-  - **Description:** a description of the change, 
-  - **Issue:** the issue # it fixes (if applicable),
-  - **Dependencies:** any dependencies required for this change,
-- **Tag maintainer:** for a quicker response, tag the relevant
-maintainer (see below),
-- **Twitter handle:** we announce bigger features on Twitter. If your PR
-gets announced, and you'd like a mention, we'll gladly shout you out!
-
-Please make sure your PR is passing linting and testing before
-submitting. Run `make format`, `make lint` and `make test` to check this
-locally.
-
-See contribution guidelines for more information on how to write/run
-tests, lint, etc:
-
-https://github.com/langchain-ai/langchain/blob/master/.github/CONTRIBUTING.md
-
-If you're adding a new integration, please include:
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in `docs/extras`
-directory.
-
-If no one reviews your PR within a few days, please @-mention one of
-@baskaryan, @eyurtsev, @hwchase17.
- --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c2ef06</div>
-                                        <div class="message">Adds "NIN" metadata filter for pgvector to all checking for set absence (#14205)
-
-This PR adds support for metadata filters of the form:
-
-`{"filter": {"key": { "NIN" : ["list", "of", "values"]}}}`
-
-"IN" is already supported, so this is a quick &amp; related update to add
-"NIN"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20d2b4a</div>
-                                        <div class="message">feat: Increased compatibility with new and old versions for dalle (#14222)
-
-- **Description:** Increased compatibility with all versions openai for
-dalle,
-
-This pr add support for openai version from 0 ~ 1.3.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7205bfd</div>
-                                        <div class="message">feat: 1. Add system parameters, 2. Align with the QianfanChatEndpoint for function calling (#14275)
-
-- **Description:** 
-1. Add system parameters to the ERNIE LLM API to set the role of the
-LLM.
-2. Add support for the ERNIE-Bot-turbo-AI model according from the
-document https://cloud.baidu.com/doc/WENXINWORKSHOP/s/Alp0kdm0n.
-3. For the function call of ErnieBotChat, align with the
-QianfanChatEndpoint.
-
-With this PR, the `QianfanChatEndpoint()` can use the `function calling`
-ability with `create_ernie_fn_chain()`. The example is as the following:
-
-```
-from langchain.prompts import ChatPromptTemplate
-import json
-from langchain.prompts.chat import (
-    ChatPromptTemplate,
-)
-
-from langchain.chat_models import QianfanChatEndpoint
-from langchain.chains.ernie_functions import (
-    create_ernie_fn_chain,
-)
-
-def get_current_news(location: str) -&gt; str:
-    """Get the current news based on the location.'
-
-    Args:
-        location (str): The location to query.
-    
-    Returs:
-        str: Current news based on the location.
-    """
-
-    news_info = {
-        "location": location,
-        "news": [
-            "I have a Book.",
-            "It's a nice day, today."
-        ]
-    }
-
-    return json.dumps(news_info)
-
-def get_current_weather(location: str, unit: str="celsius") -&gt; str:
-    """Get the current weather in a given location
-
-    Args:
-        location (str): location of the weather.
-        unit (str): unit of the tempuature.
-    
-    Returns:
-        str: weather in the given location.
-    """
-
-    weather_info = {
-        "location": location,
-        "temperature": "27",
-        "unit": unit,
-        "forecast": ["sunny", "windy"],
-    }
-    return json.dumps(weather_info)
-
-template = ChatPromptTemplate.from_messages([
-    ("user", "{user_input}"),
-])
-
-chat = QianfanChatEndpoint(model="ERNIE-Bot-4")
-chain = create_ernie_fn_chain([get_current_weather, get_current_news], chat, template, verbose=True)
-res = chain.run("北京今天的新闻是什么？")
-print(res)
-```
-
-The result of the above code:
-```
-&gt; Entering new LLMChain chain...
-Prompt after formatting:
-Human: 北京今天的新闻是什么？
-&gt; Finished chain.
-{'name': 'get_current_news', 'arguments': {'location': '北京'}}
-```
-
-For the `ErnieBotChat`, now can use the `system` parameter to set the
-role of the LLM.
-
-```
-from langchain.prompts import ChatPromptTemplate
-from langchain.chains import LLMChain
-from langchain.chat_models import ErnieBotChat
-
-llm = ErnieBotChat(model_name="ERNIE-Bot-turbo-AI", system="你是一个能力很强的机器人，你的名字叫 小叮当。无论问你什么问题，你都可以给出答案。")
-prompt = ChatPromptTemplate.from_messages(
-    [
-        ("human", "{query}"),
-    ]
-)
-chain = LLMChain(llm=llm, prompt=prompt, verbose=True)
-res = chain.run(query="你是谁？")
-print(res)
-```
-
-The result of the above code:
-
-```
-&gt; Entering new LLMChain chain...
-Prompt after formatting:
-Human: 你是谁？
-&gt; Finished chain.
-我是小叮当，一个智能机器人。我可以为你提供各种服务，包括回答问题、提供信息、进行计算等。如果你需要任何帮助，请随时告诉我，我会尽力为你提供最好的服务。
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd5be55</div>
-                                        <div class="message">added get_num_tokens to GooglePalm (#14282)
-
-added get_num_tokens to GooglePalm + a little bit of refactoring</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c215a4c</div>
-                                        <div class="message">feat(embeddings): text-embeddings-inference (#14288)
-
-- **Description:** Added a notebook to illustrate how to use
-`text-embeddings-inference` from huggingface. As
-`HuggingFaceHubEmbeddings` was using a deprecated client, I made the
-most of this PR updating that too.
-
-- **Issue:** #13286 
-
-- **Dependencies**: None
-
-- **Tag maintainer:** @baskaryan</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85b88c3</div>
-                                        <div class="message">Fixes issue-14295: Correctly pass along the kwargs (#14296)
-
-- **Description:** Update code to correctly pass the kwargs 
-  - **Issue:** #14295 
-  - **Dependencies:**  - 
-  - **Tag maintainer:** 
-
-&lt;--
-If no one reviews your PR within a few days, please @-mention one of
-@baskaryan, @eyurtsev, @hwchase17.
- --&gt;
-
-#issue-14295</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62b5904</div>
-                                        <div class="message">docs[patch] Add how-to doc for RunnablePassthrough and nav modifications (#14255)
-
-- **Description:** Add How To docs for `RunnablePassthrough` with
-examples. Also redo the ordering and some of the other How-To docs.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a23608</div>
-                                        <div class="message">Add custom async generator example (#14299)
-
-&lt;img width="1172" alt="Screenshot 2023-12-05 at 11 19 16 PM"
-src="https://github.com/langchain-ai/langchain/assets/10000925/6b0fbd70-9f6b-4f91-b494-9e88676b4786"&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63fdc6e</div>
-                                        <div class="message">Update docs (#14294)
-
-### Description
-
-Fixed 3 doc  issues:
-
-1. `ConfigurableField ` needs to be imported in
-`docs/docs/expression_language/how_to/configure.ipynb`
-2. use `error` instead of `RateLimitError()` in
-`docs/docs/expression_language/how_to/fallbacks.ipynb`
-3. I think it might be better to output the fixed json data(when I
-looked at this example, I didn't understand its purpose at first, but
-then I suddenly realized):
-&lt;img width="1219" alt="Screenshot 2023-12-05 at 10 34 13 PM"
-src="https://github.com/langchain-ai/langchain/assets/10000925/7623ba13-7b56-4964-8c98-b7430fabc6de"&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#667ad6a</div>
-                                        <div class="message">Add support for CORS options for AzureSearch (#14305)
-
-- **Description:** Add support for setting the CORS options when using
-AzureSearch indexes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9401539</div>
-                                        <div class="message">Allow not enforcing function usage when a single function is passed to openai function executable (#14308)
-
-- **Description:** allows not enforcing function usage when a single
-function is passed to an openAI function executable (or corresponding
-legacy chain). This is a desired feature in the case where the model
-does not have enough information to call a function, and needs to get
-back to the user.
-  - **Issue:** N/A
-  - **Dependencies:** N/A
-  - **Tag maintainer:** N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d22c13e</div>
-                                        <div class="message">Mask API key for Minimax LLM (#14309)
-
-- **Description:** Added masking for the API key for Minimax LLM + tests
-inspired by https://github.com/langchain-ai/langchain/pull/12418.
-- **Issue:** the issue # fixes
-https://github.com/langchain-ai/langchain/issues/12165
-- **Dependencies:** this fix is dependent on Minimax instantiation fix
-which is introduced in
-https://github.com/langchain-ai/langchain/pull/13439, so merge this one
-after.
-  - **Tag maintainer:** @eyurtsev
-
----------
-
-Co-authored-by: Harrison Chase &lt;hw.chase.17@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29e993a</div>
-                                        <div class="message">Update OpenCLIP docs (#14319)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a74c03d</div>
-                                        <div class="message">Add metadata to blob (#14162)
-
-Add metadata to the blob object. This makes it easier
-to make a pipeline that properly propagates metadata information
-from raw content to the derived content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6684887</div>
-                                        <div class="message">Multi-modal RAG template (#14186)
-
-* OpenCLIP embeddings
-* GPT-4V
-
----------
-
-Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b75d37</div>
-                                        <div class="message">Adding `BaseChatMessageHistory.__str__` (#14311)
-
-Adding __str__ to base chat message history to make it easier to debug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b00601</div>
-                                        <div class="message">Fixing empty input variable crashing `PromptTemplate` validations (#14314)
-
-- Fixes `input_variables=[""]` crashing validations with a template
-`"{}"`
-- Uses `__cause__` for proper `Exception` chaining in
-`check_valid_template`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f02e94</div>
-                                        <div class="message">docs: `integrations/providers/` update (#14315)
-
-- added missed provider files (from `integrations/Callbacks`
-- updated notebooks: added links; updated into consistent formats</div>
-                                    </div>
+                                    <div>opened by dependabot[bot] in <span class="repo">joshuasundance-swca/repo-template-testing</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -967,136 +682,39 @@ Adding __str__ to base chat message history to make it easier to debug</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">swca/langsmith-sdk</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">joshuasundance-swca/detect_llm_api_keys</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c2b756</div>
-                                        <div class="message">Add git info (#340)
+                                        <div class="sha">#94f8da8</div>
+                                        <div class="message">Merge pull request #5 from joshuasundance-swca/dependabot/pip/app-ba075f780c
 
-Add helper to fetch git repo info</div>
+Bump the app group with 1 update</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dd368d8</div>
-                                        <div class="message">0.0.76 (#339)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43cb7b6</div>
-                                        <div class="message">Catch psutil errors (#338)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5581be4</div>
-                                        <div class="message">[Python] 0.0.75 (#336)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d049e4</div>
-                                        <div class="message">Clone pub dataset (#335)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed0754b</div>
-                                        <div class="message">Remove unused nginx mount (#334)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd82b51</div>
-                                        <div class="message">Remove unused nginx mount</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43fd528</div>
-                                        <div class="message">Extend is_traceable to support class call (#333)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#407ebef</div>
-                                        <div class="message">Update TS types (#331)
+                                        <div class="sha">#808987d</div>
+                                        <div class="message">Bump the app group with 1 update
 
-Update the types of the objects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e67717</div>
-                                        <div class="message">Bump version (#330)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bee8c03</div>
-                                        <div class="message">Use cursor based pagination (#328)
+Bumps the app group with 1 update: [alabaster](https://github.com/sphinx-doc/alabaster).
 
-For the list_runs endpoint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41d83c0</div>
-                                        <div class="message">Remove unused docker files and add version (#327)
 
-This pr does a few things:
+Updates `alabaster` from 0.7.13 to 0.7.15
+- [Release notes](https://github.com/sphinx-doc/alabaster/releases)
+- [Changelog](https://github.com/sphinx-doc/alabaster/blob/master/docs/changelog.rst)
+- [Commits](https://github.com/sphinx-doc/alabaster/compare/0.7.13...0.7.15)
 
-1. Removes unneeded docker files since we don't have hub in beta anymore
-2. Adds version
-3. Cleans up ngrok
-4. Few fixes for api path etc now that we do everything through port 80.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f29c22</div>
-                                        <div class="message">Update versions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bdb5e0</div>
-                                        <div class="message">format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fe6c02</div>
-                                        <div class="message">format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59d0b15</div>
-                                        <div class="message">Remove unused docker files and add version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4b250e</div>
-                                        <div class="message">Improve Error Message (#324)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2e7038</div>
-                                        <div class="message">Improve run evaluator decorator (#322)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">swca/BERTopic</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c9aad2</div>
-                                        <div class="message">Many docstring fixes (#1719)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c1bcf6</div>
-                                        <div class="message">Remove unused `cluster_df` variable (#1701)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c0d3f2</div>
-                                        <div class="message">Fix #1668 (#1670)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4572a99</div>
-                                        <div class="message">Fix #1666 (#1678)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1285f54</div>
-                                        <div class="message">Small doc fix (#1695)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc9a51a</div>
-                                        <div class="message">Fix typo (#1660)</div>
+---
+updated-dependencies:
+- dependency-name: alabaster
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: app
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1167,13 +785,13 @@ This pr does a few things:
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="7.663934426229508" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="7.663934426229508" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="7.663934426229508" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="7.663934426229508" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="7.663934426229508" y="0" width="79.79508196721311" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="87.45901639344261" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="87.45901639344261" y="0" width="132.54098360655738" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="4.9590163934426235" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="4.9590163934426235" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="4.9590163934426235" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="4.9590163934426235" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="4.9590163934426235" y="0" width="79.79508196721311" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="84.75409836065573" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="84.75409836065573" y="0" width="135.24590163934425" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -1181,13 +799,13 @@ This pr does a few things:
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">17 <small>open</small></span>
+                                <span class="no-wrap">11 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">294 <small>merged</small></span>
+                                <span class="no-wrap">300 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3723,7 +3341,7 @@ This pr does a few things:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.28m out of 42.8m repositories</span>
+                                    <span class="gh">ranked 1.28m out of 46.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 8 times</div>
                             </div>
@@ -3813,7 +3431,7 @@ This pr does a few things:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 788k out of 42.8m repositories</span>
+                                    <span class="gh">ranked 788k out of 46.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -4004,7 +3622,7 @@ This pr does a few things:
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/dataripper</span>
+                            <span class="diff-handle">joshuasundance-swca/langchain-streamlit-demo</span>
                         </div>
                     </section>
                     <section>
@@ -4051,8 +3669,8 @@ This pr does a few things:
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +3.42k</span>
-                                <span class="deleted"> -1.54k</span>
+                                <span class="added"> +6.03k</span>
+                                <span class="deleted">    -3k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -4094,11 +3712,15 @@ This pr does a few things:
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,47.66115588620238)">
+                            <g class="tick" opacity="1" transform="translate(0,7.721311475409838)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">30k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,52.14754098360655)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,94.3305779431012)">
+                            <g class="tick" opacity="1" transform="translate(0,96.57377049180329)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
@@ -4106,23 +3728,27 @@ This pr does a few things:
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,187.6694220568988)">
+                            <g class="tick" opacity="1" transform="translate(0,185.4262295081967)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,234.3388441137976)">
+                            <g class="tick" opacity="1" transform="translate(0,229.85245901639345)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
                             </g>
+                            <g class="tick" opacity="1" transform="translate(0,274.27868852459017)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
+                            </g>
                         </g>
-                        <path d="M39,140.5L82.071,140.5L211.286,140.5L225.643,140.5L240,140.5L268.714,140.5L283.071,140.5L297.429,140.5L311.786,140.5L326.143,140.5L340.5,140.5L354.857,140.5L369.214,140.5L383.571,140.5L397.929,140.5L412.286,140.5L426.643,140.5L441,140.5L441,140.491L426.643,140.206L412.286,137.943L397.929,140.066L383.571,130.555L369.214,134.736L354.857,131.143L340.5,133.607L326.143,132.02L311.786,110.814L297.429,134.834L283.071,135.077L268.714,83.185L240,140.197L225.643,125.146L211.286,10.619L82.071,59.137L39,125.239Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L82.071,140.5L211.286,140.5L225.643,140.5L240,140.5L268.714,140.5L283.071,140.5L297.429,140.5L311.786,140.5L326.143,140.5L340.5,140.5L354.857,140.5L369.214,140.5L383.571,140.5L397.929,140.5L412.286,140.5L426.643,140.5L441,140.5L441,140.509L426.643,140.738L412.286,140.995L397.929,140.873L383.571,141.872L369.214,140.831L354.857,141.125L340.5,141.149L326.143,147.958L311.786,155.397L297.429,142.549L283.071,140.794L268.714,185.97L240,140.593L225.643,143.692L211.286,276L82.071,143.067L39,145.732Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L82.071,140.5L211.286,140.5L225.643,140.5L240,140.5L268.714,140.5L283.071,140.5L297.429,140.5L311.786,140.5L326.143,140.5L340.5,140.5L354.857,140.5L369.214,140.5L383.571,140.5L397.929,140.5L412.286,140.5L426.643,140.5L441,140.5L441,140.411L426.643,140.211L412.286,137.452L397.929,139.256L383.571,126.839L369.214,139.709L354.857,131.215L340.5,133.929L326.143,136.333L311.786,121.61L297.429,134.836L283.071,135.244L268.714,85.674L240,136.542L225.643,122.108L211.286,5.284L82.071,63.047L39,125.973Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L82.071,140.5L211.286,140.5L225.643,140.5L240,140.5L268.714,140.5L283.071,140.5L297.429,140.5L311.786,140.5L326.143,140.5L340.5,140.5L354.857,140.5L369.214,140.5L383.571,140.5L397.929,140.5L412.286,140.5L426.643,140.5L441,140.5L441,140.558L426.643,140.722L412.286,141.371L397.929,141.237L383.571,142.943L369.214,140.82L354.857,141.273L340.5,141.126L326.143,144.196L311.786,149.892L297.429,142.592L283.071,140.824L268.714,183.878L240,142.513L225.643,145.547L211.286,276L82.071,142.943L39,145.48Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2024, 02:05:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2024, 03:06:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
