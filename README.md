@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/joshuasundance-swca/restgdf/pull/64) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-2. 💪 Opened PR [#6](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/6) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-3. 🎉 Merged PR [#15](https://github.com/joshuasundance-swca/restgdf_api/pull/15) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-4. 🎉 Merged PR [#38](https://github.com/joshuasundance-swca/repo-template-testing/pull/38) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-5. 🎉 Merged PR [#5](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/5) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+1. 🎉 Merged PR [#65](https://github.com/joshuasundance-swca/restgdf/pull/65) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+2. 🎉 Merged PR [#7](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/7) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+3. 💪 Opened PR [#64](https://github.com/joshuasundance-swca/restgdf/pull/64) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+4. 💪 Opened PR [#6](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/6) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+5. 🎉 Merged PR [#15](https://github.com/joshuasundance-swca/restgdf_api/pull/15) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
 <!--END_SECTION:activity-->
