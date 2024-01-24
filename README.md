@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/122) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-2. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/28) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-3. 🎉 Merged PR [#65](https://github.com/joshuasundance-swca/restgdf/pull/65) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-4. 🎉 Merged PR [#7](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/7) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-5. 💪 Opened PR [#64](https://github.com/joshuasundance-swca/restgdf/pull/64) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+1. 🎉 Merged PR [#17](https://github.com/joshuasundance-swca/restgdf_api/pull/17) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+2. 🎉 Merged PR [#40](https://github.com/joshuasundance-swca/repo-template-testing/pull/40) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+3. 🎉 Merged PR [#1](https://github.com/joshuasundance-swca/survey123-assistant/pull/1) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
+4. 🎉 Merged PR [#6](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/6) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+5. ❌ Closed PR [#30](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/30) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
 <!--END_SECTION:activity-->
