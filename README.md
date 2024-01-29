@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/28) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
-2. 🎉 Merged PR [#98](https://github.com/joshuasundance-swca/ai_changelog/pull/98) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
-3. 🎉 Merged PR [#34](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/34) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-4. 🎉 Merged PR [#5](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/5) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
-5. 🎉 Merged PR [#6](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/6) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+1. 🎉 Merged PR [#24](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/24) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+2. 🎉 Merged PR [#10](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/10) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+3. 🎉 Merged PR [#33](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/33) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+4. 🎉 Merged PR [#69](https://github.com/joshuasundance-swca/restgdf/pull/69) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+5. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/28) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
 <!--END_SECTION:activity-->
