@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/joshuasundance-swca/restgdf_api/pull/17) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-2. 🎉 Merged PR [#40](https://github.com/joshuasundance-swca/repo-template-testing/pull/40) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-3. 🎉 Merged PR [#1](https://github.com/joshuasundance-swca/survey123-assistant/pull/1) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
-4. 🎉 Merged PR [#6](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/6) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-5. ❌ Closed PR [#30](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/30) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+1. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/28) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+2. 🎉 Merged PR [#98](https://github.com/joshuasundance-swca/ai_changelog/pull/98) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
+3. 🎉 Merged PR [#34](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/34) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+4. 🎉 Merged PR [#5](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/5) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+5. 🎉 Merged PR [#6](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/6) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
 <!--END_SECTION:activity-->
