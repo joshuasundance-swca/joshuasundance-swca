@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/24) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
-2. 🎉 Merged PR [#10](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/10) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-3. 🎉 Merged PR [#33](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/33) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-4. 🎉 Merged PR [#69](https://github.com/joshuasundance-swca/restgdf/pull/69) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-5. 🎉 Merged PR [#28](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/28) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+1. 🎉 Merged PR [#18](https://github.com/joshuasundance-swca/restgdf_api/pull/18) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+2. 🎉 Merged PR [#41](https://github.com/joshuasundance-swca/repo-template-testing/pull/41) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+3. 🎉 Merged PR [#24](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/24) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+4. 🎉 Merged PR [#10](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/10) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+5. 🎉 Merged PR [#33](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/33) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
 <!--END_SECTION:activity-->
