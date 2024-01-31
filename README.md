@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/joshuasundance-swca/nonprofit-grader/pull/8) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-2. 💪 Opened PR [#70](https://github.com/joshuasundance-swca/restgdf/pull/70) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-3. 🎉 Merged PR [#18](https://github.com/joshuasundance-swca/restgdf_api/pull/18) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-4. 🎉 Merged PR [#41](https://github.com/joshuasundance-swca/repo-template-testing/pull/41) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-5. 🎉 Merged PR [#24](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss/pull/24) in [joshuasundance-swca/govgis_nov2023-slim-faiss](https://github.com/joshuasundance-swca/govgis_nov2023-slim-faiss)
+1. 💪 Opened PR [#71](https://github.com/joshuasundance-swca/restgdf/pull/71) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+2. 💪 Opened PR [#8](https://github.com/joshuasundance-swca/nonprofit-grader/pull/8) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+3. 💪 Opened PR [#70](https://github.com/joshuasundance-swca/restgdf/pull/70) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+4. 🎉 Merged PR [#18](https://github.com/joshuasundance-swca/restgdf_api/pull/18) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+5. 🎉 Merged PR [#41](https://github.com/joshuasundance-swca/repo-template-testing/pull/41) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
 <!--END_SECTION:activity-->
