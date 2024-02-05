@@ -232,7 +232,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    101k added, 52.8k removed
+                                    99.9k added, 52.7k removed
                                 </div>
                             </section>
                             <section>
@@ -850,13 +850,13 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.084380610412927" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="9.084380610412927" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="9.084380610412927" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="9.084380610412927" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="9.084380610412927" y="0" width="76.22980251346499" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="85.31418312387791" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="85.31418312387791" y="0" width="134.6858168761221" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.838998211091235" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="75.95706618962433" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="85.79606440071557" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="85.79606440071557" y="0" width="134.20393559928445" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -864,7 +864,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">23 <small>open</small></span>
+                                <span class="no-wrap">25 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3119,7 +3119,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.47m out of 128m users</span>
+                                    <span class="gh">ranked 1.47m out of 130m users</span>
                                 </div>
                                 <div class="text">Published 31 public repositories</div>
                             </div>
@@ -3407,7 +3407,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.17m out of 67m repositories</span>
+                                    <span class="gh">ranked 1.17m out of 65.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 9 times</div>
                             </div>
@@ -3459,7 +3459,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 799k out of 128m users</span>
+                                    <span class="gh">ranked 799k out of 130m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -3497,7 +3497,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 702k out of 67m repositories</span>
+                                    <span class="gh">ranked 702k out of 65.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -3811,14 +3811,14 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L76.688,140.5L189.75,140.5L202.313,140.5L214.875,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.402L428.438,133.099L415.875,129.833L403.313,140.398L390.75,140.358L378.188,140.193L365.625,137.208L353.063,138.679L340.5,119.731L327.938,134.462L315.375,131.202L302.813,133.929L290.25,132.428L277.688,112.094L265.125,134.836L252.563,135.244L240,85.674L214.875,136.542L202.313,122.108L189.75,5.284L76.688,59.391L39,125.973Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L76.688,140.5L189.75,140.5L202.313,140.5L214.875,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.576L428.438,140.869L415.875,141.224L403.313,140.602L390.75,140.611L378.188,140.74L365.625,141.42L353.063,141.393L340.5,145.822L327.938,140.931L315.375,141.286L302.813,141.126L290.25,147.599L277.688,154.761L265.125,142.592L252.563,140.824L240,183.878L214.875,142.513L202.313,145.547L189.75,276L76.688,142.966L39,145.48Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L76.688,140.5L189.75,140.5L202.313,140.5L214.875,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.402L428.438,133.099L415.875,136.084L403.313,140.398L390.75,140.358L378.188,140.193L365.625,137.208L353.063,138.679L340.5,119.731L327.938,134.462L315.375,131.202L302.813,133.929L290.25,132.428L277.688,112.094L265.125,134.836L252.563,135.244L240,85.674L214.875,136.542L202.313,122.108L189.75,5.284L76.688,59.391L39,125.973Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L76.688,140.5L189.75,140.5L202.313,140.5L214.875,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.576L428.438,140.869L415.875,140.824L403.313,140.602L390.75,140.611L378.188,140.74L365.625,141.42L353.063,141.393L340.5,145.822L327.938,140.931L315.375,141.286L302.813,141.126L290.25,147.599L277.688,154.761L265.125,142.592L252.563,140.824L240,183.878L214.875,142.513L202.313,145.547L189.75,276L76.688,142.966L39,145.48Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2024, 14:04:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2024, 15:04:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
