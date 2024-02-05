@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/35) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-2. 🎉 Merged PR [#35](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/35) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-3. 💪 Opened PR [#10](https://github.com/joshuasundance-swca/nonprofit-grader/pull/10) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-4. 💪 Opened PR [#9](https://github.com/joshuasundance-swca/nonprofit-grader/pull/9) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. 💪 Opened PR [#127](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/127) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+1. 🎉 Merged PR [#128](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/128) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. 🎉 Merged PR [#99](https://github.com/joshuasundance-swca/ai_changelog/pull/99) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
+3. ❌ Closed PR [#35](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/35) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+4. 🎉 Merged PR [#35](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/35) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+5. 💪 Opened PR [#10](https://github.com/joshuasundance-swca/nonprofit-grader/pull/10) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
