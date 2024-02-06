@@ -98,7 +98,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -124,7 +124,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5104 Commits
+                            5110 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,7 +232,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    62.8k added, 21.4k removed
+                                    91.6k added, 50.2k removed
                                 </div>
                             </section>
                             <section>
@@ -536,12 +536,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 40 commits)</small>
+                    <small class="h-details">(computed from last 44 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.8 characters per line of code written</li>
+                        <li>Has approximately 45.1 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -560,19 +560,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">joshuasundance-swca/langchain-streamlit-demo</span>
+                                        Closed
+                                        <span class="issue">#30 Update pydantic requirement from &lt;2 to &lt;3</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#be520c1</div>
-                                        <div class="message">Update AI Changelog</div>
-                                    </div>
+                                    <div>opened by dependabot[bot] in <span class="repo">joshuasundance-swca/langchain-research-assistant-docker</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -584,95 +581,113 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">joshuasundance-swca/langchain-streamlit-demo</span>
+                                        <span class="repo">joshuasundance-swca/restgdf_api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc1d32c</div>
-                                        <div class="message">Merge pull request #128 from joshuasundance-swca/dependabot/pip/app-24b90f02eb
+                                        <div class="sha">#cbc547c</div>
+                                        <div class="message">Merge pull request #21 from joshuasundance-swca/dependabot/pip/app-4398aca68a
 
-Bump the app group with 7 updates</div>
+Bump the app group with 3 updates</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#82e5bdb</div>
-                                        <div class="message">Bump the app group with 7 updates
+                                        <div class="sha">#a7e291f</div>
+                                        <div class="message">Bump the app group with 3 updates
 
-Bumps the app group with 7 updates:
-
-| Package | From | To |
-| --- | --- | --- |
-| [anthropic](https://github.com/anthropics/anthropic-sdk-python) | `0.12.0` | `0.15.0` |
-| [duckduckgo-search](https://github.com/deedy5/duckduckgo_search) | `4.3.2` | `4.4` |
-| [langchain](https://github.com/langchain-ai/langchain) | `0.1.4` | `0.1.5` |
-| [langsmith](https://github.com/langchain-ai/langsmith-sdk) | `0.0.84` | `0.0.86` |
-| [openai](https://github.com/openai/openai-python) | `1.10.0` | `1.11.1` |
-| [ruff](https://github.com/astral-sh/ruff) | `0.1.14` | `0.2.0` |
-| [streamlit](https://github.com/streamlit/streamlit) | `1.30.0` | `1.31.0` |
+Bumps the app group with 3 updates: [aiohttp](https://github.com/aio-libs/aiohttp), [fastapi](https://github.com/tiangolo/fastapi) and [pydantic](https://github.com/pydantic/pydantic).
 
 
-Updates `anthropic` from 0.12.0 to 0.15.0
-- [Release notes](https://github.com/anthropics/anthropic-sdk-python/releases)
-- [Changelog](https://github.com/anthropics/anthropic-sdk-python/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/anthropics/anthropic-sdk-python/compare/v0.12.0...v0.15.0)
+Updates `aiohttp` from 3.9.2 to 3.9.3
+- [Release notes](https://github.com/aio-libs/aiohttp/releases)
+- [Changelog](https://github.com/aio-libs/aiohttp/blob/master/CHANGES.rst)
+- [Commits](https://github.com/aio-libs/aiohttp/compare/v3.9.2...v3.9.3)
 
-Updates `duckduckgo-search` from 4.3.2 to 4.4
-- [Release notes](https://github.com/deedy5/duckduckgo_search/releases)
-- [Commits](https://github.com/deedy5/duckduckgo_search/commits/v4.4)
+Updates `fastapi` from 0.109.0 to 0.109.2
+- [Release notes](https://github.com/tiangolo/fastapi/releases)
+- [Commits](https://github.com/tiangolo/fastapi/compare/0.109.0...0.109.2)
 
-Updates `langchain` from 0.1.4 to 0.1.5
-- [Release notes](https://github.com/langchain-ai/langchain/releases)
-- [Commits](https://github.com/langchain-ai/langchain/compare/v0.1.4...v0.1.5)
+Updates `pydantic` from 2.6.0 to 2.6.1
+- [Release notes](https://github.com/pydantic/pydantic/releases)
+- [Changelog](https://github.com/pydantic/pydantic/blob/main/HISTORY.md)
+- [Commits](https://github.com/pydantic/pydantic/compare/v2.6.0...v2.6.1)
 
-Updates `langsmith` from 0.0.84 to 0.0.86
-- [Release notes](https://github.com/langchain-ai/langsmith-sdk/releases)
-- [Commits](https://github.com/langchain-ai/langsmith-sdk/compare/v0.0.84...v0.0.86)
+---
+updated-dependencies:
+- dependency-name: aiohttp
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: app
+- dependency-name: fastapi
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: app
+- dependency-name: pydantic
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: app
+...
 
-Updates `openai` from 1.10.0 to 1.11.1
-- [Release notes](https://github.com/openai/openai-python/releases)
-- [Changelog](https://github.com/openai/openai-python/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/openai/openai-python/compare/v1.10.0...v1.11.1)
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#21 Bump the app group with 3 updates</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by dependabot[bot] in <span class="repo">joshuasundance-swca/restgdf_api</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">joshuasundance-swca/repo-template-testing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72fbcd9</div>
+                                        <div class="message">Merge pull request #42 from joshuasundance-swca/dependabot/pip/dot-github/workflows/requirements/app-790fb853cf
+
+Bump the app group in /.github/workflows/requirements with 1 update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#324bb2d</div>
+                                        <div class="message">Bump the app group in /.github/workflows/requirements with 1 update
+
+Bumps the app group in /.github/workflows/requirements with 1 update: [ruff](https://github.com/astral-sh/ruff).
+
 
 Updates `ruff` from 0.1.14 to 0.2.0
 - [Release notes](https://github.com/astral-sh/ruff/releases)
 - [Changelog](https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md)
 - [Commits](https://github.com/astral-sh/ruff/compare/v0.1.14...v0.2.0)
 
-Updates `streamlit` from 1.30.0 to 1.31.0
-- [Release notes](https://github.com/streamlit/streamlit/releases)
-- [Commits](https://github.com/streamlit/streamlit/compare/1.30.0...1.31.0)
-
 ---
 updated-dependencies:
-- dependency-name: anthropic
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: app
-- dependency-name: duckduckgo-search
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: app
-- dependency-name: langchain
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: app
-- dependency-name: langsmith
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: app
-- dependency-name: openai
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: app
 - dependency-name: ruff
   dependency-type: direct:production
   update-type: version-update:semver-minor
   dependency-group: app
-- dependency-name: streamlit
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: app
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -688,99 +703,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#128 Bump the app group with 7 updates</span>
+                                        <span class="issue">#42 Bump the app group in /.github/workflows/requirements with 1 update</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by dependabot[bot] in <span class="repo">joshuasundance-swca/langchain-streamlit-demo</span></div>
-                                    <div>1 file changed <span class="code">++7 --7</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">joshuasundance-swca/ai_changelog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a3b34dd</div>
-                                        <div class="message">Merge pull request #99 from joshuasundance-swca/dependabot/pip/app-078a133892
-
-Bump the app group with 4 updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c638925</div>
-                                        <div class="message">Bump the app group with 4 updates
-
-Bumps the app group with 4 updates: [anthropic](https://github.com/anthropics/anthropic-sdk-python), [langchain](https://github.com/langchain-ai/langchain), [openai](https://github.com/openai/openai-python) and [pydantic](https://github.com/pydantic/pydantic).
-
-
-Updates `anthropic` from 0.12.0 to 0.15.0
-- [Release notes](https://github.com/anthropics/anthropic-sdk-python/releases)
-- [Changelog](https://github.com/anthropics/anthropic-sdk-python/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/anthropics/anthropic-sdk-python/compare/v0.12.0...v0.15.0)
-
-Updates `langchain` from 0.1.4 to 0.1.5
-- [Release notes](https://github.com/langchain-ai/langchain/releases)
-- [Commits](https://github.com/langchain-ai/langchain/compare/v0.1.4...v0.1.5)
-
-Updates `openai` from 1.10.0 to 1.11.1
-- [Release notes](https://github.com/openai/openai-python/releases)
-- [Changelog](https://github.com/openai/openai-python/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/openai/openai-python/compare/v1.10.0...v1.11.1)
-
-Updates `pydantic` from 2.5.3 to 2.6.0
-- [Release notes](https://github.com/pydantic/pydantic/releases)
-- [Changelog](https://github.com/pydantic/pydantic/blob/main/HISTORY.md)
-- [Commits](https://github.com/pydantic/pydantic/compare/v2.5.3...v2.6.0)
-
----
-updated-dependencies:
-- dependency-name: anthropic
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: app
-- dependency-name: langchain
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: app
-- dependency-name: openai
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: app
-- dependency-name: pydantic
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: app
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#99 Bump the app group with 4 updates</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by dependabot[bot] in <span class="repo">joshuasundance-swca/ai_changelog</span></div>
-                                    <div>1 file changed <span class="code">++4 --4</span></div>
+                                    <div>opened by dependabot[bot] in <span class="repo">joshuasundance-swca/repo-template-testing</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -850,13 +778,13 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.838998211091235" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="9.838998211091235" y="0" width="75.95706618962433" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="85.79606440071557" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="85.79606440071557" y="0" width="134.20393559928445" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="8.264758497316638" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="8.264758497316638" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="8.264758497316638" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="8.264758497316638" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="8.264758497316638" y="0" width="76.74418604651163" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="85.00894454382826" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="85.00894454382826" y="0" width="134.99105545617175" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -864,13 +792,13 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">25 <small>open</small></span>
+                                <span class="no-wrap">21 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">341 <small>merged</small></span>
+                                <span class="no-wrap">343 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -883,7 +811,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">193 <small>closed</small></span>
+                                <span class="no-wrap">195 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -3412,7 +3340,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.17m out of 81.1m repositories</span>
+                                    <span class="gh">ranked 1.17m out of 80.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 9 times</div>
                             </div>
@@ -3502,7 +3430,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 703k out of 81.1m repositories</span>
+                                    <span class="gh">ranked 703k out of 80.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -3675,6 +3603,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">joshuasundance-swca/ai_changelog</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">joshuasundance-swca/restgdf</span>
                         </div>
                         <div class="field">
@@ -3687,16 +3621,22 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/restgdf_api</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">joshuasundance-swca/dataripper</span>
+                            <span class="diff-handle">joshuasundance-swca/langchain-streamlit-demo</span>
                         </div>
                     </section>
                     <section>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +31.4k</span>
+                                <span class="deleted"> -29.8k</span>
+                            </div>
+                            <span> </span>
+                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -3728,20 +3668,8 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +3.10k</span>
-                                <span class="deleted"> -1.90k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +3.42k</span>
-                                <span class="deleted"> -1.54k</span>
+                                <span class="added"> +6.07k</span>
+                                <span class="deleted"> -3.03k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3787,43 +3715,43 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,29.67283781563236)">
+                            <g class="tick" opacity="1" transform="translate(0,7.721311475409838)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">15k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">30k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,66.78189187708826)">
+                            <g class="tick" opacity="1" transform="translate(0,52.14754098360655)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,96.57377049180329)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,103.89094593854412)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">5.0k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,178.10905406145585)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−5.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,215.21810812291173)">
+                            <g class="tick" opacity="1" transform="translate(0,185.4262295081967)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,252.32716218436767)">
+                            <g class="tick" opacity="1" transform="translate(0,229.85245901639345)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−15k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,274.27868852459017)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L76.688,140.5L227.438,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.448L428.438,140.055L415.875,122.792L403.313,140.404L390.75,140.352L378.188,140.099L365.625,137.153L353.063,139.03L340.5,128.106L327.938,123.17L315.375,125.434L302.813,129.367L290.25,127L277.688,93.334L265.125,131.542L252.563,131.943L240,48.87L227.438,130.77L76.688,5L39,116.231Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L76.688,140.5L227.438,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.552L428.438,140.916L415.875,141.598L403.313,140.596L390.75,140.648L378.188,140.856L365.625,141.205L353.063,141.264L340.5,145.977L327.938,148.716L315.375,141.48L302.813,141.658L290.25,152.375L277.688,164.198L265.125,143.758L252.563,140.953L240,212.84L227.438,144.434L76.688,144.619L39,148.82Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L76.688,140.5L189.75,140.5L202.313,140.5L214.875,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.416L428.438,138.017L415.875,136.133L403.313,140.424L390.75,140.384L378.188,140.282L365.625,137.977L353.063,138.803L340.5,119.851L327.938,134.507L315.375,134.058L302.813,133.938L290.25,136.368L277.688,121.628L265.125,134.867L252.563,140.353L240,87.655L214.875,136.542L202.313,122.108L189.75,5.284L76.688,59.391L39,125.973Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L76.688,140.5L189.75,140.5L202.313,140.5L214.875,140.5L240,140.5L252.563,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,140.562L428.438,140.74L415.875,140.775L403.313,140.576L390.75,140.584L378.188,140.66L365.625,141.255L353.063,141.269L340.5,145.702L327.938,140.887L315.375,141.197L302.813,141.118L290.25,144.161L277.688,149.874L265.125,142.561L252.563,140.567L240,182.541L214.875,142.513L202.313,145.547L189.75,276L76.688,142.966L39,145.48Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2024, 00:04:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2024, 01:05:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
