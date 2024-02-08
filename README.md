@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/30) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
-2. 🎉 Merged PR [#21](https://github.com/joshuasundance-swca/restgdf_api/pull/21) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-3. 🎉 Merged PR [#42](https://github.com/joshuasundance-swca/repo-template-testing/pull/42) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-4. 🎉 Merged PR [#128](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/128) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-5. 🎉 Merged PR [#99](https://github.com/joshuasundance-swca/ai_changelog/pull/99) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
+1. 🔒 Closed issue [#9505](https://github.com/langchain-ai/langchain/issues/9505) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. ❌ Closed PR [#30](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/30) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+3. 🎉 Merged PR [#21](https://github.com/joshuasundance-swca/restgdf_api/pull/21) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+4. 🎉 Merged PR [#42](https://github.com/joshuasundance-swca/repo-template-testing/pull/42) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+5. 🎉 Merged PR [#128](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/128) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
 <!--END_SECTION:activity-->
