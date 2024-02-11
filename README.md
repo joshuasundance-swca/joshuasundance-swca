@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/29) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
-2. 🎉 Merged PR [#34](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/34) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-3. 🎉 Merged PR [#11](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/11) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-4. 🎉 Merged PR [#72](https://github.com/joshuasundance-swca/restgdf/pull/72) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-5. 🎉 Merged PR [#71](https://github.com/joshuasundance-swca/restgdf/pull/71) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+1. 💪 Opened PR [#11](https://github.com/joshuasundance-swca/nonprofit-grader/pull/11) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+2. 🎉 Merged PR [#29](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/29) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+3. 🎉 Merged PR [#34](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/34) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+4. 🎉 Merged PR [#11](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/11) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+5. 🎉 Merged PR [#72](https://github.com/joshuasundance-swca/restgdf/pull/72) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
 <!--END_SECTION:activity-->
