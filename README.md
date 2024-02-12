@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/36) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-2. 💪 Opened PR [#12](https://github.com/joshuasundance-swca/nonprofit-grader/pull/12) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-3. 💪 Opened PR [#11](https://github.com/joshuasundance-swca/nonprofit-grader/pull/11) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-4. 🎉 Merged PR [#29](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/29) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
-5. 🎉 Merged PR [#34](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/34) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+1. 🗣 Commented on [#84](https://github.com/langchain-ai/opengpts/pull/84#issuecomment-1939521194) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
+2. 💪 Opened PR [#1](https://github.com/thinkthinking/opengpts/pull/1) in [thinkthinking/opengpts](https://github.com/thinkthinking/opengpts)
+3. 🎉 Merged PR [#36](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/36) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+4. 💪 Opened PR [#12](https://github.com/joshuasundance-swca/nonprofit-grader/pull/12) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+5. 💪 Opened PR [#11](https://github.com/joshuasundance-swca/nonprofit-grader/pull/11) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
