@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/langchain-ai/opengpts/pull/84#issuecomment-1939521194) in [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
-2. 💪 Opened PR [#1](https://github.com/thinkthinking/opengpts/pull/1) in [thinkthinking/opengpts](https://github.com/thinkthinking/opengpts)
-3. 🎉 Merged PR [#36](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/36) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-4. 💪 Opened PR [#12](https://github.com/joshuasundance-swca/nonprofit-grader/pull/12) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. 💪 Opened PR [#11](https://github.com/joshuasundance-swca/nonprofit-grader/pull/11) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+1. 🎉 Merged PR [#100](https://github.com/joshuasundance-swca/ai_changelog/pull/100) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
+2. 🎉 Merged PR [#73](https://github.com/joshuasundance-swca/restgdf/pull/73) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+3. 🎉 Merged PR [#12](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/12) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+4. 🎉 Merged PR [#22](https://github.com/joshuasundance-swca/restgdf_api/pull/22) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+5. 🎉 Merged PR [#43](https://github.com/joshuasundance-swca/repo-template-testing/pull/43) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
 <!--END_SECTION:activity-->
