@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/joshuasundance-swca/restgdf/pull/82) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-2. 💪 Opened PR [#22](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/22) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-3. 🚀 Published release [v0.1.7-experimental-unapproved-text-color](https://github.com/joshuasundance-swca/st-multimodal-chatinput/releases/tag/v0.1.7-experimental-unapproved-text-color) in [joshuasundance-swca/st-multimodal-chatinput](https://github.com/joshuasundance-swca/st-multimodal-chatinput)
-4. 🗣 Commented on [#1](https://github.com/het-25/st-multimodal-chatinput/issues/1#issuecomment-2043865863) in [het-25/st-multimodal-chatinput](https://github.com/het-25/st-multimodal-chatinput)
-5. 💪 Opened PR [#14](https://github.com/joshuasundance-swca/nonprofit-grader/pull/14) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+1. 🗣 Commented on [#104](https://github.com/joshuasundance-swca/ai_changelog/pull/104#issuecomment-2061427126) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
+2. 🎉 Merged PR [#110](https://github.com/joshuasundance-swca/ai_changelog/pull/110) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
+3. 🎉 Merged PR [#45](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/45) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+4. 🗣 Commented on [#13](https://github.com/run-llama/chat-llamaindex/pull/13#issuecomment-2061392996) in [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
+5. 💪 Opened PR [#82](https://github.com/joshuasundance-swca/restgdf/pull/82) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
 <!--END_SECTION:activity-->
