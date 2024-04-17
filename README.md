@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/joshuasundance-swca/ai_changelog/pull/104#issuecomment-2061427126) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
-2. 🎉 Merged PR [#110](https://github.com/joshuasundance-swca/ai_changelog/pull/110) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
-3. 🎉 Merged PR [#45](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/45) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-4. 🗣 Commented on [#13](https://github.com/run-llama/chat-llamaindex/pull/13#issuecomment-2061392996) in [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex)
-5. 💪 Opened PR [#82](https://github.com/joshuasundance-swca/restgdf/pull/82) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+1. 🎉 Merged PR [#142](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/142) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. 🎉 Merged PR [#51](https://github.com/joshuasundance-swca/repo-template-testing/pull/51) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+3. 🎉 Merged PR [#45](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/45) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+4. ❗ Opened issue [#31](https://github.com/joshuasundance-swca/restgdf_api/issues/31) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+5. 🎉 Merged PR [#30](https://github.com/joshuasundance-swca/restgdf_api/pull/30) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
 <!--END_SECTION:activity-->
