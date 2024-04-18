@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#142](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/142) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
-2. 🎉 Merged PR [#51](https://github.com/joshuasundance-swca/repo-template-testing/pull/51) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
-3. 🎉 Merged PR [#45](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/45) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-4. ❗ Opened issue [#31](https://github.com/joshuasundance-swca/restgdf_api/issues/31) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-5. 🎉 Merged PR [#30](https://github.com/joshuasundance-swca/restgdf_api/pull/30) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+1. 🚀 Published release [testing fragment](https://github.com/joshuasundance-swca/streamlit-oauth/releases/tag/fragment0.1) in [joshuasundance-swca/streamlit-oauth](https://github.com/joshuasundance-swca/streamlit-oauth)
+2. 🚀 Published release [fragment](https://github.com/joshuasundance-swca/streamlit-oauth/releases/tag/fragment) in [joshuasundance-swca/streamlit-oauth](https://github.com/joshuasundance-swca/streamlit-oauth)
+3. 🎉 Merged PR [#142](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/142) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+4. 🎉 Merged PR [#51](https://github.com/joshuasundance-swca/repo-template-testing/pull/51) in [joshuasundance-swca/repo-template-testing](https://github.com/joshuasundance-swca/repo-template-testing)
+5. 🎉 Merged PR [#45](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/45) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
 <!--END_SECTION:activity-->
