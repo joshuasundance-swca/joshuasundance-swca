@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3546" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3876" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.property{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -38,17 +38,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            jupyter
+                            fix
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e45e01f3</span>
+                            <span class="code">426ca912</span>
                             <span class="code">requirements.txt</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--0</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">anthropic<br /></span><span class="token prefix unchanged">·</span><span class="token line">cohere<br /></span><span class="token prefix unchanged">·</span><span class="token line">faiss-cpu<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">jupyterlab<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">langchain<br /></span><span class="token prefix unchanged">·</span><span class="token line">langchain-cli<br /></span><span class="token prefix unchanged">·</span><span class="token line">langchainhub</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,7 +3,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">faiss-cpu<br /></span><span class="token prefix unchanged">·</span><span class="token line">langchain<br /></span><span class="token prefix unchanged">·</span><span class="token line">langchain-cli<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">langchainfhub<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">langchainhub<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">langserve<br /></span><span class="token prefix unchanged">·</span><span class="token line">langsmith<br /></span><span class="token prefix unchanged">·</span><span class="token line">numpy</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -232,7 +232,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    100k added, 53k removed
+                                    105k added, 54.7k removed
                                 </div>
                             </section>
                             <section>
@@ -264,7 +264,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    329 views in last two weeks
+                                    355 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -541,7 +541,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 13 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -561,6 +561,293 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 36 commits in
+                                        <span class="repo">swca/langchain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#416549b</div>
+                                        <div class="message">docs: Updated Together integration docs (#21388)
+
+**Description:** Updated the together integration docs by leading with
+the streaming example, explicitly specifying a model to show users how
+to do that, and updating the sections to more closely match other
+integrations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7994cba</div>
+                                        <div class="message">[Community][Minor]: Fetch loader_source of GoogleDriveLoader in PebbloSafeLoader. (#21314)
+
+Description: This PR includes fix for loader_source to be fetched from
+metadata in case of GdriveLoaders.
+Documentation: NA
+Unit Test: NA
+
+Signed-off-by: Rahul Tripathi &lt;rauhl.psit.ec@gmail.com&gt;
+Co-authored-by: Rahul Tripathi &lt;rauhl.psit.ec@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cbf1c3</div>
+                                        <div class="message">docs: table legend updated (#21351)
+
+Compacted the table column legends. Added links. Similar to #21259</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5bde4f</div>
+                                        <div class="message">infra: use nbconvert for docs build (#21135)
+
+todo
+
+- [x] remove quarto build semantics
+- [x] remove quarto download/install
+- [x] make `uv` not verbose</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad0f3c1</div>
+                                        <div class="message">core: allow mermaid node labels to have any characters (#21385)
+
+- it's only node ids that are limited
+
+Thank you for contributing to LangChain!
+
+- [ ] **PR title**: "package: description"
+- Where "package" is whichever of langchain, community, core,
+experimental, etc. is being modified. Use "docs: ..." for purely docs
+changes, "templates: ..." for template changes, "infra: ..." for CI
+changes.
+  - Example: "community: add foobar LLM"
+
+
+- [ ] **PR message**: ***Delete this entire checklist*** and replace
+with
+    - **Description:** a description of the change
+    - **Issue:** the issue # it fixes, if applicable
+    - **Dependencies:** any dependencies required for this change
+- **Twitter handle:** if your PR gets announced, and you'd like a
+mention, we'll gladly shout you out!
+
+
+- [ ] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+
+
+- [ ] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package(s) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files (even optional
+ones) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, hwchase17.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a1d61d</div>
+                                        <div class="message">community[patch]: Fix in memory vectorstore to take into account ids when adding docs (#21384)
+
+Should respect `ids` if passed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80170da</div>
+                                        <div class="message">docs: update cassandra_database.ipynb (#21145)
+
+Enviroment -&gt; Environment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04e2611</div>
+                                        <div class="message">Added additional headers for HuggingFaceInferenceAPIEmbeddings endpoint. (#21282)
+
+Thank you for contributing to LangChain!
+
+- [ ] **HuggingFaceInferenceAPIEmbeddings**: "Additional Headers"
+  - Where: langchain, community, embeddings. huggingface.py.
+- Community: add additional headers when needed by custom HuggingFace
+TEI embedding endpoints. HuggingFaceInferenceAPIEmbeddings"
+
+
+- [ ] **PR message**: ***Delete this entire checklist*** and replace
+with
+- **Description:** Adding the `additional_headers` to be passed to
+requests library if needed
+    - **Dependencies:** none
+ 
+
+- [ ] **Add tests and docs**: If you're adding a new integration, please
+include
+1. Tested with locally available TEI endpoints with and without
+`additional_headers`
+  2. Example  Usage
+  
+```python
+embeddings=HuggingFaceInferenceAPIEmbeddings(
+                             api_key=MY_CUSTOM_API_KEY,
+                             api_url=MY_CUSTOM_TEI_URL,
+                             additional_headers={
+                                "Content-Type": "application/json"
+                               }
+)
+```
+
+ 
+
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files (even optional
+ones) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, hwchase17.
+
+---------
+
+Co-authored-by: Massimiliano Pronesti &lt;massimiliano.pronesti@gmail.com&gt;
+Co-authored-by: Harrison Chase &lt;hw.chase.17@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c34419e</div>
+                                        <div class="message">docs: update quick_start.ipynb (#21358)
+
+initalize -&gt; initialize
+
+
+
+- [x] **PR title**: "package: description"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fe66f5</div>
+                                        <div class="message">community(patch) fix MoonshotChat moonshot_api_key is invaild for api key (#21361)
+
+Description: close
+https://github.com/langchain-ai/langchain/issues/21237
+@baskaryan, @eyurtsev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2ed484</div>
+                                        <div class="message">community: add Sambaverse rate limitation info to sambanova.ipynb (#21379)
+
+- **Description:** add Sambaverse rate limitation info to
+sambanova.ipynb
+    - **Issue:** NA
+    - **Dependencies:** NA</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bf7596</div>
+                                        <div class="message">Add simple node properties to llm graph transformer (#21369)
+
+Add support for simple node properties in llm graph transformer.
+
+Linter and dynamic pydantic classes aren't friends, hence I added two
+ignores</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#080af0e</div>
+                                        <div class="message">langchain: sync -&gt; async methods in OpenAI assistants (#21378)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad3fd44</div>
+                                        <div class="message">experimental: Fix llm graph transformer bug (#21362)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb81ae5</div>
+                                        <div class="message">together: fix chat model and embedding classes (#21353)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6ef5fe</div>
+                                        <div class="message">together: add chat models, use openai base (#21337)
+
+**Description:** Adding chat completions to the Together AI package,
+which is our most popular API. Also staying backwards compatible with
+the old API so folks can continue to use the completions API as well.
+Also moved the embedding API to use the OpenAI library to standardize it
+further.
+
+**Twitter handle:** @nutlope
+
+- [x] **Add tests and docs**: If you're adding a new integration, please
+include
+- [x] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package(s) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, hwchase17.
+
+---------
+
+Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2d3130</div>
+                                        <div class="message">Adds confirmation logs after creating a new project (#12618)
+
+@efriis @hwchase17
+
+---------
+
+Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0fb93cd</div>
+                                        <div class="message">core: release 0.1.52 (#21350)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32c61b3</div>
+                                        <div class="message">community[patch]: chat message history mypy fixes #17048 (#20114)
+
+Relates [#17048]
+Description : Applied fix to redis and neo4j file.
+
+Error was : `Cannot override writeable attribute with read-only
+property`
+
+fix with the same solution of
+[[langchain/libs/community/langchain_community/chat_message_histories/elasticsearch.py](https://github.com/langchain-ai/langchain/blob/d5c412b0a9a8af02754de60f93d93c3efa33ccdb/libs/community/langchain_community/chat_message_histories/elasticsearch.py#L170-L175)]
+
+---------
+
+Co-authored-by: Bagatur &lt;22008038+baskaryan@users.noreply.github.com&gt;
+Co-authored-by: Chester Curme &lt;chester.curme@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95cc8e3</div>
+                                        <div class="message">premai[patch]:Standardized model init args (#21308)
+
+[Standardized model init args
+#20085](https://github.com/langchain-ai/langchain/issues/20085)
+- Enable premai chat model to be initialized with `model_name` as an
+alias for `model`, `api_key` as an alias for `premai_api_key`.
+- Add initialization test `test_premai_initialization`
+
+---------
+
+Co-authored-by: Chester Curme &lt;chester.curme@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -632,30 +919,6 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <div class="details">
                                     <div> in <span class="repo">joshuasundance-swca/restgdf</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">joshuasundance-swca/restgdf</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">snyk-fix-77413123aec471b46d332b0f575ff8ca</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#08c7865</div>
-                                        <div class="message">fix: requirements.txt to reduce vulnerabilities
-
-
-The following vulnerabilities are fixed by pinning transitive dependencies:
-- https://snyk.io/vuln/SNYK-PYTHON-JINJA2-6809379</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3292,7 +3555,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.10m out of 204m repositories</span>
+                                    <span class="gh">ranked 1.10m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 10 times</div>
                             </div>
@@ -3382,7 +3645,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 729k out of 204m repositories</span>
+                                    <span class="gh">ranked 729k out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -3708,14 +3971,14 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.482L423.133,140.491L414.2,140.047L405.267,140.478L396.333,140.491L387.4,140.424L378.467,140.487L369.533,140.478L360.6,140.482L351.667,140.433L342.733,140.487L333.8,140.393L324.867,134.44L315.933,130.86L307,129.873L298.067,140.389L289.133,140.331L280.2,140.198L271.267,137.221L262.333,138.696L253.4,119.744L244.467,129.544L235.533,130.948L226.6,138.652L217.667,132.419L208.733,112.076L199.8,135.573L190.867,135.231L181.933,85.167L173,134.676L164.067,136.542L155.133,122.108L146.2,5.284L65.8,59.391L39,125.973Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.518L423.133,140.509L414.2,140.913L405.267,140.522L396.333,140.509L387.4,140.562L378.467,140.513L369.533,140.522L360.6,140.518L351.667,140.562L342.733,140.513L333.8,140.607L324.867,141.069L315.933,140.887L307,141.184L298.067,140.611L289.133,140.638L280.2,140.735L271.267,141.406L262.333,141.375L253.4,145.809L244.467,145.529L235.533,141.313L226.6,140.616L217.667,147.608L208.733,154.779L199.8,142.561L190.867,140.838L181.933,183.94L173,142.855L164.067,142.513L155.133,145.547L146.2,276L65.8,142.966L39,145.48Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.482L423.133,140.491L414.2,140.047L405.267,140.478L396.333,140.491L387.4,140.424L378.467,140.487L369.533,140.478L360.6,140.482L351.667,140.433L342.733,140.487L333.8,140.393L324.867,134.391L315.933,130.842L307,129.824L298.067,140.389L289.133,140.331L280.2,140.18L271.267,136.973L262.333,138.652L253.4,119.731L244.467,129.518L235.533,130.926L226.6,133.827L217.667,132.419L208.733,112.076L199.8,135.573L190.867,135.231L181.933,85.167L173,134.676L164.067,136.542L155.133,122.108L146.2,5.284L65.8,59.391L39,125.973Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.518L423.133,140.509L414.2,140.913L405.267,140.522L396.333,140.509L387.4,140.562L378.467,140.513L369.533,140.522L360.6,140.518L351.667,140.562L342.733,140.513L333.8,140.607L324.867,141.118L315.933,140.904L307,141.233L298.067,140.611L289.133,140.638L280.2,140.753L271.267,141.46L262.333,141.42L253.4,145.822L244.467,145.556L235.533,141.335L226.6,141.202L217.667,147.608L208.733,154.779L199.8,142.561L190.867,140.838L181.933,183.94L173,142.855L164.067,142.513L155.133,145.547L146.2,276L65.8,142.966L39,145.48Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2024, 16:05:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2024, 17:04:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
