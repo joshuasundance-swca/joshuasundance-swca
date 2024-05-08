@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/joshuasundance-swca/restgdf/pull/88) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-2. 💪 Opened PR [#16](https://github.com/joshuasundance-swca/nonprofit-grader/pull/16) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-3. ❗ Opened issue [#35](https://github.com/langchain-ai/langchain-postgres/issues/35) in [langchain-ai/langchain-postgres](https://github.com/langchain-ai/langchain-postgres)
-4. 💪 Opened PR [#15](https://github.com/joshuasundance-swca/nonprofit-grader/pull/15) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. 🚀 Published release [return dict instead of encoded json](https://github.com/joshuasundance-swca/streamlit-oauth/releases/tag/fragment0.3) in [joshuasundance-swca/streamlit-oauth](https://github.com/joshuasundance-swca/streamlit-oauth)
+1. 💪 Opened PR [#27](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/27) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+2. 💪 Opened PR [#88](https://github.com/joshuasundance-swca/restgdf/pull/88) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+3. 💪 Opened PR [#16](https://github.com/joshuasundance-swca/nonprofit-grader/pull/16) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+4. ❗ Opened issue [#35](https://github.com/langchain-ai/langchain-postgres/issues/35) in [langchain-ai/langchain-postgres](https://github.com/langchain-ai/langchain-postgres)
+5. 💪 Opened PR [#15](https://github.com/joshuasundance-swca/nonprofit-grader/pull/15) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
