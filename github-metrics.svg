@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4225" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3559" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.large .diff-handle{max-width:400px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.keyword{color:#b44418}.token.number,.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -38,16 +38,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            ocr
+                            blah
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">adf2fda2</span>
-                            <span class="code">Dockerfile</span>
+                            <span class="code">b6be301d</span>
+                            <span class="code">nonprofit-grader/backend/requirements.txt</span>
                             <span class="code">
-                                <span class="snippet additions">++5</span>
+                                <span class="snippet additions">++8</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">FROM python:3.11-slim-bookworm<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">RUN apt-get update &amp;&amp; \<br /></span><span class="token prefix inserted">+</span><span class="token line">   apt-get install libmagic-dev poppler-utils tesseract-ocr -y &amp;&amp; \<br /></span><span class="token prefix inserted">+</span><span class="token line">   apt-get clean &amp;&amp; \<br /></span><span class="token prefix inserted">+</span><span class="token line">   rm -rf /var/lib/apt/lists/*<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">RUN adduser --uid 1000 --disabled-password --gecos '' appuser<br /></span><span class="token prefix unchanged">·</span><span class="token line">USER 1000<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">langchain<br /></span><span class="token prefix inserted">+</span><span class="token line">langchain-cli<br /></span><span class="token prefix inserted">+</span><span class="token line">langchainhub<br /></span><span class="token prefix inserted">+</span><span class="token line">langserve<br /></span><span class="token prefix inserted">+</span><span class="token line">langsmith<br /></span><span class="token prefix inserted">+</span><span class="token line">openai<br /></span><span class="token prefix inserted">+</span><span class="token line">pymongo<br /></span><span class="token prefix inserted">+</span><span class="token line">tiktoken</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -97,7 +97,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -136,7 +136,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            221 Pull requests opened
+                            222 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -226,13 +226,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    291 MB used
+                                    292 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    84.7k added, 39.3k removed
+                                    98.6k added, 51.5k removed
                                 </div>
                             </section>
                             <section>
@@ -541,7 +541,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 10 commits)</small>
+                    <small class="h-details">(computed from last 11 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -561,6 +561,63 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#27 [Snyk] Security upgrade jinja2 from 3.1.3 to 3.1.4</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">joshuasundance-swca/detect_llm_api_keys</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">joshuasundance-swca/detect_llm_api_keys</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">snyk-fix-115642f67233d374eb420d53e667157e</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f29d066</div>
+                                        <div class="message">fix: requirements.txt to reduce vulnerabilities
+
+
+The following vulnerabilities are fixed by pinning transitive dependencies:
+- https://snyk.io/vuln/SNYK-PYTHON-JINJA2-6809379</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">snyk-fix-115642f67233d374eb420d53e667157e</span>
+                                        in
+                                        <span class="repo">joshuasundance-swca/detect_llm_api_keys</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -598,887 +655,6 @@
 
 The following vulnerabilities are fixed by pinning transitive dependencies:
 - https://snyk.io/vuln/SNYK-PYTHON-JINJA2-6809379</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">snyk-fix-77413123aec471b46d332b0f575ff8ca</span>
-                                        in
-                                        <span class="repo">joshuasundance-swca/restgdf</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 42 commits in
-                                        <span class="repo">swca/langchain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#682d21c</div>
-                                        <div class="message">ibm: Add support for ibm-watsonx-ai new major version (#21313)
-
-Thank you for contributing to LangChain!
-
-- [x] **PR title**: "langchain-ibm: Add support for ibm-watsonx-ai new
-major version"
-
-
-- [x] **PR message**: 
-    - **Description:** Add support for ibm-watsonx-ai new major version
-    - **Dependencies:** `ibm_watsonx_ai`
-
-
-- [x] **Add tests and docs**: If you're adding a new integration, please
-include
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in
-`docs/docs/integrations` directory.
-
-
-- [x] **Lint and test**: Run `make format`, `make lint` and `make test`
-from the root of the package(s) you've modified. See contribution
-guidelines for more: https://python.langchain.com/docs/contributing/
-
-Co-authored-by: Erick Friis &lt;erick@langchain.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee6c922</div>
-                                        <div class="message">langchain[minor]: enhance `LocalFileStore` to offer `update_atime` parameter that updates access times on read (#20951)
-
-**Description:**
-The `LocalFileStore` class can be used to create an on-disk
-`CacheBackedEmbeddings` cache. The number of files in these embeddings
-caches can grow to be quite large over time (hundreds of thousands) as
-embeddings are computed for new versions of content, but the embeddings
-for old/deprecated content are not removed.
-
-A *least-recently-used* (LRU) cache policy could be applied to the
-`LocalFileStore` directory to delete cache entries that have not been
-referenced for some time:
-
-```bash
-# delete files that have not been accessed in the last 90 days
-find embeddings_cache_dir/ -atime 90 -print0 | xargs -0 rm
-```
-
-However, most filesystems in enterprise environments disable access time
-modification on read to improve performance. As a result, the access
-times of these cache entry files are not updated when their values are
-read.
-
-To resolve this, this pull request updates the `LocalFileStore`
-constructor to offer an `update_atime` parameter that causes access
-times to be updated when a cache entry is read.
-
-For example,
-
-```python
-file_store = LocalFileStore(temp_dir, update_atime=True)
-```
-
-The default is `False`, which retains the original behavior.
-
-**Testing:**
-I updated the LocalFileStore unit tests to test the access time update.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b6d1a9</div>
-                                        <div class="message">Add the extract types to diffbot graph transformer (#21315)
-
-Before you could only extract triples (diffbot calls it facts) from
-diffbot to avoid isolated nodes. However, sometimes isolated nodes can
-still be useful like for prefiltering, so we want to allow users to
-extract them if they want. Default behaviour is unchanged.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c038991</div>
-                                        <div class="message">docs: Update pandas.ipynb (#21289)
-
-Remove the redundant comment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b868c78</div>
-                                        <div class="message">partners[anthropic]: update unit test for key passed in from the environment (#21290)
-
-**Description:** Update unit test for ChatAnthropic
-**Issue:** Test for key passed in from the environment should not have
-the key initialized in the constructor
-**Dependencies:** None</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d310f9c</div>
-                                        <div class="message">docs:update code structure (#21302)
-
-update the structure of llm_chain variables
-
-Co-authored-by: tanersemenn &lt;0418&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba9dc04</div>
-                                        <div class="message">docs: Add doc for hybrid search (#21245)
-
-See
-[preview](https://langchain-git-fork-cbornet-doc-hybrid-search-langchain.vercel.app/docs/use_cases/question_answering/hybrid/)
-
-In the model of [per user
-retrieval](https://python.langchain.com/docs/use_cases/question_answering/per_user/)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8021d2a</div>
-                                        <div class="message">community[minor]: Oraclevs integration (#21123)
-
-Thank you for contributing to LangChain!
-
-- Oracle AI Vector Search 
-Oracle AI Vector Search is designed for Artificial Intelligence (AI)
-workloads that allows you to query data based on semantics, rather than
-keywords. One of the biggest benefit of Oracle AI Vector Search is that
-semantic search on unstructured data can be combined with relational
-search on business data in one single system. This is not only powerful
-but also significantly more effective because you don't need to add a
-specialized vector database, eliminating the pain of data fragmentation
-between multiple systems.
-
-
-- Oracle AI Vector Search is designed for Artificial Intelligence (AI)
-workloads that allows you to query data based on semantics, rather than
-keywords. One of the biggest benefit of Oracle AI Vector Search is that
-semantic search on unstructured data can be combined with relational
-search on business data in one single system. This is not only powerful
-but also significantly more effective because you don't need to add a
-specialized vector database, eliminating the pain of data fragmentation
-between multiple systems.
-This Pull Requests Adds the following functionalities
-Oracle AI Vector Search : Vector Store
-Oracle AI Vector Search : Document Loader
-Oracle AI Vector Search : Document Splitter
-Oracle AI Vector Search : Summary
-Oracle AI Vector Search : Oracle Embeddings
-
-
-- We have added unit tests and have our own local unit test suite which
-verifies all the code is correct. We have made sure to add guides for
-each of the components and one end to end guide that shows how the
-entire thing runs.
-
-
-- We have made sure that make format and make lint run clean.
-
-Additional guidelines:
-- Make sure optional dependencies are imported within a function.
-- Please do not add dependencies to pyproject.toml files (even optional
-ones) unless they are required for unit tests.
-- Most PRs should not touch more than one package.
-- Changes should be backwards compatible.
-- If you are adding something to community, do not re-import it in
-langchain.
-
-If no one reviews your PR within a few days, please @-mention one of
-baskaryan, efriis, eyurtsev, hwchase17.
-
----------
-
-Co-authored-by: skmishraoracle &lt;shailendra.mishra@oracle.com&gt;
-Co-authored-by: hroyofc &lt;harichandan.roy@oracle.com&gt;
-Co-authored-by: Bagatur &lt;22008038+baskaryan@users.noreply.github.com&gt;
-Co-authored-by: Bagatur &lt;baskaryan@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9e9470</div>
-                                        <div class="message">langchain: fix deprecation decorators on extraction chains (#21276)
-
-Calling any of these raises
-```
-ValueError: A pending deprecation cannot have a scheduled removal
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee1adaa</div>
-                                        <div class="message">langchain[patch]: Fix summary buffer memory with return message flag (#21115)
-
-## Description
-Memory return could be set as `str` or `message` by `return_messages`
-flag as mentioned in
-https://python.langchain.com/docs/modules/memory/#whether-memory-is-a-string-or-a-list-of-messages,
-where
-`langchain.chains.conversation.memory.ConversationSummaryBufferMemory`
-did not implement that.
-This commit added `buffer_as_str` and `buffer_as_messages` function, and
-`buffer` now affected by `return_messages` flag.
-
-## Example Test Code and Output
-
-```python
-# Fix: ConversationSummaryBufferMemory with return_messages flag function
-# Test code
-from langchain.chains.conversation.memory import ConversationSummaryBufferMemory
-from langchain_community.llms.ollama import Ollama
-
-llm = Ollama()
-
-# Create an instance of ConversationSummaryBufferMemory with return_messages set to True
-memory = ConversationSummaryBufferMemory(return_messages=True, llm=llm)
-
-# Add user and AI messages to the chat memory
-memory.chat_memory.add_user_message("hi!")
-memory.chat_memory.add_ai_message("what's up?")
-
-# Print the buffer
-print("Buffer:")
-print(*map(type, memory.buffer), sep="\n")
-print(memory.buffer, "\n")
-
-# Print the buffer as a string
-print("Buffer as String:")
-print(type(memory.buffer_as_str))
-print(memory.buffer_as_str, "\n")
-
-# Print the buffer as messages
-print("Buffer as Messages:")
-print(*map(type, memory.buffer_as_messages), sep="\n")
-print(memory.buffer_as_messages, "\n")
-
-# Print the buffer after setting return_messages to False
-memory.return_messages = False
-print("Buffer after setting return_messages to False:")
-print(type(memory.buffer))
-print(memory.buffer, "\n")
-```
-
-```plaintext
-Buffer:
-&lt;class 'langchain_core.messages.human.HumanMessage'&gt;
-&lt;class 'langchain_core.messages.ai.AIMessage'&gt;
-[HumanMessage(content='hi!'), AIMessage(content="what's up?")] 
-
-Buffer as String:
-&lt;class 'str'&gt;
-Human: hi!
-AI: what's up? 
-
-Buffer as Messages:
-&lt;class 'langchain_core.messages.human.HumanMessage'&gt;
-&lt;class 'langchain_core.messages.ai.AIMessage'&gt;
-[HumanMessage(content='hi!'), AIMessage(content="what's up?")] 
-
-Buffer after setting return_messages to False:
-&lt;class 'str'&gt;
-Human: hi!
-AI: what's up? 
-```
-
----------
-
-Co-authored-by: Bagatur &lt;22008038+baskaryan@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9639457</div>
-                                        <div class="message">community[patch]: `tools` imports (#21156)
-
-Issue: we have several helper functions to import third-party libraries
-like tools.gmail.utils.import_google in
-[community.tools](https://api.python.langchain.com/en/latest/community_api_reference.html#id37).
-And we have core.utils.utils.guard_import that works exactly for this
-purpose.
-The import_&lt;package&gt; functions work inconsistently and rather be private
-functions.
-Change: replaced these functions with the guard_import function.
-
-Related to #21133</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ef8b24</div>
-                                        <div class="message">core[patch]: `utils.guard_import` fix (#21133)
-
-Issues (nit): 
-1. `utils.guard_import` prints wrong error message when there is an
-import `error.` It prints the whole `module_name` but should be only the
-first part as the pip package name. E.i. `langchain_core.utils` -&gt; print
-not `langchain-core` but `langchain_core.utils`. Also replace '_' with
-'-' in the pip package name.
-2. it does not handle the `ModuleNotFoundError` which raised if
-`guard_import("wrong_module")`
-
-Fixed issues; added ut-s. Controversial: I've reraised
-`ModuleNotFoundError` as `ImportError`, since in case of the error, the
-proposed action is the same - we need to install a missed package.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36c2ca3</div>
-                                        <div class="message">mistralai: relax tokenizers dep (#21277)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e1e0c7</div>
-                                        <div class="message">fix: core: draw_mermaid() would create subgroup for edges with same src and tgt (#21275)
-
-Thank you for contributing to LangChain!
-
-- [ ] **PR title**: "package: description"
-- Where "package" is whichever of langchain, community, core,
-experimental, etc. is being modified. Use "docs: ..." for purely docs
-changes, "templates: ..." for template changes, "infra: ..." for CI
-changes.
-  - Example: "community: add foobar LLM"
-
-
-- [ ] **PR message**: ***Delete this entire checklist*** and replace
-with
-    - **Description:** a description of the change
-    - **Issue:** the issue # it fixes, if applicable
-    - **Dependencies:** any dependencies required for this change
-- **Twitter handle:** if your PR gets announced, and you'd like a
-mention, we'll gladly shout you out!
-
-
-- [ ] **Add tests and docs**: If you're adding a new integration, please
-include
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in
-`docs/docs/integrations` directory.
-
-
-- [ ] **Lint and test**: Run `make format`, `make lint` and `make test`
-from the root of the package(s) you've modified. See contribution
-guidelines for more: https://python.langchain.com/docs/contributing/
-
-Additional guidelines:
-- Make sure optional dependencies are imported within a function.
-- Please do not add dependencies to pyproject.toml files (even optional
-ones) unless they are required for unit tests.
-- Most PRs should not touch more than one package.
-- Changes should be backwards compatible.
-- If you are adding something to community, do not re-import it in
-langchain.
-
-If no one reviews your PR within a few days, please @-mention one of
-baskaryan, efriis, eyurtsev, hwchase17.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26a37dc</div>
-                                        <div class="message">langchain[patch]: Remove jsonpatch from poetry file (#21272)
-
-jsonpatch is only used in langchain-core not in langchain</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#335bd01</div>
-                                        <div class="message">langchain[patch]: Update deprecation warning (#21268)
-
-Update deprecation warning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23a05c3</div>
-                                        <div class="message">langchain: `summarize` chain fix (#21266)
-
-Issue: `load_summarize_chain` is placed in the __init__.py file. As a
-result, it doesn't listed in the API Reference docs.
-Change: moved code from __init__.py into a new file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6da3d92</div>
-                                        <div class="message">(all): update removal in deprecation warnings from 0.2 to 0.3 (#21265)
-
-We are pushing out the removal of these to 0.3.
-
-`find . -type f -name "*.py" -exec sed -i ''
-'s/removal="0\.2/removal="0.3/g' {} +`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6e34f9</div>
-                                        <div class="message">langchain[patch]: Improve deprecation warnings (#21262)
-
-* Remove spurious derprecation warning
-* Make deprecation warnings consistent with 0.1 namespaces that were announced as deprecated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#487aff7</div>
-                                        <div class="message">langchain[patch]: Revert 20794 until 0.2 release (#21257)
-
-PR of 2079 was already released as part of 0.1.17rc.
-
-
-Issue for 0.2 release:
-https://github.com/langchain-ai/langchain/issues/21080</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2449 commits in
-                                        <span class="repo">joshuasundance-swca/langchain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f36418a</div>
-                                        <div class="message">langchain: creating assistants with file_ids (#19199)
-
-Changing OpenAIAssistantRunnable.create_assistant to send the `file_ids`
-parameter to openai.beta.assistants.create
-
-Co-authored-by: Frederico Wu &lt;fred.diaswu@coxautoinc.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b2f9ee</div>
-                                        <div class="message">community:  VectorStore Infinispan, adding autoconfiguration (#18967)
-
-**Description**:
-this PR enable VectorStore autoconfiguration for Infinispan: if
-metadatas are only of basic types, protobuf
-config will be automatically generated for the user.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f544a6</div>
-                                        <div class="message">elasticsearch: check for deployed models (#18973)
-
-When creating a new index, if we use a retrieval strategy that expects a
-model to be deployed in Elasticsearch, check if a model with this name
-is indeed deployed before creating an index. This lowers the probability
-to get into a state in which an index was created with a faulty model
-ID, which cannot be overwritten any more (the index has to manually be
-deleted).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b826440</div>
-                                        <div class="message">community: Add `keep_alive` parameter to control how long the model w… (#19005)
-
-Add `keep_alive` parameter to control how long the model will stay
-loaded into memory with Ollama。
-
----------
-
-Co-authored-by: Bagatur &lt;baskaryan@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb0dd8f</div>
-                                        <div class="message">docs: Embellish article on splitting by tokens with more examples and missing details (#18997)
-
-**Description**
-
-This PR adds some missing details from the "Split by tokens" page in the
-documentation. Specifically:
-
-- The `.from_tiktoken_encoder()` class methods for both the
-`CharacterTextSplitter` and `RecursiveCharacterTextSplitter` default to
-the old `gpt-2` encoding. I've added a comment to suggest specifying
-`model_name` or `encoding`
-- The docs didn't mention that the `from_tiktoken_encoder()` class
-method passes additional kwargs down to the constructor of the splitter.
-I only discovered this by reading the source code
-- Added an example of using the `.from_tiktoken_encoder()` class method
-with `RecursiveCharacterTextSplitter` which is the recommended approach
-for most scenarios above `CharacterTextSplitter`
-- Added a warning that `TokenTextSplitter` can split characters which
-have multiple tokens (e.g. 猫 has 3 cl100k_base tokens) between multiple
-chunks which creates malformed Unicode strings and should not be used in
-these situations.
-
-Side note: I think the default argument of `gpt2` for
-`.from_tiktoken_encoder()` should be updated?
-
-**Twitter handle** anthonypjshaw
-
----------
-
-Co-authored-by: Bagatur &lt;22008038+baskaryan@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7afecec</div>
-                                        <div class="message">core: update _rm_titles to account for title argument name bug (#19036)
-
-Issue : For functions which have an argument with the name 'title', the
-convert_pydantic_to_openai_function generates an incorrect output and
-omits the argument all together. This is because the _rm_titles function
-removes all instances of the the key 'title' from the output.
-
-
-
-Description : Updates the _rm_titles function to check the presence of
-the 'type' key as well before removing the 'title' key. As the title key
-that we wish to omit always has a type key along with it.
-
-Potential gap if there is a function defined which has both title and
-key as argument names, in which case this would fail. Maybe we could set
-a filter on the function argument names and reject those with keyword
-argument names.
-
-
-No dependencies. Passed all tests. 
-
-
-- [x] **PR title**: "package: description"
-- Where "package" is whichever of langchain, community, core,
-experimental, etc. is being modified. Use "docs: ..." for purely docs
-changes, "templates: ..." for template changes, "infra: ..." for CI
-changes.
-  - Example: "community: add foobar LLM"
-
-
-- [x] **PR message**: ***Delete this entire checklist*** and replace
-with
-    - **Description:** a description of the change
-    - **Issue:** the issue # it fixes, if applicable
-    - **Dependencies:** any dependencies required for this change
-- **Twitter handle:** if your PR gets announced, and you'd like a
-mention, we'll gladly shout you out!
-
-
-- [x] **Add tests and docs**: If you're adding a new integration, please
-include
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in
-`docs/docs/integrations` directory.
-
-
-- [x] **Lint and test**: Run `make format`, `make lint` and `make test`
-from the root of the package(s) you've modified. See contribution
-guidelines for more: https://python.langchain.com/docs/contributing/
-
-Additional guidelines:
-- Make sure optional dependencies are imported within a function.
-- Please do not add dependencies to pyproject.toml files (even optional
-ones) unless they are required for unit tests.
-- Most PRs should not touch more than one package.
-- Changes should be backwards compatible.
-- If you are adding something to community, do not re-import it in
-langchain.
-
-If no one reviews your PR within a few days, please @-mention one of
-baskaryan, efriis, eyurtsev, hwchase17.
-
----------
-
-Co-authored-by: Eugene Yurtsev &lt;eyurtsev@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efcdf54</div>
-                                        <div class="message">Josha91 fix docstring (#19249)
-
-Co-authored-by: Josha van Houdt &lt;josha.van.houdt@sap.com&gt;
-Co-authored-by: Bagatur &lt;22008038+baskaryan@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58c7687</div>
-                                        <div class="message">langchain: preserve document metadata in `FlashrankRerank` (#19148)
-
-**Description:** Preserves document metadata in `FlashrankRerank`
-    - **Issue:** #19142
-    - **Dependencies:** None
-    - **Twitter handle:** n/a
-
----------
-
-Co-authored-by: Simon Stone &lt;simon.stone@dartmouth.edu&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc648f6</div>
-                                        <div class="message">core: Updated docstring for Context class (#19079)
-
-- **Description:** Improves the docstring for `class Context` by
-providing an overview and an example.
-- **Issue:** #18803</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#044bc22</div>
-                                        <div class="message">Community: Add mistral oss model support to azureml endpoints, plus configurable timeout (#19123)
-
-- **Description:** There was no formatter for mistral models for Azure
-ML endpoints. Adding that, plus a configurable timeout (it was hard
-coded before)
-- **Dependencies:** none
-- **Twitter handle:** @tjaffri @docugami</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07de4ab</div>
-                                        <div class="message">core: Fix Exception handling in XMLOutputParser (#19126)
-
-- **Description:** 
-  - Exception handling in `XMLOutputParser`
-1. Add Exception handling at `root = ET.fromstring(text)` // raises
-`ET.ParseError`
-    2. Fix Exception class (commonly uses in `BaseOutputParser` class)
-  - AS-IS: raise `ValueError`, `ET.ParserError` without handling
-    ```python
-    # langchain_core/output_parsers/xml.py
-
-        text = text.strip()
-        if (text.startswith("&lt;") or text.startswith("\n&lt;")) and (
-            text.endswith("&gt;") or text.endswith("&gt;\n")
-        ):
-            root = ET.fromstring(text)
-            return self._root_to_dict(root)
-        else:
-            raise ValueError(f"Could not parse output: {text}")
-    ```
-  - TO-BE: raise `OutputParserException`
-    ```python
-    # langchain_core/output_parsers/xml.py
-
-        text = text.strip()
-        if (text.startswith("&lt;") or text.startswith("\n&lt;")) and (
-            text.endswith("&gt;") or text.endswith("&gt;\n")
-        ):
-            try:
-                root = ET.fromstring(text)
-                return self._root_to_dict(root)
-
-            except ET.ParseError:
-raise OutputParserException(f"Could not parse output: {text}")
-
-        else:
-raise OutputParserException(f"Could not parse output: {text}")
-
-    ``` 
-- **Issue:** #19107  
-- **Dependencies:** None</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24a0a44</div>
-                                        <div class="message">Add docstrings for Clickhouse class methods (#19195)
-
-Thank you for contributing to LangChain!
-
-- [ ] **PR title**: "package: description"
-- Where "package" is whichever of langchain, community, core,
-experimental, etc. is being modified. Use "docs: ..." for purely docs
-changes, "templates: ..." for template changes, "infra: ..." for CI
-changes.
-  - Example: "community: add foobar LLM"
-
-
-- [ ] **PR message**: ***Delete this entire checklist*** and replace
-with
-    - **Description:** a description of the change
-    - **Issue:** the issue # it fixes, if applicable
-    - **Dependencies:** any dependencies required for this change
-- **Twitter handle:** if your PR gets announced, and you'd like a
-mention, we'll gladly shout you out!
-
-
-- [ ] **Add tests and docs**: If you're adding a new integration, please
-include
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in
-`docs/docs/integrations` directory.
-
-
-- [x] **Lint and test**: Run `make format`, `make lint` and `make test`
-from the root of the package(s) you've modified. See contribution
-guidelines for more: https://python.langchain.com/docs/contributing/
-
-Additional guidelines:
-- Make sure optional dependencies are imported within a function.
-- Please do not add dependencies to pyproject.toml files (even optional
-ones) unless they are required for unit tests.
-- Most PRs should not touch more than one package.
-- Changes should be backwards compatible.
-- If you are adding something to community, do not re-import it in
-langchain.
-
-If no one reviews your PR within a few days, please @-mention one of
-baskaryan, efriis, eyurtsev, hwchase17.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc4ce82</div>
-                                        <div class="message">docs: fix import path for `FlashrankRerank` example notebook (#19146)
-
-**Description:** Fixes the import paths for the `FlashrankRerank`
-example notebook.
- **Issue:** #19139 
- **Dependencies:** None
- **Twitter handle:** n/a
-
----------
-
-Co-authored-by: Simon Stone &lt;simon.stone@dartmouth.edu&gt;
-Co-authored-by: Bagatur &lt;22008038+baskaryan@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bde199d</div>
-                                        <div class="message">Updating format of pip install (#19198)
-
-Thank you for contributing to LangChain!
-
-- [x] **PR title**: "Updating format of pip install in two files of
-docs/cookbook"
-- pip install is not reflecting properly in some of the files in
-cookbook
-- Example:
-[docs/expression_language/cookbook/sql_db](https://python.langchain.com/docs/expression_language/cookbook/sql_db)
-
-
-- [x] **PR message**: Updating format of pip install in two files of
-docs/cookbook
-    - **Description:** a description of the change
-    - **Issue:** #19197 
-
-- Note - let's do squash merge for the PR
-
-If no one reviews your PR within a few days, please @-mention one of
-baskaryan, efriis, eyurtsev, hwchase17.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#785f8ab</div>
-                                        <div class="message">[langchain_community] milvus vectorstores upsert: add **kwargs to make it use for other argument also (#19193)
-
-add **kwargs in add_documents for upsert, to make it use for other
-argument also.
-Lets use this, it was unused as of now.
-
-- [ ] **PR title**: "package: description"
-- Where "package" is whichever of langchain, community, core,
-experimental, etc. is being modified. Use "docs: ..." for purely docs
-changes, "templates: ..." for template changes, "infra: ..." for CI
-changes.
-  - Example: "community: add foobar LLM"
-
-
-- [ ] **PR message**: ***Delete this entire checklist*** and replace
-with
-    - **Description:** a description of the change
-    - **Issue:** the issue # it fixes, if applicable
-    - **Dependencies:** any dependencies required for this change
-- **Twitter handle:** if your PR gets announced, and you'd like a
-mention, we'll gladly shout you out!
-
-
-- [ ] **Add tests and docs**: If you're adding a new integration, please
-include
-1. a test for the integration, preferably unit tests that do not rely on
-network access,
-2. an example notebook showing its use. It lives in
-`docs/docs/integrations` directory.
-
-
-- [ ] **Lint and test**: Run `make format`, `make lint` and `make test`
-from the root of the package(s) you've modified. See contribution
-guidelines for more: https://python.langchain.com/docs/contributing/
-
-Additional guidelines:
-- Make sure optional dependencies are imported within a function.
-- Please do not add dependencies to pyproject.toml files (even optional
-ones) unless they are required for unit tests.
-- Most PRs should not touch more than one package.
-- Changes should be backwards compatible.
-- If you are adding something to community, do not re-import it in
-langchain.
-
-If no one reviews your PR within a few days, please @-mention one of
-baskaryan, efriis, eyurtsev, hwchase17.
-
-Co-authored-by: Rohit Gupta &lt;rohit.gupta2@walmart.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77868b1</div>
-                                        <div class="message">experimental: add buffer_size hyperparameter to SemanticChunker as in source video (#19208)
-
-add buffer_size hyperparameter which used in combine_sentences function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae3c7f7</div>
-                                        <div class="message">docs:Make url as a markdown link (#19212)
-
-**Description**: same as the title
-
-Co-authored-by: ChenZhengHao &lt;chenzhenghao@mail.teletraan.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca9c8c5</div>
-                                        <div class="message">text-splitters, infra: fix `libs/langchain/dev.Dockerfile` so that the `text-splitter` directory is copied before poetry installation (#19214)
-
-## Description
-This PR modifies the settings in `libs/langchain/dev.Dockerfile` to
-ensure that the `text-splitters` directory is copied before the poetry
-installation process begins.
-
-Without this modification, the `docker build` command fails for
-`dev.Dockerfile`, preventing the setup of some development environments,
-including `.devcontainer`.
-
-## Bug Details
-
-### Repro
-Run the following command:
-
-```bash
-docker build -f libs/langchain/dev.Dockerfile .
-```
-
-### Current Behavior
-The docker build command fails, raising the following error:
-
-```
-...
- =&gt; [langchain-dev-dependencies 4/5] COPY libs/community/ ../community/                                                                                0.4s
- =&gt; ERROR [langchain-dev-dependencies 5/5] RUN poetry install --no-interaction --no-ansi --with dev,test,docs                                          1.1s
-------                                                                                                                                                      
- &gt; [langchain-dev-dependencies 5/5] RUN poetry install --no-interaction --no-ansi --with dev,test,docs:
-#13 0.970 
-#13 0.970 Directory ../text-splitters does not exist
-------
-executor failed running [/bin/sh -c poetry install --no-interaction --no-ansi --with dev,test,docs]: exit code: 1
-```
-
-### Expected Behavior
-The `docker build` command successfully completes without the poetry
-error.
-
-### Analysis
-The error occurs because the `text-splitters` directory is not copied
-into the build environment, unlike the other packages under the `libs`
-directory. I suspect that the `COPY` setting was overlooked since
-`text-splitters` was separated in a recent PR.
-
-## Fix
-Add the following lines to the `libs/langchain/dev.Dockerfile`:
-
-```dockerfile
-# Copy the text-splitters library for installation
-COPY libs/text-splitters/ ../text-splitters/
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3310c5</div>
-                                        <div class="message">community: Fix Milvus got multiple values for keyword argument 'timeout' (#19232)
-
-- **Description:** Fix Milvus got multiple values for keyword argument
-'timeout'
-- **Issue:**  fix #18580
-- @baskaryan @eyurtsev PTAL</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95904fe</div>
-                                        <div class="message">langchain[patch]: update base imports to core (#19248)
-
-still deprecated, but was misleading before</div>
                                     </div>
                                 </div>
                             </section>
@@ -1549,13 +725,13 @@ still deprecated, but was misleading before</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="12.038303693570452" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="12.038303693570452" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="12.038303693570452" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="12.038303693570452" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="12.038303693570452" y="0" width="96.00547195622435" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="108.04377564979481" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="108.04377564979481" y="0" width="111.9562243502052" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="12.3224043715847" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="12.3224043715847" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="12.3224043715847" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="12.3224043715847" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="12.3224043715847" y="0" width="95.8743169398907" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="108.1967213114754" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="108.1967213114754" y="0" width="111.80327868852459" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -1563,7 +739,7 @@ still deprecated, but was misleading before</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">40 <small>open</small></span>
+                                <span class="no-wrap">41 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1643,13 +819,13 @@ still deprecated, but was misleading before</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="15.426829268292684" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="15.426829268292684" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="15.426829268292684" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="15.426829268292684" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="15.426829268292684" y="0" width="19.45121951219512" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="34.8780487804878" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="34.8780487804878" y="0" width="185.1219512195122" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="16.048632218844983" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="16.048632218844983" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="16.048632218844983" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="16.048632218844983" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="16.048632218844983" y="0" width="19.39209726443769" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="35.440729483282674" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="35.440729483282674" y="0" width="184.55927051671733" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -1657,7 +833,7 @@ still deprecated, but was misleading before</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">23 <small>open</small></span>
+                                <span class="no-wrap">24 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3736,10 +2912,10 @@ still deprecated, but was misleading before</div>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0437956204379564 0,1.0437956204379562 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0437956204379562 1.7,2.0437956204379564 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.956204379562044)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0437956204379564 0,1.0437956204379562 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0437956204379562 1.7,2.0437956204379564 z"/>
+                            <g transform="translate(-3.4, 7.912408759124087)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0875912408759123 0,1.0875912408759123 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0875912408759123 1.7,2.0875912408759123 z"/>
                             </g>
                         </g>
                     </g>
@@ -3843,7 +3019,7 @@ still deprecated, but was misleading before</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.13333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.65 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3871,7 +3047,7 @@ still deprecated, but was misleading before</div>
                                     <span class="prefix">Great</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 328 pull requests</div>
+                                <div class="text">Opened 329 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4116,7 +3292,7 @@ still deprecated, but was misleading before</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.10m out of 198m repositories</span>
+                                    <span class="gh">ranked 1.10m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 10 times</div>
                             </div>
@@ -4206,7 +3382,7 @@ still deprecated, but was misleading before</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 729k out of 198m repositories</span>
+                                    <span class="gh">ranked 729k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -4385,6 +3561,12 @@ still deprecated, but was misleading before</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">joshuasundance-swca/restgdf</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">joshuasundance-swca/mslearn-mlops</span>
                         </div>
                         <div class="field">
@@ -4392,12 +3574,6 @@ still deprecated, but was misleading before</div>
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <span class="diff-handle">joshuasundance-swca/restgdf_api</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">joshuasundance-swca/dataripper</span>
                         </div>
                     </section>
                     <section>
@@ -4410,6 +3586,18 @@ still deprecated, but was misleading before</div>
                             <div class="diff-stats">
                                 <span class="added"> +31.5k</span>
                                 <span class="deleted"> -29.8k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +15.1k</span>
+                                <span class="deleted"> -12.3k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -4434,18 +3622,6 @@ still deprecated, but was misleading before</div>
                             <div class="diff-stats">
                                 <span class="added"> +3.12k</span>
                                 <span class="deleted"> -1.91k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +3.42k</span>
-                                <span class="deleted"> -1.54k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -4524,14 +3700,14 @@ still deprecated, but was misleading before</div>
                                 <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.481L423.133,140.491L414.2,140.267L405.267,140.486L396.333,140.491L387.4,140.421L378.467,140.486L369.533,140.477L360.6,140.481L351.667,140.43L342.733,140.486L333.8,140.416L324.867,134.195L315.933,130.499L307,129.393L298.067,140.393L289.133,140.351L280.2,140.229L271.267,137.929L262.333,139.515L253.4,123.307L244.467,129.584L235.533,130.928L226.6,133.5L217.667,136.351L208.733,116.689L199.8,135.632L190.867,135.063L181.933,137.658L173,134.382L164.067,140.197L155.133,125.146L146.2,10.619L65.8,55.296L39,125.239Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.519L423.133,140.509L414.2,140.719L405.267,140.514L396.333,140.509L387.4,140.565L378.467,140.514L369.533,140.523L360.6,140.519L351.667,140.565L342.733,140.514L333.8,140.584L324.867,141.06L315.933,140.822L307,141.163L298.067,140.607L289.133,140.617L280.2,140.724L271.267,141.009L262.333,140.981L253.4,144.49L244.467,145.648L235.533,141.125L226.6,141.228L217.667,144.122L208.733,146.24L199.8,142.493L190.867,140.808L181.933,142.017L173,142.973L164.067,140.593L155.133,143.692L146.2,276L65.8,143.09L39,145.732Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.481L423.133,140.491L414.2,140.15L405.267,140.477L396.333,140.491L387.4,140.421L378.467,140.486L369.533,140.477L360.6,140.481L351.667,140.43L342.733,140.486L333.8,140.388L324.867,134.2L315.933,130.433L307,129.388L298.067,140.393L289.133,140.332L280.2,140.211L271.267,137.957L262.333,139.525L253.4,123.186L244.467,129.57L235.533,130.877L226.6,138.568L217.667,132.011L208.733,110.795L199.8,135.609L190.867,135.063L181.933,82.653L173,134.382L164.067,140.197L155.133,125.146L146.2,10.619L65.8,55.296L39,125.239Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L65.8,140.5L146.2,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L208.733,140.5L217.667,140.5L226.6,140.5L235.533,140.5L244.467,140.5L253.4,140.5L262.333,140.5L271.267,140.5L280.2,140.5L289.133,140.5L298.067,140.5L307,140.5L315.933,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L441,140.5L441,140.519L423.133,140.509L414.2,140.836L405.267,140.523L396.333,140.509L387.4,140.565L378.467,140.514L369.533,140.523L360.6,140.519L351.667,140.565L342.733,140.514L333.8,140.612L324.867,141.055L315.933,140.859L307,141.167L298.067,140.607L289.133,140.635L280.2,140.733L271.267,140.981L262.333,140.971L253.4,144.705L244.467,145.662L235.533,141.153L226.6,140.612L217.667,147.967L208.733,155.416L199.8,142.516L190.867,140.808L181.933,186.035L173,142.973L164.067,140.593L155.133,143.692L146.2,276L65.8,143.09L39,145.732Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2024, 22:06:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 May 2024, 23:06:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
