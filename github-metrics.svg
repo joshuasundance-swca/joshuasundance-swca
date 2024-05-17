@@ -38,17 +38,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Bump version 0.0.1 -&gt; 0.0.2
+                            version str
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">a1f1345f</span>
+                            <span class="code">41db616a</span>
                             <span class="code">bumpver.toml</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++3</span>
+                                <span class="snippet deletions">--0</span>
                             </span>
                         </div>
                     </section>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[bumpver]<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">current_version = "0.0.1"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">current_version = "0.0.2"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">version_pattern = "MAJOR.MINOR.PATCH[-TAG]"<br /></span><span class="token prefix unchanged">·</span><span class="token line">commit_message = "Bump version {old_version} -&gt; {new_version}"<br /></span><span class="token prefix unchanged">·</span><span class="token line">tag_message = "{new_version}"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -14,3 +14,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"bumpver.toml" = [<br /></span><span class="token prefix unchanged">·</span><span class="token line">'current_version = "{version}"',<br /></span><span class="token prefix unchanged">·</span><span class="token line">]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"streamlit-gpt4o/app.py" = [<br /></span><span class="token prefix inserted">+</span><span class="token line">'__version__ = "{version}"',<br /></span><span class="token prefix inserted">+</span><span class="token line">]</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -97,7 +97,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -124,7 +124,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5742 Commits
+                            5743 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,7 +232,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    86.8k added, 40.7k removed
+                                    99.8k added, 52.6k removed
                                 </div>
                             </section>
                             <section>
@@ -858,11 +858,11 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="88" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="132" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="94.28571428571428" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="94.28571428571428" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="94.28571428571428" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="94.28571428571428" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="94.28571428571428" y="0" width="125.71428571428571" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -873,7 +873,7 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">8 <small>open</small></span>
+                                <span class="no-wrap">9 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3006,10 +3006,10 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.693430656934307)">
+                            <g transform="translate(-6.8, 9.649635036496349)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3065693430656933 0,1.3065693430656935 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3065693430656935 1.7,2.3065693430656933 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3503649635036497 0,1.3503649635036497 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3503649635036497 1.7,2.3503649635036497 z"/>
                             </g>
                         </g>
                     </g>
@@ -3438,7 +3438,7 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.10m out of 205m repositories</span>
+                                    <span class="gh">ranked 1.10m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 10 times</div>
                             </div>
@@ -3476,7 +3476,7 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 704k out of 205m repositories</span>
+                                    <span class="gh">ranked 704k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -3655,6 +3655,12 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">joshuasundance-swca/restgdf</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">joshuasundance-swca/mslearn-mlops</span>
                         </div>
                         <div class="field">
@@ -3662,12 +3668,6 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <span class="diff-handle">joshuasundance-swca/langchain-streamlit-demo</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">joshuasundance-swca/restgdf_api</span>
                         </div>
                     </section>
                     <section>
@@ -3680,6 +3680,18 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                             <div class="diff-stats">
                                 <span class="added"> +31.5k</span>
                                 <span class="deleted"> -29.8k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +15.1k</span>
+                                <span class="deleted"> -12.3k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3704,18 +3716,6 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                             <div class="diff-stats">
                                 <span class="added"> +6.10k</span>
                                 <span class="deleted"> -3.05k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +3.12k</span>
-                                <span class="deleted"> -1.91k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3802,14 +3802,14 @@ Update trobuleshooting doc to handle installation bugs related to lib…</div>
                                 <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L65.217,140.5L143.87,140.5L152.609,140.5L161.348,140.5L170.087,140.5L178.826,140.5L187.565,140.5L196.304,140.5L205.043,140.5L213.783,140.5L222.522,140.5L231.261,140.5L240,140.5L248.739,140.5L257.478,140.5L266.217,140.5L274.957,140.5L283.696,140.5L292.435,140.5L301.174,140.5L309.913,140.5L318.652,140.5L327.391,140.5L336.13,140.5L344.87,140.5L353.609,140.5L362.348,140.5L371.087,140.5L379.826,140.5L388.565,140.5L397.304,140.5L406.043,140.5L414.783,140.5L432.261,140.5L441,140.5L441,137.87L432.261,140.482L414.783,140.491L406.043,140.158L397.304,140.487L388.565,140.491L379.826,140.424L371.087,140.487L362.348,140.478L353.609,140.482L344.87,140.433L336.13,140.487L327.391,140.42L318.652,134.436L309.913,130.939L301.174,129.878L292.435,140.389L283.696,140.349L274.957,140.233L266.217,137.195L257.478,138.714L248.739,119.904L240,134.805L231.261,130.997L222.522,133.827L213.783,136.551L205.043,117.687L196.304,135.595L187.565,135.231L178.826,137.528L170.087,134.676L161.348,136.542L152.609,122.108L143.87,5.284L65.217,59.391L39,125.973Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L65.217,140.5L143.87,140.5L152.609,140.5L161.348,140.5L170.087,140.5L178.826,140.5L187.565,140.5L196.304,140.5L205.043,140.5L213.783,140.5L222.522,140.5L231.261,140.5L240,140.5L248.739,140.5L257.478,140.5L266.217,140.5L274.957,140.5L283.696,140.5L292.435,140.5L301.174,140.5L309.913,140.5L318.652,140.5L327.391,140.5L336.13,140.5L344.87,140.5L353.609,140.5L362.348,140.5L371.087,140.5L379.826,140.5L388.565,140.5L397.304,140.5L406.043,140.5L414.783,140.5L432.261,140.5L441,140.5L441,140.593L432.261,140.518L414.783,140.509L406.043,140.802L397.304,140.513L388.565,140.509L379.826,140.562L371.087,140.513L362.348,140.522L353.609,140.518L344.87,140.562L336.13,140.513L327.391,140.58L318.652,141.073L309.913,140.833L301.174,141.18L292.435,140.611L283.696,140.62L274.957,140.709L266.217,141.433L257.478,141.357L248.739,145.471L240,145.405L231.261,141.286L222.522,141.202L213.783,143.947L205.043,146.044L196.304,142.539L187.565,140.838L178.826,142.037L170.087,142.855L161.348,142.513L152.609,145.547L143.87,276L65.217,142.966L39,145.48Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L65.217,140.5L143.87,140.5L152.609,140.5L161.348,140.5L170.087,140.5L178.826,140.5L187.565,140.5L196.304,140.5L205.043,140.5L213.783,140.5L222.522,140.5L231.261,140.5L240,140.5L248.739,140.5L257.478,140.5L266.217,140.5L274.957,140.5L283.696,140.5L292.435,140.5L301.174,140.5L309.913,140.5L318.652,140.5L327.391,140.5L336.13,140.5L344.87,140.5L353.609,140.5L362.348,140.5L371.087,140.5L379.826,140.5L388.565,140.5L397.304,140.5L406.043,140.5L414.783,140.5L432.261,140.5L441,140.5L441,137.87L432.261,140.482L414.783,140.491L406.043,140.047L397.304,140.478L388.565,140.491L379.826,140.424L371.087,140.487L362.348,140.478L353.609,140.482L344.87,140.433L336.13,140.487L327.391,140.393L318.652,134.391L309.913,130.842L301.174,129.824L292.435,140.389L283.696,140.331L274.957,140.18L266.217,136.973L257.478,139.185L248.739,126.759L240,129.518L231.261,130.926L222.522,133.827L213.783,132.419L205.043,112.076L196.304,135.573L187.565,135.231L178.826,85.167L170.087,134.676L161.348,136.542L152.609,122.108L143.87,5.284L65.217,59.391L39,125.973Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L65.217,140.5L143.87,140.5L152.609,140.5L161.348,140.5L170.087,140.5L178.826,140.5L187.565,140.5L196.304,140.5L205.043,140.5L213.783,140.5L222.522,140.5L231.261,140.5L240,140.5L248.739,140.5L257.478,140.5L266.217,140.5L274.957,140.5L283.696,140.5L292.435,140.5L301.174,140.5L309.913,140.5L318.652,140.5L327.391,140.5L336.13,140.5L344.87,140.5L353.609,140.5L362.348,140.5L371.087,140.5L379.826,140.5L388.565,140.5L397.304,140.5L406.043,140.5L414.783,140.5L432.261,140.5L441,140.5L441,140.593L432.261,140.518L414.783,140.509L406.043,140.913L397.304,140.522L388.565,140.509L379.826,140.562L371.087,140.513L362.348,140.522L353.609,140.518L344.87,140.562L336.13,140.513L327.391,140.607L318.652,141.118L309.913,140.904L301.174,141.233L292.435,140.611L283.696,140.638L274.957,140.753L266.217,141.46L257.478,141.309L248.739,143.112L240,145.556L231.261,141.335L222.522,141.202L213.783,147.608L205.043,154.779L196.304,142.561L187.565,140.838L178.826,183.94L170.087,142.855L161.348,142.513L152.609,145.547L143.87,276L65.217,142.966L39,145.48Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2024, 20:16:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2024, 21:29:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
