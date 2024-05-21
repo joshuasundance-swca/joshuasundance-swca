@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21445](https://github.com/langchain-ai/langchain/pull/21445) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. 💪 Opened PR [#27](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/27) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-3. 💪 Opened PR [#88](https://github.com/joshuasundance-swca/restgdf/pull/88) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-4. 💪 Opened PR [#16](https://github.com/joshuasundance-swca/nonprofit-grader/pull/16) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. ❗ Opened issue [#35](https://github.com/langchain-ai/langchain-postgres/issues/35) in [langchain-ai/langchain-postgres](https://github.com/langchain-ai/langchain-postgres)
+1. 💪 Opened PR [#116](https://github.com/joshuasundance-swca/ai_changelog/pull/116) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
+2. 💪 Opened PR [#21445](https://github.com/langchain-ai/langchain/pull/21445) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 💪 Opened PR [#27](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/27) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+4. 💪 Opened PR [#88](https://github.com/joshuasundance-swca/restgdf/pull/88) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+5. 💪 Opened PR [#16](https://github.com/joshuasundance-swca/nonprofit-grader/pull/16) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
