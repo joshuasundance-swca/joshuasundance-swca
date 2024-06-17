@@ -195,7 +195,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    80k added, 50.4k removed
+                                    87.6k added, 41.8k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    105 Stargazers
+                                    106 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -227,7 +227,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    721 views in last two weeks
+                                    712 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -302,51 +302,51 @@
                             </div>
                             <div class="entry">
                                 <span class="value">105</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 8
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 9
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 10
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 11
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 12
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 13
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 14
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 15
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
+                                <span class="value">106</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 17
                             </div>
@@ -422,8 +422,8 @@
                                 16
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 17
                             </div>
                         </div>
@@ -3336,7 +3336,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.11m out of 205m repositories</span>
+                                    <span class="gh">ranked 1.11m out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 10 times</div>
                             </div>
@@ -3374,7 +3374,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 688k out of 205m repositories</span>
+                                    <span class="gh">ranked 688k out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 43 stars</div>
                             </div>
@@ -3553,7 +3553,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/restgdf</span>
+                            <span class="diff-handle">joshuasundance-swca/mslearn-mlops</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3565,7 +3565,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/dataripper</span>
+                            <span class="diff-handle">joshuasundance-swca/restgdf_api</span>
                         </div>
                     </section>
                     <section>
@@ -3585,11 +3585,11 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +15.1k</span>
-                                <span class="deleted"> -12.3k</span>
+                                <span class="added"> +17.4k</span>
+                                <span class="deleted">   -575</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3612,8 +3612,8 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +3.42k</span>
-                                <span class="deleted"> -1.54k</span>
+                                <span class="added"> +3.12k</span>
+                                <span class="deleted"> -1.91k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3704,14 +3704,14 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L133.588,140.5L141.471,140.5L149.353,140.5L165.118,140.5L173,140.5L180.882,140.5L188.765,140.5L196.647,140.5L204.529,140.5L212.412,140.5L220.294,140.5L228.176,140.5L236.059,140.5L243.941,140.5L251.824,140.5L259.706,140.5L267.588,140.5L275.471,140.5L283.353,140.5L291.235,140.5L299.118,140.5L307,140.5L314.882,140.5L322.765,140.5L330.647,140.5L338.529,140.5L346.412,140.5L354.294,140.5L362.176,140.5L370.059,140.5L377.941,140.5L393.706,140.5L401.588,140.5L417.353,140.5L433.118,140.5L441,140.5L441,140.487L433.118,140.487L417.353,140.491L401.588,137.87L393.706,140.482L377.941,140.491L370.059,140.136L362.176,140.478L354.294,140.491L346.412,140.482L338.529,140.487L330.647,140.478L322.765,140.482L314.882,140.491L307,140.487L299.118,140.416L291.235,134.454L283.353,130.922L275.471,129.873L267.588,140.407L259.706,140.367L251.824,140.287L243.941,137.71L236.059,138.79L228.176,119.855L220.294,139.754L212.412,134.036L204.529,135.658L196.647,136.333L188.765,121.61L180.882,135.586L173,135.244L165.118,85.674L149.353,136.542L141.471,122.108L133.588,5.284L39,125.973Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L133.588,140.5L141.471,140.5L149.353,140.5L165.118,140.5L173,140.5L180.882,140.5L188.765,140.5L196.647,140.5L204.529,140.5L212.412,140.5L220.294,140.5L228.176,140.5L236.059,140.5L243.941,140.5L251.824,140.5L259.706,140.5L267.588,140.5L275.471,140.5L283.353,140.5L291.235,140.5L299.118,140.5L307,140.5L314.882,140.5L322.765,140.5L330.647,140.5L338.529,140.5L346.412,140.5L354.294,140.5L362.176,140.5L370.059,140.5L377.941,140.5L393.706,140.5L401.588,140.5L417.353,140.5L433.118,140.5L441,140.5L441,140.513L433.118,140.513L417.353,140.509L401.588,140.593L393.706,140.518L377.941,140.509L370.059,140.824L362.176,140.522L354.294,140.509L346.412,140.518L338.529,140.513L330.647,140.522L322.765,140.518L314.882,140.509L307,140.513L299.118,140.584L291.235,141.055L283.353,140.824L275.471,141.184L267.588,140.593L259.706,140.602L251.824,140.655L243.941,141.309L236.059,141.282L228.176,145.609L220.294,140.775L212.412,141.22L204.529,141.104L196.647,144.196L188.765,149.892L180.882,142.548L173,140.824L165.118,183.878L149.353,142.513L141.471,145.547L133.588,276L39,145.48Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L62.647,140.5L133.588,140.5L141.471,140.5L149.353,140.5L157.235,140.5L165.118,140.5L173,140.5L180.882,140.5L188.765,140.5L196.647,140.5L204.529,140.5L212.412,140.5L220.294,140.5L228.176,140.5L236.059,140.5L243.941,140.5L251.824,140.5L259.706,140.5L267.588,140.5L275.471,140.5L283.353,140.5L291.235,140.5L299.118,140.5L307,140.5L314.882,140.5L322.765,140.5L330.647,140.5L338.529,140.5L346.412,140.5L354.294,140.5L362.176,140.5L370.059,140.5L377.941,140.5L393.706,140.5L401.588,140.5L417.353,140.5L425.235,140.5L433.118,140.5L441,140.5L441,140.487L433.118,140.487L425.235,140.322L417.353,140.491L401.588,140.491L393.706,140.482L377.941,140.491L370.059,140.158L362.176,140.487L354.294,140.491L346.412,140.424L338.529,140.487L330.647,140.478L322.765,140.482L314.882,140.433L307,140.487L299.118,140.42L291.235,134.436L283.353,130.922L275.471,136.128L267.588,140.389L259.706,140.349L251.824,140.216L243.941,137.195L236.059,138.687L228.176,119.86L220.294,129.558L212.412,130.997L204.529,133.827L196.647,136.551L188.765,117.807L180.882,140.14L173,135.231L165.118,137.528L157.235,134.676L149.353,136.542L141.471,122.108L133.588,5.284L62.647,63.047L39,125.973Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L62.647,140.5L133.588,140.5L141.471,140.5L149.353,140.5L157.235,140.5L165.118,140.5L173,140.5L180.882,140.5L188.765,140.5L196.647,140.5L204.529,140.5L212.412,140.5L220.294,140.5L228.176,140.5L236.059,140.5L243.941,140.5L251.824,140.5L259.706,140.5L267.588,140.5L275.471,140.5L283.353,140.5L291.235,140.5L299.118,140.5L307,140.5L314.882,140.5L322.765,140.5L330.647,140.5L338.529,140.5L346.412,140.5L354.294,140.5L362.176,140.5L370.059,140.5L377.941,140.5L393.706,140.5L401.588,140.5L417.353,140.5L425.235,140.5L433.118,140.5L441,140.5L441,140.513L433.118,140.513L425.235,140.611L417.353,140.509L401.588,140.509L393.706,140.518L377.941,140.509L370.059,140.802L362.176,140.513L354.294,140.509L346.412,140.562L338.529,140.513L330.647,140.522L322.765,140.518L314.882,140.562L307,140.513L299.118,140.58L291.235,141.073L283.353,140.851L275.471,140.78L267.588,140.611L259.706,140.62L251.824,140.727L243.941,141.433L236.059,141.384L228.176,145.605L220.294,145.516L212.412,141.286L204.529,141.202L196.647,143.947L188.765,146.027L180.882,140.7L173,140.838L165.118,142.037L157.235,142.855L149.353,142.513L141.471,145.547L133.588,276L62.647,142.943L39,145.48Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2024, 12:05:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jun 2024, 13:05:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
