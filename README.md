@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/joshuasundance-swca/survey123-assistant/pull/5) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
-2. 💪 Opened PR [#26](https://github.com/joshuasundance-swca/nonprofit-grader/pull/26) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-3. 💪 Opened PR [#123](https://github.com/joshuasundance-swca/ai_changelog/pull/123) in [joshuasundance-swca/ai_changelog](https://github.com/joshuasundance-swca/ai_changelog)
-4. 💪 Opened PR [#25](https://github.com/joshuasundance-swca/nonprofit-grader/pull/25) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. 💪 Opened PR [#155](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/155) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+1. 💪 Opened PR [#38](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/38) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+2. 💪 Opened PR [#56](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/56) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+3. 💪 Opened PR [#57](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/57) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+4. 💪 Opened PR [#5](https://github.com/joshuasundance-swca/survey123-assistant/pull/5) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
+5. 💪 Opened PR [#26](https://github.com/joshuasundance-swca/nonprofit-grader/pull/26) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
