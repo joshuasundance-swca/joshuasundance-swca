@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/joshuasundance-swca/restgdf/pull/105) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-2. 💪 Opened PR [#40](https://github.com/joshuasundance-swca/restgdf_api/pull/40) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-3. 💪 Opened PR [#29](https://github.com/joshuasundance-swca/nonprofit-grader/pull/29) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-4. 💪 Opened PR [#6](https://github.com/joshuasundance-swca/survey123-assistant/pull/6) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
-5. 💪 Opened PR [#28](https://github.com/joshuasundance-swca/nonprofit-grader/pull/28) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+1. 💪 Opened PR [#43](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/43) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+2. 💪 Opened PR [#106](https://github.com/joshuasundance-swca/restgdf/pull/106) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+3. 🎉 Merged PR [#22](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/22) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+4. 🎉 Merged PR [#37](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/37) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+5. 🎉 Merged PR [#38](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/38) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
 <!--END_SECTION:activity-->
