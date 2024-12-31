@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/51) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
-2. 🚀 Published release [v0.2.0-unapproved-delay](https://github.com/joshuasundance-swca/st-multimodal-chatinput/releases/tag/v0.2.0-unapproved-delay) in [joshuasundance-swca/st-multimodal-chatinput](https://github.com/joshuasundance-swca/st-multimodal-chatinput)
-3. 💪 Opened PR [#56](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/56) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
-4. 🚀 Published release [v0.2.0-experimental-unapproved-text-color](https://github.com/joshuasundance-swca/st-multimodal-chatinput/releases/tag/v0.2.0-experimental-unapproved-text-color) in [joshuasundance-swca/st-multimodal-chatinput](https://github.com/joshuasundance-swca/st-multimodal-chatinput)
-5. ❌ Closed PR [#2](https://github.com/joshuasundance-swca/st-multimodal-chatinput/pull/2) in [joshuasundance-swca/st-multimodal-chatinput](https://github.com/joshuasundance-swca/st-multimodal-chatinput)
+1. 💪 Opened PR [#17](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/17) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+2. 💪 Opened PR [#43](https://github.com/joshuasundance-swca/restgdf_api/pull/43) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+3. 💪 Opened PR [#37](https://github.com/joshuasundance-swca/nonprofit-grader/pull/37) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+4. 💪 Opened PR [#52](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/52) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+5. 💪 Opened PR [#36](https://github.com/joshuasundance-swca/nonprofit-grader/pull/36) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
