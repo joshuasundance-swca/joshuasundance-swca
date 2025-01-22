@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/joshuasundance-swca/restgdf_api/pull/45) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-2. 💪 Opened PR [#18](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/18) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
-3. 💪 Opened PR [#40](https://github.com/joshuasundance-swca/nonprofit-grader/pull/40) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-4. 💪 Opened PR [#39](https://github.com/joshuasundance-swca/nonprofit-grader/pull/39) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. 💪 Opened PR [#53](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/53) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+1. 💪 Opened PR [#163](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/163) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+2. 💪 Opened PR [#62](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/62) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+3. 💪 Opened PR [#41](https://github.com/joshuasundance-swca/nonprofit-grader/pull/41) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+4. 💪 Opened PR [#45](https://github.com/joshuasundance-swca/restgdf_api/pull/45) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+5. 💪 Opened PR [#18](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/18) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
 <!--END_SECTION:activity-->
