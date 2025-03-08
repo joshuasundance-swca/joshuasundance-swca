@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/joshuasundance-swca/nonprofit-grader/pull/45) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-2. 💪 Opened PR [#19](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/19) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
-3. 💪 Opened PR [#47](https://github.com/joshuasundance-swca/restgdf_api/pull/47) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-4. 💪 Opened PR [#44](https://github.com/joshuasundance-swca/nonprofit-grader/pull/44) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-5. 💪 Opened PR [#43](https://github.com/joshuasundance-swca/nonprofit-grader/pull/43) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+1. 💪 Opened PR [#60](https://github.com/joshuasundance-swca/detect_llm_api_keys/pull/60) in [joshuasundance-swca/detect_llm_api_keys](https://github.com/joshuasundance-swca/detect_llm_api_keys)
+2. 💪 Opened PR [#45](https://github.com/joshuasundance-swca/nonprofit-grader/pull/45) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+3. 💪 Opened PR [#19](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/19) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+4. 💪 Opened PR [#47](https://github.com/joshuasundance-swca/restgdf_api/pull/47) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+5. 💪 Opened PR [#44](https://github.com/joshuasundance-swca/nonprofit-grader/pull/44) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
