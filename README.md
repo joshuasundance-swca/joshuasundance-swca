@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/21) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
-2. 💪 Opened PR [#51](https://github.com/joshuasundance-swca/restgdf_api/pull/51) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-3. 💪 Opened PR [#51](https://github.com/joshuasundance-swca/nonprofit-grader/pull/51) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-4. 💪 Opened PR [#57](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/57) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
-5. 💪 Opened PR [#50](https://github.com/joshuasundance-swca/nonprofit-grader/pull/50) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+1. 💪 Opened PR [#52](https://github.com/joshuasundance-swca/nonprofit-grader/pull/52) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+2. 💪 Opened PR [#167](https://github.com/joshuasundance-swca/langchain-streamlit-demo/pull/167) in [joshuasundance-swca/langchain-streamlit-demo](https://github.com/joshuasundance-swca/langchain-streamlit-demo)
+3. 💪 Opened PR [#65](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/65) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+4. 💪 Opened PR [#21](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/21) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+5. 💪 Opened PR [#51](https://github.com/joshuasundance-swca/restgdf_api/pull/51) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
 <!--END_SECTION:activity-->
