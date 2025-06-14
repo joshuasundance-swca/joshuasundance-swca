@@ -195,7 +195,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    98.3k added, 52.7k removed
+                                    89.7k added, 49.1k removed
                                 </div>
                             </section>
                             <section>
@@ -2932,7 +2932,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/langchain-streamlit-demo</span>
+                            <span class="diff-handle">joshuasundance-swca/dataripper</span>
                         </div>
                     </section>
                     <section>
@@ -2979,8 +2979,8 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +6.10k</span>
-                                <span class="deleted"> -3.05k</span>
+                                <span class="added"> +3.42k</span>
+                                <span class="deleted"> -1.54k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3022,19 +3022,15 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,28.13036234902125)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,56.347771761765934)">
+                            <g class="tick" opacity="1" transform="translate(0,17.067073170731717)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,84.56518117451061)">
+                            <g class="tick" opacity="1" transform="translate(0,58.37804878048779)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,112.78259058725533)">
+                            <g class="tick" opacity="1" transform="translate(0,99.6890243902439)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">500</text>
                             </g>
@@ -3042,31 +3038,27 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,169.21740941274467)">
+                            <g class="tick" opacity="1" transform="translate(0,182.31097560975613)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−500</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,197.43481882548934)">
+                            <g class="tick" opacity="1" transform="translate(0,223.6219512195122)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,225.65222823823407)">
+                            <g class="tick" opacity="1" transform="translate(0,264.93292682926824)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,253.86963765097875)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
-                            </g>
                         </g>
-                        <path d="M39,140.5L51.968,140.5L64.935,140.5L77.903,140.5L90.871,140.5L103.839,140.5L116.806,140.5L129.774,140.5L142.742,140.5L181.645,140.5L207.581,140.5L220.548,140.5L259.452,140.5L285.387,140.5L311.323,140.5L337.258,140.5L350.226,140.5L363.194,140.5L376.161,140.5L389.129,140.5L441,140.5L441,134.8L389.129,138.694L376.161,140.049L363.194,140.387L350.226,138.976L337.258,140.161L311.323,138.243L285.387,140.161L259.452,140.161L220.548,135.252L207.581,140.387L181.645,139.653L142.742,140.387L129.774,139.766L116.806,140.387L103.839,139.428L90.871,63.184L77.903,46.818L64.935,5L51.968,139.315L39,138.581Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L51.968,140.5L64.935,140.5L77.903,140.5L90.871,140.5L103.839,140.5L116.806,140.5L129.774,140.5L142.742,140.5L181.645,140.5L207.581,140.5L220.548,140.5L259.452,140.5L285.387,140.5L311.323,140.5L337.258,140.5L350.226,140.5L363.194,140.5L376.161,140.5L389.129,140.5L441,140.5L441,140.613L389.129,142.249L376.161,140.839L363.194,140.613L350.226,141.967L337.258,140.839L311.323,141.911L285.387,140.839L259.452,140.839L220.548,145.241L207.581,140.613L181.645,141.177L142.742,140.613L129.774,141.177L116.806,140.556L103.839,141.572L90.871,148.062L77.903,144.733L64.935,149.699L51.968,141.685L39,142.024Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L51.968,140.5L64.935,140.5L77.903,140.5L90.871,140.5L103.839,140.5L116.806,140.5L142.742,140.5L181.645,140.5L207.581,140.5L220.548,140.5L259.452,140.5L272.419,140.5L285.387,140.5L311.323,140.5L337.258,140.5L350.226,140.5L363.194,140.5L376.161,140.5L389.129,140.5L441,140.5L441,132.155L389.129,137.856L376.161,139.839L363.194,140.335L350.226,138.269L337.258,140.004L311.323,137.195L285.387,140.004L272.419,91.753L259.452,140.004L220.548,136.121L207.581,140.335L181.645,140.335L142.742,140.335L116.806,140.335L103.839,139.178L90.871,29.291L77.903,5L64.935,60.191L51.968,139.095L39,138.021Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L51.968,140.5L64.935,140.5L77.903,140.5L90.871,140.5L103.839,140.5L116.806,140.5L142.742,140.5L181.645,140.5L207.581,140.5L220.548,140.5L259.452,140.5L272.419,140.5L285.387,140.5L311.323,140.5L337.258,140.5L350.226,140.5L363.194,140.5L376.161,140.5L389.129,140.5L441,140.5L441,140.665L389.129,143.061L376.161,140.996L363.194,140.665L350.226,142.648L337.258,140.996L311.323,142.566L285.387,140.996L272.419,142.07L259.452,140.996L220.548,144.631L207.581,140.665L181.645,140.665L142.742,140.665L116.806,140.583L103.839,141.822L90.871,150.002L77.903,145.292L64.935,144.796L51.968,141.905L39,142.4Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2025, 14:02:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jun 2025, 15:02:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
