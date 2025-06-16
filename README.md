@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/joshuasundance-swca/nonprofit-grader/pull/59) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-2. 💪 Opened PR [#58](https://github.com/joshuasundance-swca/nonprofit-grader/pull/58) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
-3. 💪 Opened PR [#59](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/59) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
-4. 💪 Opened PR [#11](https://github.com/joshuasundance-swca/dataframe_handlers/pull/11) in [joshuasundance-swca/dataframe_handlers](https://github.com/joshuasundance-swca/dataframe_handlers)
-5. 💪 Opened PR [#18](https://github.com/joshuasundance-swca/survey123-assistant/pull/18) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
+1. 💪 Opened PR [#68](https://github.com/joshuasundance-swca/langchain-research-assistant-docker/pull/68) in [joshuasundance-swca/langchain-research-assistant-docker](https://github.com/joshuasundance-swca/langchain-research-assistant-docker)
+2. 💪 Opened PR [#61](https://github.com/joshuasundance-swca/nonprofit-grader/pull/61) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+3. 💪 Opened PR [#24](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/24) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+4. 💪 Opened PR [#60](https://github.com/joshuasundance-swca/nonprofit-grader/pull/60) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
+5. 💪 Opened PR [#59](https://github.com/joshuasundance-swca/nonprofit-grader/pull/59) in [joshuasundance-swca/nonprofit-grader](https://github.com/joshuasundance-swca/nonprofit-grader)
 <!--END_SECTION:activity-->
