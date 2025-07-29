@@ -232,7 +232,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    52.3k added, 32.7k removed
+                                    69.5k added, 46.4k removed
                                 </div>
                             </section>
                             <section>
@@ -2943,19 +2943,19 @@ The following vulnerabilities are fixed with an upgrade:
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/dataframe_handlers</span>
+                            <span class="diff-handle">joshuasundance-swca/restgdf</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">joshuasundance-swca/geospatial-data-converter</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <span class="diff-handle">joshuasundance-swca/survey123-assistant</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">joshuasundance-swca/pyteam</span>
                         </div>
                     </section>
                     <section>
@@ -2978,8 +2978,20 @@ The following vulnerabilities are fixed with an upgrade:
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +3.27k</span>
-                                <span class="deleted"> -1.12k</span>
+                                <span class="added"> +15.1k</span>
+                                <span class="deleted"> -12.4k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +2.72k</span>
+                                <span class="deleted"> -1.67k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2992,18 +3004,6 @@ The following vulnerabilities are fixed with an upgrade:
                             <div class="diff-stats">
                                 <span class="added"> +2.92k</span>
                                 <span class="deleted">   -120</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +1.70k</span>
-                                <span class="deleted">   -635</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3041,19 +3041,19 @@ The following vulnerabilities are fixed with an upgrade:
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,25.974533106960948)">
+                            <g class="tick" opacity="1" transform="translate(0,14.06791569086652)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,54.73089983022072)">
+                            <g class="tick" opacity="1" transform="translate(0,45.800936768149896)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,83.48726655348048)">
+                            <g class="tick" opacity="1" transform="translate(0,77.53395784543325)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,112.24363327674025)">
+                            <g class="tick" opacity="1" transform="translate(0,109.26697892271663)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">500</text>
                             </g>
@@ -3061,31 +3061,31 @@ The following vulnerabilities are fixed with an upgrade:
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,169.7563667232598)">
+                            <g class="tick" opacity="1" transform="translate(0,172.73302107728338)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−500</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,198.51273344651952)">
+                            <g class="tick" opacity="1" transform="translate(0,204.46604215456674)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,227.26910016977925)">
+                            <g class="tick" opacity="1" transform="translate(0,236.1990632318501)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,256.02546689303904)">
+                            <g class="tick" opacity="1" transform="translate(0,267.9320843091335)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L43.963,140.5L48.926,140.5L53.889,140.5L58.852,140.5L63.815,140.5L108.481,140.5L128.333,140.5L192.852,140.5L441,140.5L441,82.987L192.852,134.691L128.333,106.567L108.481,139.925L63.815,140.212L58.852,64.526L53.889,19.263L48.926,5L43.963,140.04L39,139.695Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L43.963,140.5L48.926,140.5L53.889,140.5L58.852,140.5L63.815,140.5L108.481,140.5L128.333,140.5L192.852,140.5L441,140.5L441,140.845L192.852,140.615L128.333,141.593L108.481,140.903L63.815,140.788L58.852,145.676L53.889,142.455L48.926,147.287L43.963,140.96L39,140.903Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L43.963,140.5L48.926,140.5L53.889,140.5L58.852,140.5L63.815,140.5L68.778,140.5L73.741,140.5L78.704,140.5L83.667,140.5L88.63,140.5L93.593,140.5L98.556,140.5L103.519,140.5L108.481,140.5L113.444,140.5L123.37,140.5L128.333,140.5L133.296,140.5L138.259,140.5L148.185,140.5L153.148,140.5L158.111,140.5L163.074,140.5L168.037,140.5L173,140.5L177.963,140.5L182.926,140.5L187.889,140.5L192.852,140.5L197.815,140.5L202.778,140.5L207.741,140.5L212.704,140.5L217.667,140.5L222.63,140.5L227.593,140.5L232.556,140.5L326.852,140.5L331.815,140.5L336.778,140.5L341.741,140.5L356.63,140.5L361.593,140.5L366.556,140.5L371.519,140.5L381.444,140.5L386.407,140.5L391.37,140.5L396.333,140.5L401.296,140.5L411.222,140.5L416.185,140.5L421.148,140.5L426.111,140.5L431.074,140.5L436.037,140.5L441,140.5L441,76.907L436.037,140.31L431.074,140.373L426.111,140.31L421.148,140.373L416.185,140.246L411.222,140.373L401.296,140.31L396.333,140.246L391.37,140.373L386.407,140.373L381.444,140.373L371.519,140.373L366.556,140.373L361.593,140.373L356.63,140.373L341.741,140.373L336.778,140.373L331.815,140.31L326.852,140.119L232.556,140.31L227.593,140.31L222.63,140.373L217.667,140.373L212.704,140.373L207.741,140.31L202.778,140.373L197.815,140.373L192.852,133.963L187.889,140.183L182.926,140.373L177.963,140.31L173,138.342L168.037,139.992L163.074,140.183L158.111,138.659L153.148,139.929L148.185,140.31L138.259,140.373L133.296,140.119L128.333,102.928L123.37,139.865L113.444,140.373L108.481,137.009L103.519,140.183L98.556,140.373L93.593,140.373L88.63,140.31L83.667,140.183L78.704,140.373L73.741,140.373L68.778,140.183L63.815,139.167L58.852,55.709L53.889,5L48.926,48.982L43.963,139.485L39,138.596Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L43.963,140.5L48.926,140.5L53.889,140.5L58.852,140.5L63.815,140.5L68.778,140.5L73.741,140.5L78.704,140.5L83.667,140.5L88.63,140.5L93.593,140.5L98.556,140.5L103.519,140.5L108.481,140.5L113.444,140.5L123.37,140.5L128.333,140.5L133.296,140.5L138.259,140.5L148.185,140.5L153.148,140.5L158.111,140.5L163.074,140.5L168.037,140.5L173,140.5L177.963,140.5L182.926,140.5L187.889,140.5L192.852,140.5L197.815,140.5L202.778,140.5L207.741,140.5L212.704,140.5L217.667,140.5L222.63,140.5L227.593,140.5L232.556,140.5L326.852,140.5L331.815,140.5L336.778,140.5L341.741,140.5L356.63,140.5L361.593,140.5L366.556,140.5L371.519,140.5L381.444,140.5L386.407,140.5L391.37,140.5L396.333,140.5L401.296,140.5L411.222,140.5L416.185,140.5L421.148,140.5L426.111,140.5L431.074,140.5L436.037,140.5L441,140.5L441,141.008L436.037,140.69L431.074,140.627L426.111,140.69L421.148,140.627L416.185,140.754L411.222,140.627L401.296,140.69L396.333,140.754L391.37,140.627L386.407,140.627L381.444,140.627L371.519,140.627L366.556,140.627L361.593,140.627L356.63,140.627L341.741,140.627L336.778,140.627L331.815,140.69L326.852,140.881L232.556,140.69L227.593,140.69L222.63,140.627L217.667,140.627L212.704,140.627L207.741,140.69L202.778,140.627L197.815,140.627L192.852,140.754L187.889,140.817L182.926,140.627L177.963,140.69L173,142.594L168.037,140.881L163.074,140.817L158.111,142.277L153.148,141.071L148.185,140.69L138.259,140.627L133.296,140.881L128.333,141.833L123.37,141.135L113.444,140.627L108.481,143.8L103.519,140.817L98.556,140.627L93.593,140.627L88.63,140.69L83.667,140.817L78.704,140.627L73.741,140.627L68.778,140.754L63.815,141.833L58.852,147.164L53.889,143.991L48.926,148.37L43.963,141.515L39,141.96Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2025, 21:31:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2025, 22:46:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
