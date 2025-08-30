@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/69) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-2. 💪 Opened PR [#134](https://github.com/joshuasundance-swca/restgdf/pull/134) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-3. 💪 Opened PR [#67](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/67) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-4. 💪 Opened PR [#61](https://github.com/joshuasundance-swca/restgdf_api/pull/61) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-5. 💪 Opened PR [#26](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/26) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+1. ❗ Opened issue [#1096](https://github.com/widgetti/solara/issues/1096) in [widgetti/solara](https://github.com/widgetti/solara)
+2. 💪 Opened PR [#69](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/69) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+3. 💪 Opened PR [#134](https://github.com/joshuasundance-swca/restgdf/pull/134) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
+4. 💪 Opened PR [#67](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/67) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
+5. 💪 Opened PR [#61](https://github.com/joshuasundance-swca/restgdf_api/pull/61) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
 <!--END_SECTION:activity-->
