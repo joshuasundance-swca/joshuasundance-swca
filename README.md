@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1096](https://github.com/widgetti/solara/issues/1096) in [widgetti/solara](https://github.com/widgetti/solara)
-2. 💪 Opened PR [#69](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/69) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-3. 💪 Opened PR [#134](https://github.com/joshuasundance-swca/restgdf/pull/134) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-4. 💪 Opened PR [#67](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/67) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-5. 💪 Opened PR [#61](https://github.com/joshuasundance-swca/restgdf_api/pull/61) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+1. 🎉 Merged PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
+2. 💪 Opened PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
+3. 🗣 Commented on [#11](https://github.com/hustcc/mcp-mermaid/pull/11#issuecomment-3286928049) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
+4. ❗ Opened issue [#1096](https://github.com/widgetti/solara/issues/1096) in [widgetti/solara](https://github.com/widgetti/solara)
+5. 💪 Opened PR [#69](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/69) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
 <!--END_SECTION:activity-->
