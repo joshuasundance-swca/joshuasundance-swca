@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
-2. 💪 Opened PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
-3. 🗣 Commented on [#11](https://github.com/hustcc/mcp-mermaid/pull/11#issuecomment-3286928049) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
-4. ❗ Opened issue [#1096](https://github.com/widgetti/solara/issues/1096) in [widgetti/solara](https://github.com/widgetti/solara)
-5. 💪 Opened PR [#69](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/69) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
+1. 🗣 Commented on [#12](https://github.com/hustcc/mcp-mermaid/pull/12#issuecomment-3287610034) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
+2. 🗣 Commented on [#11](https://github.com/hustcc/mcp-mermaid/pull/11#issuecomment-3287609404) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
+3. ❌ Closed PR [#11](https://github.com/hustcc/mcp-mermaid/pull/11) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
+4. 🎉 Merged PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
+5. 💪 Opened PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
 <!--END_SECTION:activity-->
