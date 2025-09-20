@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/hustcc/mcp-mermaid/pull/12#issuecomment-3287610034) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
-2. 🗣 Commented on [#11](https://github.com/hustcc/mcp-mermaid/pull/11#issuecomment-3287609404) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
-3. ❌ Closed PR [#11](https://github.com/hustcc/mcp-mermaid/pull/11) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
-4. 🎉 Merged PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
-5. 💪 Opened PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
+1. 🗣 Commented on [#275](https://github.com/langchain-ai/langchain-mcp-adapters/issues/275#issuecomment-3314430349) in [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters)
+2. 🗣 Commented on [#12](https://github.com/hustcc/mcp-mermaid/pull/12#issuecomment-3287610034) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
+3. 🗣 Commented on [#11](https://github.com/hustcc/mcp-mermaid/pull/11#issuecomment-3287609404) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
+4. ❌ Closed PR [#11](https://github.com/hustcc/mcp-mermaid/pull/11) in [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
+5. 🎉 Merged PR [#2](https://github.com/joshuasundance-swca/mcp-mermaid/pull/2) in [joshuasundance-swca/mcp-mermaid](https://github.com/joshuasundance-swca/mcp-mermaid)
 <!--END_SECTION:activity-->
