@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/joshuasundance-swca/geospatial-data-converter/pull/68) in [joshuasundance-swca/geospatial-data-converter](https://github.com/joshuasundance-swca/geospatial-data-converter)
-2. 💪 Opened PR [#70](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker/pull/70) in [joshuasundance-swca/langchain-neo4j-advanced-rag-docker](https://github.com/joshuasundance-swca/langchain-neo4j-advanced-rag-docker)
-3. 💪 Opened PR [#135](https://github.com/joshuasundance-swca/restgdf/pull/135) in [joshuasundance-swca/restgdf](https://github.com/joshuasundance-swca/restgdf)
-4. 💪 Opened PR [#63](https://github.com/joshuasundance-swca/restgdf_api/pull/63) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-5. 💪 Opened PR [#27](https://github.com/joshuasundance-swca/arcgis-api-python-docker/pull/27) in [joshuasundance-swca/arcgis-api-python-docker](https://github.com/joshuasundance-swca/arcgis-api-python-docker)
+1. ❌ Closed PR [#62](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/62) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+2. ❌ Closed PR [#61](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/61) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+3. ❌ Closed PR [#60](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/60) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+4. ❌ Closed PR [#59](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/59) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+5. ❌ Closed PR [#58](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/58) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
 <!--END_SECTION:activity-->
