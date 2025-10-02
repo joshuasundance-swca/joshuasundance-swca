@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2694" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2774" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats{margin-left:4px;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats{margin-left:4px;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-weight:700;font-size:12px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.field.license.details{display:flex;justify-content:space-between}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 30 Sept 2025, 22:34:07
+                            On 30 Sept 2025, 22:40:04
                         </div>
                     </section>
                 </div>
@@ -38,16 +38,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            [copilot] fix potential sql injection vuln
+                            3.13
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1a057a07</span>
-                            <span class="code">Dockerfile</span>
+                            <span class="code">4dc360ba</span>
+                            <span class="code">README.md</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -12,4 +12,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">RUN pip install --user --no-cache-dir  --upgrade -r /home/appuser/requirements.txt<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">FROM base AS mcp<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">RUN pip install --user --no-cache-dir fastmcp markdownify<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">COPY ./requirements.mcp.txt /home/appuser/requirements.mcp.txt<br /></span><span class="token prefix inserted">+</span><span class="token line">RUN pip install --user --no-cache-dir --upgrade -r /home/appuser/requirements.mcp.txt</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># govgis_nov2023-slim-spatial-server<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&amp;logo=python&amp;logoColor=white)](https://www.python.org)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[![python](https://img.shields.io/badge/Python-3.13-3776AB.svg?style=flat&amp;logo=python&amp;logoColor=white)](https://www.python.org)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&amp;logoColor=white)](https://github.com/pre-commit/pre-commit)<br /></span><span class="token prefix unchanged">·</span><span class="token line">[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v1.json)](https://github.com/charliermarsh/ruff)</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -226,13 +226,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    330 MB used
+                                    331 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    92.2k added, 48.4k removed
+                                    61.2k added, 18.8k removed
                                 </div>
                             </section>
                             <section>
@@ -2932,12 +2932,6 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/ai_changelog</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">joshuasundance-swca/restgdf</span>
                         </div>
                         <div class="field">
@@ -2950,22 +2944,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">joshuasundance-swca/restgdf_api</span>
+                            <span class="diff-handle">joshuasundance-swca/dataripper</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">joshuasundance-swca/geospatial-data-converter</span>
                         </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +31.5k</span>
-                                <span class="deleted"> -29.8k</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -2997,8 +2985,20 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +3.12k</span>
-                                <span class="deleted"> -1.91k</span>
+                                <span class="added"> +3.42k</span>
+                                <span class="deleted"> -1.54k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +2.72k</span>
+                                <span class="deleted"> -1.67k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -3036,19 +3036,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,26.363790186125208)">
+                            <g class="tick" opacity="1" transform="translate(0,26.1208139041967)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,55.022842639593904)">
+                            <g class="tick" opacity="1" transform="translate(0,54.84061042814753)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,83.68189509306261)">
+                            <g class="tick" opacity="1" transform="translate(0,83.56040695209835)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,112.34094754653131)">
+                            <g class="tick" opacity="1" transform="translate(0,112.28020347604917)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">500</text>
                             </g>
@@ -3056,31 +3056,31 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,169.65905245346872)">
+                            <g class="tick" opacity="1" transform="translate(0,169.71979652395083)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−500</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,198.31810490693738)">
+                            <g class="tick" opacity="1" transform="translate(0,198.43959304790167)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,226.9771573604061)">
+                            <g class="tick" opacity="1" transform="translate(0,227.15938957185247)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,255.63620981387479)">
+                            <g class="tick" opacity="1" transform="translate(0,255.8791860958033)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L43.467,140.5L47.933,140.5L52.4,140.5L56.867,140.5L61.333,140.5L65.8,140.5L70.267,140.5L74.733,140.5L79.2,140.5L83.667,140.5L88.133,140.5L92.6,140.5L97.067,140.5L101.533,140.5L106,140.5L114.933,140.5L119.4,140.5L123.867,140.5L128.333,140.5L132.8,140.5L137.267,140.5L141.733,140.5L146.2,140.5L150.667,140.5L155.133,140.5L159.6,140.5L164.067,140.5L168.533,140.5L173,140.5L177.467,140.5L181.933,140.5L186.4,140.5L190.867,140.5L195.333,140.5L199.8,140.5L204.267,140.5L208.733,140.5L213.2,140.5L298.067,140.5L302.533,140.5L307,140.5L311.467,140.5L324.867,140.5L329.333,140.5L333.8,140.5L338.267,140.5L347.2,140.5L351.667,140.5L356.133,140.5L360.6,140.5L365.067,140.5L374,140.5L378.467,140.5L382.933,140.5L387.4,140.5L391.867,140.5L396.333,140.5L400.8,140.5L405.267,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.385L436.533,140.271L432.067,140.328L427.6,140.385L423.133,140.385L418.667,140.385L414.2,140.385L409.733,140.271L405.267,140.328L400.8,50.453L396.333,140.328L391.867,140.385L387.4,140.328L382.933,140.385L378.467,140.271L374,140.385L365.067,140.328L360.6,140.271L356.133,140.385L351.667,140.385L347.2,140.385L338.267,140.385L333.8,140.385L329.333,140.385L324.867,140.385L311.467,140.385L307,140.385L302.533,140.328L298.067,140.156L213.2,140.328L208.733,140.328L204.267,140.385L199.8,140.385L195.333,140.385L190.867,140.328L186.4,140.385L181.933,140.385L177.467,134.596L173,140.213L168.533,140.385L164.067,140.328L159.6,138.551L155.133,140.041L150.667,140.213L146.2,138.838L141.733,139.984L137.267,140.328L132.8,138.207L128.333,140.385L123.867,140.156L119.4,106.568L114.933,139.927L106,140.385L101.533,137.29L97.067,140.213L92.6,140.385L88.133,140.385L83.667,140.328L79.2,140.213L74.733,140.385L70.267,140.385L65.8,140.213L61.333,139.239L56.867,64.038L52.4,18.126L47.933,5L43.467,139.296L39,138.78Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L43.467,140.5L47.933,140.5L52.4,140.5L56.867,140.5L61.333,140.5L65.8,140.5L70.267,140.5L74.733,140.5L79.2,140.5L83.667,140.5L88.133,140.5L92.6,140.5L97.067,140.5L101.533,140.5L106,140.5L114.933,140.5L119.4,140.5L123.867,140.5L128.333,140.5L132.8,140.5L137.267,140.5L141.733,140.5L146.2,140.5L150.667,140.5L155.133,140.5L159.6,140.5L164.067,140.5L168.533,140.5L173,140.5L177.467,140.5L181.933,140.5L186.4,140.5L190.867,140.5L195.333,140.5L199.8,140.5L204.267,140.5L208.733,140.5L213.2,140.5L298.067,140.5L302.533,140.5L307,140.5L311.467,140.5L324.867,140.5L329.333,140.5L333.8,140.5L338.267,140.5L347.2,140.5L351.667,140.5L356.133,140.5L360.6,140.5L365.067,140.5L374,140.5L378.467,140.5L382.933,140.5L387.4,140.5L391.867,140.5L396.333,140.5L400.8,140.5L405.267,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.615L436.533,140.729L432.067,140.672L427.6,140.615L423.133,140.615L418.667,140.615L414.2,140.615L409.733,140.729L405.267,140.672L400.8,154.944L396.333,140.672L391.867,140.615L387.4,140.672L382.933,140.615L378.467,140.729L374,140.615L365.067,140.672L360.6,140.729L356.133,140.615L351.667,140.615L347.2,140.615L338.267,140.615L333.8,140.615L329.333,140.615L324.867,140.615L311.467,140.615L307,140.615L302.533,140.672L298.067,140.844L213.2,140.672L208.733,140.672L204.267,140.615L199.8,140.615L195.333,140.615L190.867,140.672L186.4,140.615L181.933,140.615L177.467,140.729L173,140.787L168.533,140.615L164.067,140.672L159.6,142.391L155.133,140.844L150.667,140.787L146.2,142.105L141.733,141.016L137.267,140.672L132.8,141.933L128.333,140.615L123.867,140.844L119.4,141.704L114.933,141.073L106,140.615L101.533,143.538L97.067,140.787L92.6,140.615L88.133,140.615L83.667,140.672L79.2,140.787L74.733,140.615L70.267,140.615L65.8,140.729L61.333,141.761L56.867,146.404L52.4,143.652L47.933,147.722L43.467,141.704L39,141.818Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L43.467,140.5L47.933,140.5L52.4,140.5L56.867,140.5L61.333,140.5L65.8,140.5L70.267,140.5L74.733,140.5L79.2,140.5L83.667,140.5L88.133,140.5L92.6,140.5L97.067,140.5L101.533,140.5L106,140.5L114.933,140.5L119.4,140.5L123.867,140.5L128.333,140.5L132.8,140.5L137.267,140.5L141.733,140.5L146.2,140.5L150.667,140.5L155.133,140.5L159.6,140.5L164.067,140.5L168.533,140.5L173,140.5L177.467,140.5L181.933,140.5L186.4,140.5L190.867,140.5L195.333,140.5L199.8,140.5L204.267,140.5L208.733,140.5L213.2,140.5L298.067,140.5L302.533,140.5L307,140.5L311.467,140.5L324.867,140.5L329.333,140.5L333.8,140.5L338.267,140.5L347.2,140.5L351.667,140.5L356.133,140.5L360.6,140.5L365.067,140.5L374,140.5L378.467,140.5L382.933,140.5L387.4,140.5L391.867,140.5L396.333,140.5L400.8,140.5L405.267,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.385L436.533,140.27L432.067,140.328L427.6,140.385L423.133,140.385L418.667,140.385L414.2,140.385L409.733,140.27L405.267,140.328L400.8,50.262L396.333,140.328L391.867,140.385L387.4,140.328L382.933,140.385L378.467,140.27L374,140.385L365.067,140.328L360.6,140.27L356.133,140.385L351.667,140.385L347.2,140.385L338.267,140.385L333.8,140.385L329.333,140.385L324.867,140.385L311.467,140.385L307,140.385L302.533,140.328L298.067,140.155L213.2,140.328L208.733,140.328L204.267,140.385L199.8,140.385L195.333,140.385L190.867,140.328L186.4,140.385L181.933,140.385L177.467,134.584L173,140.213L168.533,140.385L164.067,140.328L159.6,138.547L155.133,140.04L150.667,140.213L146.2,138.834L141.733,139.983L137.267,140.328L132.8,138.202L128.333,140.385L123.867,140.155L119.4,106.496L114.933,139.926L106,140.385L101.533,137.628L97.067,140.213L92.6,140.385L88.133,139.638L83.667,140.328L79.2,140.213L74.733,140.385L70.267,139.638L65.8,140.213L61.333,139.581L56.867,64.335L52.4,17.924L47.933,5L43.467,139.753L39,139.351Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L43.467,140.5L47.933,140.5L52.4,140.5L56.867,140.5L61.333,140.5L65.8,140.5L70.267,140.5L74.733,140.5L79.2,140.5L83.667,140.5L88.133,140.5L92.6,140.5L97.067,140.5L101.533,140.5L106,140.5L114.933,140.5L119.4,140.5L123.867,140.5L128.333,140.5L132.8,140.5L137.267,140.5L141.733,140.5L146.2,140.5L150.667,140.5L155.133,140.5L159.6,140.5L164.067,140.5L168.533,140.5L173,140.5L177.467,140.5L181.933,140.5L186.4,140.5L190.867,140.5L195.333,140.5L199.8,140.5L204.267,140.5L208.733,140.5L213.2,140.5L298.067,140.5L302.533,140.5L307,140.5L311.467,140.5L324.867,140.5L329.333,140.5L333.8,140.5L338.267,140.5L347.2,140.5L351.667,140.5L356.133,140.5L360.6,140.5L365.067,140.5L374,140.5L378.467,140.5L382.933,140.5L387.4,140.5L391.867,140.5L396.333,140.5L400.8,140.5L405.267,140.5L409.733,140.5L414.2,140.5L418.667,140.5L423.133,140.5L427.6,140.5L432.067,140.5L436.533,140.5L441,140.5L441,140.615L436.533,140.73L432.067,140.672L427.6,140.615L423.133,140.615L418.667,140.615L414.2,140.615L409.733,140.73L405.267,140.672L400.8,154.975L396.333,140.672L391.867,140.615L387.4,140.672L382.933,140.615L378.467,140.73L374,140.615L365.067,140.672L360.6,140.73L356.133,140.615L351.667,140.615L347.2,140.615L338.267,140.615L333.8,140.615L329.333,140.615L324.867,140.615L311.467,140.615L307,140.615L302.533,140.672L298.067,140.845L213.2,140.672L208.733,140.672L204.267,140.615L199.8,140.615L195.333,140.615L190.867,140.672L186.4,140.615L181.933,140.615L177.467,140.73L173,140.787L168.533,140.615L164.067,140.672L159.6,142.396L155.133,140.845L150.667,140.787L146.2,142.108L141.733,141.017L137.267,140.672L132.8,141.936L128.333,140.615L123.867,140.845L119.4,141.706L114.933,141.074L106,140.615L101.533,143.372L97.067,140.787L92.6,140.615L88.133,141.189L83.667,140.672L79.2,140.787L74.733,140.615L70.267,141.304L65.8,140.73L61.333,141.419L56.867,145.957L52.4,143.602L47.933,147.45L43.467,141.247L39,141.649Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2025, 05:03:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 06:02:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
