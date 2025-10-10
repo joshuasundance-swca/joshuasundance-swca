@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1097](https://github.com/widgetti/solara/issues/1097#issuecomment-3374956339) in [widgetti/solara](https://github.com/widgetti/solara)
-2. 💪 Opened PR [#64](https://github.com/joshuasundance-swca/restgdf_api/pull/64) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
-3. 💪 Opened PR [#23](https://github.com/joshuasundance-swca/survey123-assistant/pull/23) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
-4. ❌ Closed PR [#62](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/62) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
-5. ❌ Closed PR [#61](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server/pull/61) in [joshuasundance-swca/govgis_nov2023-slim-spatial-server](https://github.com/joshuasundance-swca/govgis_nov2023-slim-spatial-server)
+1. 💪 Opened PR [#65](https://github.com/joshuasundance-swca/restgdf_api/pull/65) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+2. 💪 Opened PR [#24](https://github.com/joshuasundance-swca/survey123-assistant/pull/24) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
+3. 🗣 Commented on [#1097](https://github.com/widgetti/solara/issues/1097#issuecomment-3374956339) in [widgetti/solara](https://github.com/widgetti/solara)
+4. 💪 Opened PR [#64](https://github.com/joshuasundance-swca/restgdf_api/pull/64) in [joshuasundance-swca/restgdf_api](https://github.com/joshuasundance-swca/restgdf_api)
+5. 💪 Opened PR [#23](https://github.com/joshuasundance-swca/survey123-assistant/pull/23) in [joshuasundance-swca/survey123-assistant](https://github.com/joshuasundance-swca/survey123-assistant)
 <!--END_SECTION:activity-->
