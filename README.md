@@ -56,9 +56,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#145](https://github.com/QwenLM/Qwen3-TTS/issues/145#issuecomment-3831996345) in [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
-2. 🗣 Commented on [#18](https://github.com/FranckyB/Voice-Clone-Studio/issues/18#issuecomment-3826179856) in [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio)
-3. 🗣 Commented on [#18](https://github.com/FranckyB/Voice-Clone-Studio/issues/18#issuecomment-3821168225) in [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio)
-4. ❗ Opened issue [#18](https://github.com/FranckyB/Voice-Clone-Studio/issues/18) in [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio)
-5. 🗣 Commented on [#1](https://github.com/UXVirtual/Voice-Clone-Studio/pull/1#issuecomment-3814917312) in [UXVirtual/Voice-Clone-Studio](https://github.com/UXVirtual/Voice-Clone-Studio)
+1. 🗣 Commented on [#39](https://github.com/QwenLM/Qwen3-ASR/issues/39#issuecomment-3832180694) in [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
+2. 🗣 Commented on [#156](https://github.com/QwenLM/Qwen3-TTS/issues/156#issuecomment-3832180673) in [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+3. ❗ Opened issue [#156](https://github.com/QwenLM/Qwen3-TTS/issues/156) in [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+4. ❗ Opened issue [#39](https://github.com/QwenLM/Qwen3-ASR/issues/39) in [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
+5. 🗣 Commented on [#145](https://github.com/QwenLM/Qwen3-TTS/issues/145#issuecomment-3831996345) in [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
 <!--END_SECTION:activity-->
